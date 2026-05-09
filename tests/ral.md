@@ -176,7 +176,7 @@ e) najväčšie nezáporné oneskorenie spomedzi všetkých úloh v rozvrhu aleb
 ✅ b) priemer
 ✅ c) maximum
 d) súčin
-✅ e) minimum
+e) minimum
 
 ---
 

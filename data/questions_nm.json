@@ -74,8 +74,9 @@
       {"id": "c", "text": "existuje viac typov náhodnej premennej, pre ktorú to môže platiť"},
       {"id": "d", "text": "neexistuje taká náhodná premenná"}
     ],
-    "correctAnswers": ["c"],
-    "topic": "Teória pravdepodobnosti"
+    "correctAnswers": ["d"],
+    "topic": "Teória pravdepodobnosti",
+    "explanation": "Stredná hodnota E(X) je vždy jedno číslo, nie dvojprvková množina. Formulácia otázky je zrejme zmätená s módou M₀(X)."
   },
   {
     "id": 7,

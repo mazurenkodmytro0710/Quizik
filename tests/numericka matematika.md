@@ -53,8 +53,10 @@ d) neexistuje taká náhodná premenná.
 
 a) náhodná premenná X sa určite riadi binomickým rozdelením pravdepodobnosti,
 b) náhodná premenná X sa určite riadi iným ako binomickým rozdelením pravdepodobnosti,
-✅ c) existuje viac typov náhodnej premennej, pre ktorú to môže platiť,
-d) neexistuje taká náhodná premenná.
+c) existuje viac typov náhodnej premennej, pre ktorú to môže platiť,
+✅ d) neexistuje taká náhodná premenná.
+
+*(Stredná hodnota E(X) je skalár. Množina {2; 3} dáva zmysel skôr pri móde M₀(X), nie pri strednej hodnote.)*
 
 ---
 

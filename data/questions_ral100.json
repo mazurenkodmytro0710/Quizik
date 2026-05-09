@@ -81,9 +81,9 @@
       {"id": "d", "text": "súčin"},
       {"id": "e", "text": "minimum"}
     ],
-    "correctAnswers": ["a", "b", "c", "e"],
+    "correctAnswers": ["a", "b", "c"],
     "topic": "Rozvrhovanie",
-    "explanation": "Používajú sa súčet, priemer, maximum a podľa zadania aj minimum nad časovými charakteristikami úloh."
+    "explanation": "V prednáške sú medzi najčastejšie používanými kriteriálnymi funkciami uvedené súčet, maximum a priemerná hodnota."
   },
   {
     "id": 7,
