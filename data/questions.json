@@ -1,0 +1,761 @@
+[
+  {
+    "id": 1,
+    "text": "Charakterizujte učenie pomocou vedrovej brigády (bucket brigade):",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "rieši sa sekvenčná úloha" },
+      { "id": "b", "text": "prírastky odmien predstavujú frakciu – časť odmeny nasledujúceho stavu" },
+      { "id": "c", "text": "rieši sa klasifikačná úloha" },
+      { "id": "d", "text": "stratégia založená na minimálnej entrópii" },
+      { "id": "e", "text": "ide o učenie odmenou a trestom" }
+    ],
+    "correctAnswers": ["a", "b", "e"],
+    "topic": "Reinforcement Learning"
+  },
+  {
+    "id": 2,
+    "text": "Na generovanie pravdepodobnostného popisu sa používa:",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "Naivný Bayesov klasifikátor" },
+      { "id": "b", "text": "Bayesov teorém" },
+      { "id": "c", "text": "COBWEB" }
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Bayesian Learning"
+  },
+  {
+    "id": 3,
+    "text": "Metódy zloženej klasifikácie má zmysel používať iba vtedy, keď pracujeme so silnými klasifikátormi.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["false"],
+    "topic": "Ensemble Methods"
+  },
+  {
+    "id": 4,
+    "text": "Hierarchické zhlukovanie má nasledovné podtypy:",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "aglomeratívne zhlukovanie" },
+      { "id": "b", "text": "užitočné zhlukovanie" },
+      { "id": "c", "text": "divízne zhlukovanie" },
+      { "id": "d", "text": "paralelné zhlukovanie" }
+    ],
+    "correctAnswers": ["a", "c"],
+    "topic": "Clustering"
+  },
+  {
+    "id": 5,
+    "text": "Akým spôsobom sú určované hodnoty atribútov etalónu?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "nájdením extremálnych hodnôt atribútov" },
+      { "id": "b", "text": "nájdením maximálnych hodnôt atribútov" },
+      { "id": "c", "text": "metódou spriemerňovania príkladov" },
+      { "id": "d", "text": "nájdením najfrekventovanejších hodnôt atribútov" }
+    ],
+    "correctAnswers": ["c", "d"],
+    "topic": "Prototype Learning"
+  },
+  {
+    "id": 6,
+    "text": "Ktoré z nasledovných tvrdení, týkajúcich sa reprezentácie výsledkov zhlukovania sú pravdivé?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "Objekt môže byť zaradený do každého zhluku s inou pravdepodobnosťou." },
+      { "id": "b", "text": "Výsledné zhluky musia byť disjunktné." },
+      { "id": "c", "text": "Objekt nesmie byť zaradený do viacerých prekrývajúcich sa zhlukov." },
+      { "id": "d", "text": "Objekt môže byť zaradený do každého zhluku na jednej ceste v hierarchii zhlukov." }
+    ],
+    "correctAnswers": ["a", "d"],
+    "topic": "Clustering"
+  },
+  {
+    "id": 7,
+    "text": "Aký vplyv má predikcia kategórie neoznačkovaných trénovacích príkladov na presnosť klasifikácie?",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "zvyšuje ju" },
+      { "id": "b", "text": "nemení ju" },
+      { "id": "c", "text": "znižuje ju" }
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Semi-Supervised Learning"
+  },
+  {
+    "id": 8,
+    "text": "Výsledky ktorých algoritmov je možné orezávať a akými mechanizmami?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "rozhodovacie stromy pesimistickým orezávaním" },
+      { "id": "b", "text": "rozhodovacie zoznamy pesimistickou chybou" },
+      { "id": "c", "text": "rozhodovacie zoznamy redukciou chyby" },
+      { "id": "d", "text": "rozhodovacie stromy redukciou chyby" }
+    ],
+    "correctAnswers": ["a", "d"],
+    "topic": "Decision Trees"
+  },
+  {
+    "id": 9,
+    "text": "Definujte pojem \"rozhodovací strom\":",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "acyklický graf, kde medziľahlý uzol reprezentuje testovací atribút" },
+      { "id": "b", "text": "cyklický graf, kde listový uzol reprezentuje triedu" },
+      { "id": "c", "text": "cyklický graf, kde koreňový uzol reprezentuje triedu" },
+      { "id": "d", "text": "acyklický graf, kde listový uzol reprezentuje testovací atribút" }
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Decision Trees"
+  },
+  {
+    "id": 10,
+    "text": "Tabuľka kritérií reprezentovaná pojmom \"1 of 3\" odpovedá rovine v trojrozmernom priestore.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Threshold Units"
+  },
+  {
+    "id": 11,
+    "text": "Chyba hypotézy je pravdepodobnosť, že príklad nebude patriť do oblasti kde naša hypotéza a presný popis pojmu sa zhodú.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Concept Learning"
+  },
+  {
+    "id": 12,
+    "text": "Rozhodovacie stromy používajú reprezentáciu naučeného pojmu vo forme:",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "extenzionálnej definície" },
+      { "id": "b", "text": "intenzionálnej definície" }
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Decision Trees"
+  },
+  {
+    "id": 13,
+    "text": "V čom spočíva riziko prílišného zovšeobecnenia?",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "v nepokrytí všetkých pozitívnych príkladov" },
+      { "id": "b", "text": "v pokrytí niektorých negatívnych príkladov" }
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Generalization"
+  },
+  {
+    "id": 14,
+    "text": "Horolezecký princíp je špeciálnym prípadom princípu redukcie počtu kandidátov pre BS=10.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["false"],
+    "explanation": "Pri BS = 1 je to pravda (nie BS = 10)",
+    "topic": "Search Strategies"
+  },
+  {
+    "id": 15,
+    "text": "Lenivé učenie je možné realizovať:",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "algoritmom k-means" },
+      { "id": "b", "text": "algoritmom kNN – k najbližších susedov" }
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Lazy Learning"
+  },
+  {
+    "id": 16,
+    "text": "Algoritmus AQ11 charakterizujú nasledovné tvrdenia:",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "je neinkrementálny" },
+      { "id": "b", "text": "používa metódu \"rozdeľuj a panuj\"" },
+      { "id": "c", "text": "pracuje so selektorom" },
+      { "id": "d", "text": "je inkrementálny" },
+      { "id": "e", "text": "používa pojem obálka namiesto oblasť" },
+      { "id": "f", "text": "najznámejší reprezentant je AQ1" }
+    ],
+    "correctAnswers": ["a", "b", "c", "e"],
+    "topic": "AQ Algorithm"
+  },
+  {
+    "id": 17,
+    "text": "Vymenujte možné reprezentácie atribútov v trénovacej tabuľke na vstupe metódy strojového učenia.",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "ordinárna" },
+      { "id": "b", "text": "nominálna" },
+      { "id": "c", "text": "hierarchická" },
+      { "id": "d", "text": "binárna" },
+      { "id": "e", "text": "numerická" }
+    ],
+    "correctAnswers": ["a", "b", "c", "d", "e"],
+    "topic": "Attribute Representations"
+  },
+  {
+    "id": 18,
+    "text": "Ktoré z nasledovných reprezentácií priestoru hypotéz používajú algoritmy generujúce logické konjunkcie pri hľadaní riešenia?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "priestor pojmov" },
+      { "id": "b", "text": "príznakový priestor" },
+      { "id": "c", "text": "hypotetický priestor" }
+    ],
+    "correctAnswers": ["a", "b"],
+    "topic": "Hypothesis Space"
+  },
+  {
+    "id": 19,
+    "text": "Tabuľka kritérií reprezentovaná pojmom \"2 of 3\" odpovedá úsečke v trojrozmernom priestore.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Threshold Units"
+  },
+  {
+    "id": 20,
+    "text": "Algoritmus CN2 charakterizujú nasledovné tvrdenia:",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "nemôže pracovať s viacerými triedami súčasne" },
+      { "id": "b", "text": "pri výbere popisu vyčísľuje signifikanciu" },
+      { "id": "c", "text": "postupuje od špecifického ku všeobecnému" },
+      { "id": "d", "text": "je inkrementálny" },
+      { "id": "e", "text": "generuje rozhodovací zoznam" },
+      { "id": "f", "text": "po každej iterácii odstráni pokryté príklady z TM" },
+      { "id": "g", "text": "v každej iterácii vytvorí jedno pravidlo – položku zoznamu" }
+    ],
+    "correctAnswers": ["b", "e", "f", "g"],
+    "topic": "CN2 Algorithm"
+  },
+  {
+    "id": 21,
+    "text": "Metóda Bagging je charakteristická:",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "výsledok klasifikácie je určený najsilnejším hlasom" },
+      { "id": "b", "text": "delením TM na rovnako veľké výbery z TM" },
+      { "id": "c", "text": "výsledok klasifikácie je určený hlasovaním silných klasifikátorov" },
+      { "id": "d", "text": "výsledok klasifikácie je určený hlasovaním slabých klasifikátorov" },
+      { "id": "e", "text": "nad každým výberom sa trénuje partikulárny klasifikátor" }
+    ],
+    "correctAnswers": ["d", "e"],
+    "topic": "Ensemble Methods"
+  },
+  {
+    "id": 22,
+    "text": "Algoritmus AQ11 môže vykoľajiť redundantnosť príkladov.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["false"],
+    "topic": "AQ Algorithm"
+  },
+  {
+    "id": 23,
+    "text": "Algoritmus učenia odmenou a trestom sa nemôže premiestniť do najžiadanejšieho stavu z akéhokoľvek miesta v stavovom priestore.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["false"],
+    "topic": "Reinforcement Learning"
+  },
+  {
+    "id": 24,
+    "text": "Konjunkcie dvojhodnotových literálov (atribútov) sú PAC naučiteľné.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["true"],
+    "topic": "PAC Learning"
+  },
+  {
+    "id": 25,
+    "text": "Tabuľka kritérií reprezentovaná pojmom \"3 of 3\" odpovedá bodu v trojrozmernom priestore.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Threshold Units"
+  },
+  {
+    "id": 26,
+    "text": "Redukcia príznakového priestoru sa môže realizovať pomocou:",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "entrópie" },
+      { "id": "b", "text": "váhovacích techník" },
+      { "id": "c", "text": "informačného zisku" },
+      { "id": "d", "text": "slovníka stop slov" }
+    ],
+    "correctAnswers": ["b", "c"],
+    "topic": "Feature Selection"
+  },
+  {
+    "id": 27,
+    "text": "V čom sa líši heuristické prehľadávanie priestoru pojmov od úplného?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "prehľadáva iba BS počet najlepšie skórovaných pojmov" },
+      { "id": "b", "text": "nemusí nájsť všetky riešenia" },
+      { "id": "c", "text": "nemusí nájsť optimálne riešenie" },
+      { "id": "d", "text": "používa skórovaciu funkciu" }
+    ],
+    "correctAnswers": ["a", "b", "c", "d"],
+    "topic": "Search Strategies"
+  },
+  {
+    "id": 28,
+    "text": "Lenivé učenie je založené na:",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "intenzionálnej reprezentácii" },
+      { "id": "b", "text": "extenzionálnej reprezentácii" }
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Lazy Learning"
+  },
+  {
+    "id": 29,
+    "text": "Zhlukovanie je vhodné na riešenie úloh typu:",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "klasifikačného" },
+      { "id": "b", "text": "sekvenčného" }
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Clustering"
+  },
+  {
+    "id": 30,
+    "text": "Aké kritérium používa algoritmus ID3 na výber testovacej podmienky?",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "kritérium maximálnej entrópie" },
+      { "id": "b", "text": "kritérium minimálnej entrópie" }
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Decision Trees"
+  },
+  {
+    "id": 31,
+    "text": "Rozhodovací zoznam odpovedá systému pravidiel, ktoré sú:",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "neusporiadané" },
+      { "id": "b", "text": "usporiadané" }
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Rule Learning"
+  },
+  {
+    "id": 32,
+    "text": "Generovanie pravdepodobnostného pojmu je založené na:",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "Bayesovom teoréme" },
+      { "id": "b", "text": "na výpočte užitočnosti" }
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Bayesian Learning"
+  },
+  {
+    "id": 33,
+    "text": "Ktoré dva zo základných princípov strojového učenia sú obsiahnuté v heuristickom prehľadávaní?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "redukcia počtu kandidátov (beam size)" },
+      { "id": "b", "text": "delenie priestoru príkladov" },
+      { "id": "c", "text": "horolezecký princíp" },
+      { "id": "d", "text": "skórovacia funkcia" }
+    ],
+    "correctAnswers": ["a", "d"],
+    "topic": "Search Strategies"
+  },
+  {
+    "id": 34,
+    "text": "Majme dané pozitívne príklady [1,2],[1,3] a negatívne príklady [2,1],[3,1]. Je tento priestor lineárne separabilný LTU v tvare: A1 - A2 = 0?",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Linear Threshold Units"
+  },
+  {
+    "id": 35,
+    "text": "Pridanie podmienky do konjunkcie je operátor zovšeobecnenia.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["false"],
+    "topic": "Concept Learning"
+  },
+  {
+    "id": 36,
+    "text": "Ktoré sú základné charakteristiky algoritmu NCD?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "generuje logické konjunkcie" },
+      { "id": "b", "text": "je neinkrementálny" },
+      { "id": "c", "text": "používa lúčové prehľadávanie" },
+      { "id": "d", "text": "generuje etalóny" },
+      { "id": "e", "text": "je riadený chybou" },
+      { "id": "f", "text": "používa metódu spriemerňovania príkladov" }
+    ],
+    "correctAnswers": ["b", "d", "e", "f"],
+    "topic": "Prototype Learning"
+  },
+  {
+    "id": 37,
+    "text": "Zhlukovanie predstavuje učenie:",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "kontrolovaného typu" },
+      { "id": "b", "text": "nekontrolovaného typu" }
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Clustering"
+  },
+  {
+    "id": 38,
+    "text": "Ktoré sú základné charakteristiky algoritmu ICD?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "je inkrementálny" },
+      { "id": "b", "text": "používa vzdialenostný limit" },
+      { "id": "c", "text": "priveľký vzdialenostný limit spôsobí rozdrobenie na priveľa etalónov" },
+      { "id": "d", "text": "nie je riadený chybou klasifikácie" }
+    ],
+    "correctAnswers": ["a", "b"],
+    "topic": "Prototype Learning"
+  },
+  {
+    "id": 39,
+    "text": "Aké druhy preferencií (biasu) učiaceho algoritmu poznáte?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "prehľadávací" },
+      { "id": "b", "text": "bias-ovský" },
+      { "id": "c", "text": "preferenčný" },
+      { "id": "d", "text": "reprezentačný" }
+    ],
+    "correctAnswers": ["a", "d"],
+    "topic": "Bias in ML"
+  },
+  {
+    "id": 40,
+    "text": "Algoritmy strojového učenia delíme na:",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "klasifikačné a sekvenčné" },
+      { "id": "b", "text": "online a offline" },
+      { "id": "c", "text": "inkrementálne a neinkrementálne" },
+      { "id": "d", "text": "induktívne a deduktívne" },
+      { "id": "e", "text": "kontrolované a nekontrolované" }
+    ],
+    "correctAnswers": ["c", "d", "e"],
+    "topic": "ML Taxonomy"
+  },
+  {
+    "id": 41,
+    "text": "Ukončovacie kritérium používané algoritmom ID3 je nasledovné:",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "listové uzly obsahujú iba príklady jednej triedy" },
+      { "id": "b", "text": "listové príklady obsahujú príklady všetkých tried" }
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Decision Trees"
+  },
+  {
+    "id": 42,
+    "text": "Tabuľka kritérií reprezentovaná pojmom \"3 of 3\" odpovedá rovine v trojrozmernom priestore.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["false"],
+    "topic": "Threshold Units"
+  },
+  {
+    "id": 43,
+    "text": "Algoritmus NSC charakterizujú nasledovné tvrdenia:",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "používa prístup rozdeľuj a panuj" },
+      { "id": "b", "text": "generuje disjunktívno normálnu formu" },
+      { "id": "c", "text": "je neinkrementálny" },
+      { "id": "d", "text": "generuje logické konjunkcie" },
+      { "id": "e", "text": "je inkrementálny" }
+    ],
+    "correctAnswers": ["a", "b", "c"],
+    "topic": "NSC Algorithm"
+  },
+  {
+    "id": 44,
+    "text": "Aký je možný prístup k spracovaniu spojitých atribútov?",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "normovaním hodnôt atribútu" },
+      { "id": "b", "text": "spriemerňovaním hodnôt atribútu" },
+      { "id": "c", "text": "prahovaním hodnôt atribútu" }
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Attribute Processing"
+  },
+  {
+    "id": 45,
+    "text": "V čom spočíva riziko prílišného zovšeobecnenia?",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "v pokrytí niektorých negatívnych príkladov" },
+      { "id": "b", "text": "v nepokrytí všetkých pozitívnych príkladov" }
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Generalization"
+  },
+  {
+    "id": 46,
+    "text": "Nahradenie konštanty premennou je operátor zovšeobecnenia.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Concept Learning"
+  },
+  {
+    "id": 47,
+    "text": "Tabuľka kritérií reprezentovaná pojmom \"1 of 3\" odpovedá úsečke v trojrozmernom priestore.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["false"],
+    "topic": "Threshold Units"
+  },
+  {
+    "id": 48,
+    "text": "Entrópia priestoru príkladov, ktorý obsahuje rovnaký počet príkladov oboch tried je rovná hodnote jedna.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Information Theory"
+  },
+  {
+    "id": 49,
+    "text": "Ktoré z nasledovných tvrdení sú pravdivé?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "Etalón je typický reprezentant pozitívnych príkladov." },
+      { "id": "b", "text": "Generovanie etalónov reprezentuje nekontrolované učenie." },
+      { "id": "c", "text": "Jednu triedu je možné reprezentovať iba jedným etalónom." },
+      { "id": "d", "text": "Etalón je sada párov: atribút – hodnota." }
+    ],
+    "correctAnswers": ["a", "d"],
+    "topic": "Prototype Learning"
+  },
+  {
+    "id": 50,
+    "text": "Ktoré z nasledovných intenzionálnych reprezentácií sú výsledkom učenia s prvkami kvantitatívneho usudzovania?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "rozhodovacie stromy" },
+      { "id": "b", "text": "pravdepodobnostný pojem" },
+      { "id": "c", "text": "prahové pojmy" },
+      { "id": "d", "text": "etalóny" },
+      { "id": "e", "text": "logické konjunkcie" }
+    ],
+    "correctAnswers": ["b", "c", "d"],
+    "topic": "Quantitative Reasoning"
+  },
+  {
+    "id": 51,
+    "text": "Aký tvar môže mať hranica oblasti pri sférickej prahovej jednotke?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "kružnica" },
+      { "id": "b", "text": "elipsa" },
+      { "id": "c", "text": "štvorec" },
+      { "id": "d", "text": "obdĺžnik" }
+    ],
+    "correctAnswers": ["a", "b"],
+    "topic": "Neural Units"
+  },
+  {
+    "id": 52,
+    "text": "Neusporiadané pravidlá sú generované algoritmami na tvorbu:",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "produkčných pravidiel" },
+      { "id": "b", "text": "rozhodovacích zoznamov" }
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Rule Learning"
+  },
+  {
+    "id": 53,
+    "text": "Tabuľka kritérií reprezentovaná pojmom \"2 of 3\" odpovedá úsečke v trojrozmernom priestore.",
+    "type": "truefalse",
+    "options": [
+      { "id": "true", "text": "Pravda" },
+      { "id": "false", "text": "Nepravda" }
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Threshold Units"
+  },
+  {
+    "id": 54,
+    "text": "Ktorá základná charakteristika odlišuje od seba tri algoritmy VSS (Version Space Search)?",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "smer prehľadávania" },
+      { "id": "b", "text": "príznakový priestor" },
+      { "id": "c", "text": "priestor pojmov" }
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Version Space Search"
+  },
+  {
+    "id": 55,
+    "text": "Ktorým algoritmom je možné spracovávať spojité atribúty?",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "ID3" },
+      { "id": "b", "text": "C4.5" },
+      { "id": "c", "text": "ID5.R" }
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Decision Trees"
+  },
+  {
+    "id": 56,
+    "text": "Učiace úlohy delíme na:",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "induktívne a deduktívne" },
+      { "id": "b", "text": "klasifikačné a sekvenčné" },
+      { "id": "c", "text": "inkrementálne a neinkrementálne" },
+      { "id": "d", "text": "online a offline" },
+      { "id": "e", "text": "kontrolované a nekontrolované" }
+    ],
+    "correctAnswers": ["b", "d"],
+    "topic": "ML Taxonomy"
+  },
+  {
+    "id": 57,
+    "text": "Pojem selektor na rozdiel od pojmu podmienka:",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "pripúšťa iba nerovnosť" },
+      { "id": "b", "text": "pripúšťa aj disjunkciu hodnôt atribútov" },
+      { "id": "c", "text": "pripúšťa iba konjunkciu hodnôt atribútov" },
+      { "id": "d", "text": "pripúšťa aj rovnosť aj nerovnosť" }
+    ],
+    "correctAnswers": ["b", "d"],
+    "topic": "AQ Algorithm"
+  },
+  {
+    "id": 58,
+    "text": "Ku ktorému etalónu je klasifikovaný nový príklad?",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "k susednému" },
+      { "id": "b", "text": "k strednému" },
+      { "id": "c", "text": "k najbližšiemu" }
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Prototype Learning"
+  },
+  {
+    "id": 59,
+    "text": "Ktoré z nasledovných algoritmov generujú rozhodovacie stromy?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "C4.5" },
+      { "id": "b", "text": "ID5R" },
+      { "id": "c", "text": "MDPL – minimálna dĺžka popisu" },
+      { "id": "d", "text": "ID3" }
+    ],
+    "correctAnswers": ["a", "b", "d"],
+    "topic": "Decision Trees"
+  },
+  {
+    "id": 60,
+    "text": "Algoritmus IWP (Iterative Weight Perturbation) generuje na výstupe:",
+    "type": "single",
+    "options": [
+      { "id": "a", "text": "sférickú prahovú jednotku" },
+      { "id": "b", "text": "tabuľku kritérií" },
+      { "id": "c", "text": "lineárnu prahovú jednotku" }
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Neural Units"
+  },
+  {
+    "id": 61,
+    "text": "Charakterizujte algoritmus NEX:",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "je neinkrementálny" },
+      { "id": "b", "text": "generuje rozhodovacie zoznamy" },
+      { "id": "c", "text": "generuje etalóny" },
+      { "id": "d", "text": "je riadený výnimkami" },
+      { "id": "e", "text": "generuje výnimky" }
+    ],
+    "correctAnswers": ["a", "b", "d", "e"],
+    "topic": "Rule Learning"
+  },
+  {
+    "id": 62,
+    "text": "Ktoré z nasledujúcich tvrdení sú pravdivé?",
+    "type": "multiple",
+    "options": [
+      { "id": "a", "text": "Koreňovému uzlu rozhodovacieho stromu odpovedá celá trénovacia množina" },
+      { "id": "b", "text": "Koreňovému uzlu rozhodovacieho stromu odpovedá trieda" },
+      { "id": "c", "text": "Medziľahlému uzlu rozhodovacieho stromu odpovedá testovací atribút" },
+      { "id": "d", "text": "Listovému uzlu rozhodovacieho stromu odpovedá testovací atribút" },
+      { "id": "e", "text": "Listovému uzlu rozhodovacieho stromu odpovedá trieda" }
+    ],
+    "correctAnswers": ["a", "c", "e"],
+    "topic": "Decision Trees"
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "id": 1,
+    "text": "Pre rovnicu f(x) = 0 a pre číslo α platí: f(α) = f′(α) = f′′(α) = 0 a f′′′(α) ≠ 0. Potom:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "α je jednoduchý koreň rovnice f(x) = 0"},
+      {"id": "b", "text": "α je dvojnásobný koreň rovnice f(x) = 0"},
+      {"id": "c", "text": "α je trojnásobný koreň rovnice f(x) = 0"},
+      {"id": "d", "text": "α je viac ako trojnásobný koreň rovnice f(x) = 0"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Riešenie rovníc"
+  },
+  {
+    "id": 2,
+    "text": "Pre rovnicu f(x) = 0 a pre číslo α platí: f(α) = f′(α) = 0, f′′(α) ≠ 0 a f′′′(α) ≠ 0. Potom:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "α je jednoduchý koreň rovnice f(x) = 0"},
+      {"id": "b", "text": "α je dvojnásobný koreň rovnice f(x) = 0"},
+      {"id": "c", "text": "α je trojnásobný koreň rovnice f(x) = 0"},
+      {"id": "d", "text": "α je viac ako trojnásobný koreň rovnice f(x) = 0"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Riešenie rovníc"
+  },
+  {
+    "id": 3,
+    "text": "Pri riešení rovnice f(x) = 0 iteračnou metódou sa hodnoty x₁, x₂, x₃, … približujú ku koreňu rovnice:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "vždy iba z jednej strany"},
+      {"id": "b", "text": "vždy striedavo z oboch strán"},
+      {"id": "c", "text": "v závislosti od iteračného predpisu buď iba z jednej strany alebo striedavo z oboch strán"},
+      {"id": "d", "text": "môžu sa chvíľu priblížiť z jednej strany a preskočiť na druhú stranu od koreňa"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Riešenie rovníc"
+  },
+  {
+    "id": 4,
+    "text": "Výber hlavného prvku pri riešení sústavy lineárnych rovníc je súčasťou:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "iteračnej metódy"},
+      {"id": "b", "text": "Gaussovej eliminačnej metódy"},
+      {"id": "c", "text": "Newtonovej metódy"},
+      {"id": "d", "text": "metódy rozkladu matice sústavy na súčin trojuholníkových matíc"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Sústavy rovníc"
+  },
+  {
+    "id": 5,
+    "text": "Ak pre náhodnú premennú X platí, že M₀(X) = {2; 3}, tak:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "náhodná premenná X sa určite riadi binomickým rozdelením pravdepodobnosti"},
+      {"id": "b", "text": "náhodná premenná X sa určite riadi iným ako binomickým rozdelením pravdepodobnosti"},
+      {"id": "c", "text": "existuje viac typov náhodnej premennej, pre ktorú to môže platiť"},
+      {"id": "d", "text": "neexistuje taká náhodná premenná"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Teória pravdepodobnosti"
+  },
+  {
+    "id": 6,
+    "text": "Ak pre náhodnú premennú X platí, že E(X) = {2; 3}, tak:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "náhodná premenná X sa určite riadi binomickým rozdelením pravdepodobnosti"},
+      {"id": "b", "text": "náhodná premenná X sa určite riadi iným ako binomickým rozdelením pravdepodobnosti"},
+      {"id": "c", "text": "existuje viac typov náhodnej premennej, pre ktorú to môže platiť"},
+      {"id": "d", "text": "neexistuje taká náhodná premenná"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Teória pravdepodobnosti"
+  },
+  {
+    "id": 7,
+    "text": "Vzťah P(A ∪ B) = P(A) + P(B) − P(A ∩ B):",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "platí iba pre všetky nezávislé javy A a B"},
+      {"id": "b", "text": "platí iba pre nezlúčiteľné javy A a B"},
+      {"id": "c", "text": "platí pre ľubovoľné javy A a B"},
+      {"id": "d", "text": "neplatí"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Teória pravdepodobnosti"
+  },
+  {
+    "id": 8,
+    "text": "Vzťah P(A ∪ B) = P(A) + P(B) + P(A ∩ B):",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "platí iba pre všetky nezávislé javy A a B"},
+      {"id": "b", "text": "platí iba pre nezlúčiteľné javy A a B"},
+      {"id": "c", "text": "platí pre ľubovoľné javy A a B"},
+      {"id": "d", "text": "neplatí"}
+    ],
+    "correctAnswers": ["d"],
+    "topic": "Teória pravdepodobnosti"
+  },
+  {
+    "id": 9,
+    "text": "Ak náhodná premenná X sa riadi exponenciálnym rozdelením pravdepodobnosti s parametrom λ > 0, tak:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "E(X) > λ"},
+      {"id": "b", "text": "M₀(X) > E(X)"},
+      {"id": "c", "text": "M₀(X) = 0"},
+      {"id": "d", "text": "M₀(X) = 1/λ"}
+    ],
+    "correctAnswers": ["d"],
+    "topic": "Rozdelenia pravdepodobnosti",
+    "explanation": "Pre exponenciálne rozdelenie: E(X) = 1/λ, σ(X) = 1/λ. Podľa označenia v skúškovom teste je správna odpoveď d)."
+  },
+  {
+    "id": 10,
+    "text": "Ak náhodná premenná X sa riadi exponenciálnym rozdelením pravdepodobnosti s parametrom λ > 0, tak (porovnanie E, D, σ):",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "E(X) > D(X)"},
+      {"id": "b", "text": "E(X) < D(X)"},
+      {"id": "c", "text": "E(X) = σ(X)"},
+      {"id": "d", "text": "E(X) = λ²"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Rozdelenia pravdepodobnosti",
+    "explanation": "Pre exponenciálne rozdelenie: E(X) = 1/λ a σ(X) = 1/λ, teda E(X) = σ(X)."
+  },
+  {
+    "id": 11,
+    "text": "Interpolačný polynóm a funkcia, ktorú aproximuje:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "v uzlových bodoch interpolácie môžu mať rovnaké funkčné hodnoty"},
+      {"id": "b", "text": "v uzlových bodoch interpolácie musia mať rovnaké funkčné hodnoty"},
+      {"id": "c", "text": "nemajú rovnaké funkčné hodnoty v žiadnom uzlovom bode interpolácie"},
+      {"id": "d", "text": "majú rovnaké funkčné hodnoty na celom interpolačnom intervale"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Interpolácia"
+  },
+  {
+    "id": 12,
+    "text": "Pre nezlučiteľné javy A a B určite platí:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "P(A ∪ B) = P(A) + P(B)"},
+      {"id": "b", "text": "P(A ∪ B) = P(A) · P(B)"},
+      {"id": "c", "text": "P(A ∩ B) = P(A) + P(B)"},
+      {"id": "d", "text": "P(A ∩ B) = P(A) · P(B)"}
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Teória pravdepodobnosti"
+  },
+  {
+    "id": 13,
+    "text": "Pre nezávislé javy A a B platí:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "P(A ∪ B) = P(A) + P(B)"},
+      {"id": "b", "text": "P(A ∪ B) = P(A) · P(B)"},
+      {"id": "c", "text": "P(A ∩ B) = P(A) + P(B)"},
+      {"id": "d", "text": "P(A ∩ B) = P(A) · P(B)"}
+    ],
+    "correctAnswers": ["d"],
+    "topic": "Teória pravdepodobnosti"
+  },
+  {
+    "id": 14,
+    "text": "Sústava m lineárnych rovníc o n neznámych môže:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "mať jediné riešenie"},
+      {"id": "b", "text": "mať n riešení"},
+      {"id": "c", "text": "mať viac ako jedno riešenie, ale konečne veľa"},
+      {"id": "d", "text": "nemať riešenie"}
+    ],
+    "correctAnswers": ["a", "d"],
+    "topic": "Sústavy rovníc",
+    "explanation": "Sústava môže mať jediné riešenie, nekonečne veľa riešení alebo nemať riešenie vôbec."
+  },
+  {
+    "id": 15,
+    "text": "Binomické rozdelenie náhodnej premennej sa vyskytuje pri:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "závislých opakovaných pokusoch"},
+      {"id": "b", "text": "nezávislých opakovaných pokusoch"},
+      {"id": "c", "text": "pri podmienených pokusoch"},
+      {"id": "d", "text": "pri ľubovoľných pokusoch"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Rozdelenia pravdepodobnosti"
+  },
+  {
+    "id": 16,
+    "text": "Pri výpočte integrálu ∫f(x)dx pomocou Simpsonovho pravidla sa dosiahne presnejší výsledok pre:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "n = 10 pri nekonštantnom kroku"},
+      {"id": "b", "text": "n = 15 pri konštantnom kroku"},
+      {"id": "c", "text": "n = 12 pri konštantnom kroku"},
+      {"id": "d", "text": "dostatočne veľké n pri ľubovoľnom kroku"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Numerická integrácia",
+    "explanation": "Simpsonovo pravidlo vyžaduje párne n. Spomedzi možností n=12 je párne a má konštantný krok."
+  },
+  {
+    "id": 17,
+    "text": "Nech funkcia f(x) je spojitá na intervale ⟨a; b⟩. Ak f(a)·f(b) > 0, tak rovnica f(x) = 0 bez násobných koreňov má:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "v intervale ⟨a; b⟩ práve jeden koreň"},
+      {"id": "b", "text": "v intervale ⟨a; b⟩ aspoň jeden koreň"},
+      {"id": "c", "text": "v intervale ⟨a; b⟩ iba párny počet koreňov (aj nula je párne číslo)"},
+      {"id": "d", "text": "v intervale ⟨a; b⟩ ľubovoľný konečný počet koreňov"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Riešenie rovníc"
+  },
+  {
+    "id": 18,
+    "text": "Ak f(a)·f(b) < 0, tak pre spojitú funkciu f rovnica f(x) = 0 bez násobných koreňov má v intervale ⟨a; b⟩:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "práve jeden koreň"},
+      {"id": "b", "text": "párny počet koreňov"},
+      {"id": "c", "text": "nepárny počet koreňov"},
+      {"id": "d", "text": "nevieme rozhodnúť bez poznania funkcie f"}
+    ],
+    "correctAnswers": ["c", "d"],
+    "topic": "Riešenie rovníc"
+  },
+  {
+    "id": 19,
+    "text": "Iteračný proces xₙ₊₁ = φ(xₙ) pri riešení rovnice f(x) = 0 na intervale ⟨a; b⟩ konverguje:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "vždy pri ľubovoľnej voľbe x₀"},
+      {"id": "b", "text": "stačí, ak |φ′(a)| < 1 aj |φ′(b)| < 1"},
+      {"id": "c", "text": "ak |φ′(x)| < 1 pre každé x ∈ ⟨a; b⟩, pričom x₀ ∈ ⟨a; b⟩"},
+      {"id": "d", "text": "ak |φ′(x)| < 1 pre každé x ∈ ⟨a; b⟩, pričom x₀ je ľubovoľné reálne číslo"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Riešenie rovníc"
+  },
+  {
+    "id": 20,
+    "text": "Pri riešení rovnice f(x) = 0 sa metóda delenia intervalu dá použiť:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "vždy"},
+      {"id": "b", "text": "ak f′ existuje na celom separačnom intervale"},
+      {"id": "c", "text": "iba ak f je klesajúca funkcia na celom separačnom intervale"},
+      {"id": "d", "text": "iba ak f je rastúca funkcia a spojitá na celom separačnom intervale"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Riešenie rovníc"
+  },
+  {
+    "id": 21,
+    "text": "Pri použití geometrickej definície pravdepodobnosti:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "nemožný jav môže mať nenulovú pravdepodobnosť"},
+      {"id": "b", "text": "možný jav má vždy nenulovú pravdepodobnosť"},
+      {"id": "c", "text": "možný jav môže mať nulovú pravdepodobnosť"},
+      {"id": "d", "text": "každý jav má nenulovú pravdepodobnosť"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Teória pravdepodobnosti"
+  },
+  {
+    "id": 22,
+    "text": "Rozptyl je rovný druhej mocnine strednej hodnoty:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "pri normálnom rozdelení pravdepodobnosti náhodnej premennej"},
+      {"id": "b", "text": "pri Poissonovom rozdelení pravdepodobnosti náhodnej premennej"},
+      {"id": "c", "text": "pri exponenciálnom rozdelení pravdepodobnosti náhodnej premennej"},
+      {"id": "d", "text": "iba pri diskrétnom rozdelení pravdepodobnosti náhodnej premennej"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Rozdelenia pravdepodobnosti",
+    "explanation": "Pre exponenciálne rozdelenie: D(X) = 1/λ² = [E(X)]²."
+  },
+  {
+    "id": 23,
+    "text": "Pre normálne rozdelenie pravdepodobnosti náhodnej premennej vieme určiť hodnotu distribučnej funkcie:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "analytickým výpočtom pre každú hodnotu náhodnej premennej"},
+      {"id": "b", "text": "pre každú hodnotu vieme približne určiť hodnotu pomocou numerického integrovania"},
+      {"id": "c", "text": "z tabuliek pre vybrané hodnoty, ale iba pre normované rozdelenie"},
+      {"id": "d", "text": "iba pre niektoré hodnoty náhodnej premennej"}
+    ],
+    "correctAnswers": ["b", "c"],
+    "topic": "Rozdelenia pravdepodobnosti"
+  },
+  {
+    "id": 24,
+    "text": "Sústava dvoch nelineárnych rovníc:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "má vždy práve jedno riešenie"},
+      {"id": "b", "text": "má vždy aspoň jedno riešenie"},
+      {"id": "c", "text": "počet riešení závisí od konkrétnej sústavy"},
+      {"id": "d", "text": "má vždy konečný počet riešení"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Riešenie rovníc"
+  },
+  {
+    "id": 25,
+    "text": "Pre konštanty c a d a náhodné premenné X a Y platí:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "E(c·X + d·Y) = E(c)·E(X) + E(d)·E(Y)"},
+      {"id": "b", "text": "E(c·X + d·Y) = c·E(X) + d·E(Y)"},
+      {"id": "c", "text": "E(c·X + d·Y) = E(c) + E(X) + E(d) + E(Y)"},
+      {"id": "d", "text": "E(c·X + d·Y) = (c + d)·(E(X) + E(Y))"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Teória pravdepodobnosti"
+  },
+  {
+    "id": 26,
+    "text": "Vzťah P(A ∩ B ∩ C) = P(A) · P(B|A) · P(C|A ∩ B):",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "platí iba pre nezávislé javy A, B a C"},
+      {"id": "b", "text": "platí iba pre nezlúčiteľné javy A, B a C"},
+      {"id": "c", "text": "platí pre ľubovoľné javy A, B a C"},
+      {"id": "d", "text": "neplatí pre žiadne javy"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Teória pravdepodobnosti",
+    "explanation": "Ide o reťazové pravidlo (chain rule) — platí pre ľubovoľné javy A, B a C."
+  },
+  {
+    "id": 27,
+    "text": "Je možné aproximovať funkciu zadanú tabuľkou hodnôt metódou najmenších štvorcov funkciou v tvare y = x·ln a + ln b (kde a a b sú konštanty)?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "áno, pretože ide o lineárnu závislosť y = (ln a)·x + (ln b), ktorú MNŠ vie spracovať"},
+      {"id": "b", "text": "nie, pretože MNŠ nedokáže spracovať logaritmické funkcie"},
+      {"id": "c", "text": "áno, ale iba ak sú hodnoty a > 1 a b > 0"},
+      {"id": "d", "text": "nie, pretože ln a a ln b nie sú konštanty"}
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Aproximácia",
+    "explanation": "Substitúciou A = ln a a B = ln b dostaneme lineárny model y = A·x + B, ktorý MNŠ vie priamo spracovať."
+  },
+  {
+    "id": 28,
+    "text": "Lagrangeov interpolačný polynóm je možné použiť na aproximáciu funkcie:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "iba ak sú uzlové body rovnomerne rozložené na intervale"},
+      {"id": "b", "text": "aj keď sú hodnoty nezávislej premennej zadané s nerovnakým krokom"},
+      {"id": "c", "text": "iba pre funkcie definované na celej reálnej osi"},
+      {"id": "d", "text": "iba pre polynomické funkcie"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Interpolácia",
+    "explanation": "Lagrangeov interpolačný polynóm nevyžaduje rovnaký krok medzi uzlovými bodmi."
+  },
+  {
+    "id": 29,
+    "text": "Ostré ohraničenie pre najväčšiu hodnotu diskrétnej náhodnej premennej má:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "exponenciálne rozdelenie pravdepodobnosti"},
+      {"id": "b", "text": "binomické a hypergeometrické rozdelenie pravdepodobnosti"},
+      {"id": "c", "text": "Poissonovo rozdelenie pravdepodobnosti"},
+      {"id": "d", "text": "normálne rozdelenie pravdepodobnosti"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Rozdelenia pravdepodobnosti",
+    "explanation": "Binomické (max = n) a hypergeometrické rozdelenie majú konečný rozsah, teda ostré ohraničenie zhora."
+  },
+  {
+    "id": 30,
+    "text": "Pri riešení rovnice f(x) = 0 metódou regula falsi sa hodnoty x₁, x₂, x₃, … približujú ku koreňu rovnice:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "vždy iba z jednej strany"},
+      {"id": "b", "text": "iba z jednej strany, ak f′(x) a f″(x) nemenia znamienko na separačnom intervale"},
+      {"id": "c", "text": "striedavo z oboch strán"},
+      {"id": "d", "text": "závisí od počtu separačných intervalov"}
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Riešenie rovníc"
+  },
+  {
+    "id": 31,
+    "text": "Pri riešení rovnice f(x) = 0 pomocou Newtonovej metódy sa hodnoty x₁, x₂, x₃, … približujú ku koreňu rovnice:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "vždy striedavo z oboch strán"},
+      {"id": "b", "text": "vždy iba z jednej strany"},
+      {"id": "c", "text": "v závislosti od iteračného predpisu buď z jednej alebo striedavo z oboch strán"},
+      {"id": "d", "text": "závisí od počtu iterácií"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Riešenie rovníc"
+  },
+  {
+    "id": 32,
+    "text": "Ak f(a)·f(b) > 0, tak rovnica f(x) = 0 v intervale ⟨a; b⟩ (pre spojitú f bez násobných koreňov):",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "určite nemá koreň"},
+      {"id": "b", "text": "určite má párny počet koreňov (aj nula je párne číslo)"},
+      {"id": "c", "text": "má nepárny počet koreňov"},
+      {"id": "d", "text": "nevieme rozhodnúť bez poznania funkcie f"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Riešenie rovníc"
+  },
+  {
+    "id": 33,
+    "text": "Ak f(a)·f(b) < 0, tak pre spojitú funkciu f rovnica f(x) = 0 bez násobných koreňov má v intervale ⟨a; b⟩:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "práve jeden koreň"},
+      {"id": "b", "text": "párny počet koreňov"},
+      {"id": "c", "text": "nepárny počet koreňov"},
+      {"id": "d", "text": "nevieme rozhodnúť bez poznania funkcie f"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Riešenie rovníc"
+  },
+  {
+    "id": 34,
+    "text": "Pri riešení rovnice f(x) = 0 metódou sečníc (regula falsi) sa hodnoty x₁, x₂, x₃, … približujú ku koreňu rovnice:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "vždy iba z jednej strany"},
+      {"id": "b", "text": "iba z jednej strany, ak f′(x) > 0 na separačnom intervale"},
+      {"id": "c", "text": "striedavo z oboch strán"},
+      {"id": "d", "text": "závisí od voľby počiatočného intervalu"}
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Riešenie rovníc"
+  },
+  {
+    "id": 35,
+    "text": "Je možné aproximovať funkciu z tabuľky metódou najmenších štvorcov funkciou v tvare y = x·ln a + ln b?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "nie, pretože to nie je polynomická funkcia"},
+      {"id": "b", "text": "áno, pretože substitúciou A=ln a, B=ln b dostaneme lineárny model y = A·x + B"},
+      {"id": "c", "text": "nie, MNŠ nedokáže pracovať s logaritmami"},
+      {"id": "d", "text": "závisí od počtu uzlových bodov v tabuľke"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Aproximácia"
+  }
+]

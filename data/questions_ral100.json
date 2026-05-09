@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "text": "Ktorá úloha na viacerých špecializovaných (dedikovaných) strojoch/procesoroch má v každej zákazke rovnaký počet úloh, pričom ich poradie je presne dané a pre každú zákazku rovnaké?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "job shop"},
+      {"id": "b", "text": "fun shop"},
+      {"id": "c", "text": "open shop"},
+      {"id": "d", "text": "flow shop"}
+    ],
+    "correctAnswers": ["d"],
+    "topic": "Rozvrhovanie",
+    "explanation": "Flow shop = rovnaké poradie operácií pre všetky zákazky."
+  },
+  {
+    "id": 2,
+    "text": "Majme n objektov, ktoré je potrebné umiestniť do n miest s minimálnymi nákladmi. Ak poznáme náklady cij pre umiestnenie i-teho objektu do j-teho miesta, potom riešením je:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "použiť Johnsonov algoritmus"},
+      {"id": "b", "text": "použiť iteračný výpočet"},
+      {"id": "c", "text": "použiť metódu CRAFT"},
+      {"id": "d", "text": "použiť celočíselné programovanie"},
+      {"id": "e", "text": "zostaviť jednoduchý bivalentný model"}
+    ],
+    "correctAnswers": ["d", "e"],
+    "topic": "Alokácia",
+    "explanation": "Ide o kvadratický priraďovací problém — rieši sa celočíselným/bivalentným programovaním."
+  },
+  {
+    "id": 3,
+    "text": "Cieľom operačného výskumu je vypracovať závery a odporúčania, ktoré slúžia ako podklad pre čo najlepšie riadenie skúmaných operácií.",
+    "type": "truefalse",
+    "options": [
+      {"id": "true", "text": "Pravda"},
+      {"id": "false", "text": "Nepravda"}
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Operačný výskum"
+  },
+  {
+    "id": 4,
+    "text": "Metóda CRAFT má nasledujúce vlastnosti:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "je to stochastický algoritmus"},
+      {"id": "b", "text": "zaručene nájde optimálne riešenie"},
+      {"id": "c", "text": "nájde riešenie, ktoré ale nemusí byť optimálne"},
+      {"id": "d", "text": "má presne daný počet iterácií"},
+      {"id": "e", "text": "je to heuristika"},
+      {"id": "f", "text": "počet iterácií nie je presne daný"}
+    ],
+    "correctAnswers": ["c", "e", "f"],
+    "topic": "Alokácia",
+    "explanation": "CRAFT = Computerized Relative Allocation of Facilities Technique — heuristika, nenachádza garantované optimum, počet iterácií nie je pevne daný."
+  },
+  {
+    "id": 5,
+    "text": "Kriteriálna funkcia Fmax pri rozvrhovaní znamená:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "predstih tej úlohy v rozvrhu, ktorá bola najviac v predstihu oproti požadovanej dobe spracovania"},
+      {"id": "b", "text": "dĺžka pobytu vo výrobe úlohy s najdlhším pobytom spomedzi všetkých v rozvrhu"},
+      {"id": "c", "text": "čas ukončenia poslednej úlohy v rozvrhu"},
+      {"id": "d", "text": "oneskorenie najviac oneskorenej úlohy v rozvrhu"},
+      {"id": "e", "text": "najväčšie nezáporné oneskorenie spomedzi všetkých úloh v rozvrhu alebo 0"}
+    ],
+    "correctAnswers": ["d"],
+    "topic": "Rozvrhovanie",
+    "explanation": "Fmax = maximum z oneskorení Fi = Ci − di. Pozor: Lmax = max oneskorenie vrátane záporných."
+  },
+  {
+    "id": 6,
+    "text": "Pri úlohách rozvrhovania sa používajú ako kriteriálne funkcie tieto matematické operácie (nad časmi ukončenia jednotlivých úloh v rozvrhu):",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "súčet"},
+      {"id": "b", "text": "priemer"},
+      {"id": "c", "text": "maximum"},
+      {"id": "d", "text": "súčin"},
+      {"id": "e", "text": "minimum"}
+    ],
+    "correctAnswers": ["a", "b", "c"],
+    "topic": "Rozvrhovanie",
+    "explanation": "Používajú sa súčet (ΣCi), priemer (C̄) a maximum (Cmax)."
+  },
+  {
+    "id": 7,
+    "text": "Ktoré je správne poradie krokov pri pomerovo-indexovej metóde výberu lokality?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "výber faktorov → priradenie váh → stanovenie intervalov → hodnotenie lokalít → výpočet vážených súčtov → výber lokality s max. CL"},
+      {"id": "b", "text": "priradenie váh → výber faktorov → hodnotenie lokalít → stanovenie intervalov → výpočet CL → výber lokality"},
+      {"id": "c", "text": "výber faktorov → stanovenie intervalov → hodnotenie lokalít → priradenie váh → výpočet CL → výber lokality"},
+      {"id": "d", "text": "hodnotenie lokalít → výber faktorov → priradenie váh → stanovenie intervalov → výpočet CL → výber lokality"}
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Alokácia",
+    "explanation": "Kroky: 1. výber faktorov Fi, 2. priradenie váh wi, 3. stanovenie intervalov, 4. hodnotenie HFiL, 5. výpočet CL, 6. výber lokality s max CL."
+  },
+  {
+    "id": 8,
+    "text": "Ak sa firma snaží udržať vzťah medzi kapacitami a požiadavkami na výrobu tak, že kapacita Kj je vždy mierne nad požiadavkou Pj (kapacita predbieha dopyt), potom uplatňuje:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "stratégiu \"preempt of competition\""},
+      {"id": "b", "text": "stratégiu \"wait and see\""},
+      {"id": "c", "text": "vyváženú kapacitnú stratégiu"},
+      {"id": "d", "text": "agresívnu kapacitnú stratégiu"},
+      {"id": "e", "text": "konzervatívnu kapacitnú stratégiu"}
+    ],
+    "correctAnswers": ["d"],
+    "topic": "Kapacitné plánovanie",
+    "explanation": "Graf ukazuje, že kapacita vždy predbieha dopyt → agresívna stratégia."
+  },
+  {
+    "id": 9,
+    "text": "Model riadenia zásob M3 má tieto charakteristiky:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "je deterministický"},
+      {"id": "b", "text": "je dynamický"},
+      {"id": "c", "text": "so spojitým dopytom"},
+      {"id": "d", "text": "je stochastický"},
+      {"id": "e", "text": "s diskrétnym dopytom"},
+      {"id": "f", "text": "je statický"}
+    ],
+    "correctAnswers": ["a", "b", "c"],
+    "topic": "Riadenie zásob",
+    "explanation": "M3 = deterministický, dynamický model so spojitým dopytom (klasický EOQ model)."
+  },
+  {
+    "id": 10,
+    "text": "Medzi NEVÝHODY metódy prieskum trhu patria:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "informácie z prvej ruky"},
+      {"id": "b", "text": "vysoké náklady"},
+      {"id": "c", "text": "zastúpenie vo všetkých relevantných skupinách ľudí"},
+      {"id": "d", "text": "ľudský faktor"},
+      {"id": "e", "text": "dlhšie trvanie"}
+    ],
+    "correctAnswers": ["b", "d", "e"],
+    "topic": "Prognózovanie",
+    "explanation": "Informácie z prvej ruky a zastúpenie skupín sú VÝHODY. Nevýhody sú: vysoké náklady, ľudský faktor, dlhšie trvanie."
+  },
+  {
+    "id": 11,
+    "text": "Prehľadávacie algoritmy bez použitia redukčných algoritmov musia spravidla prehľadať podstatne väčšiu časť priestoru prehľadávania pri riešení úloh s ohraničeniami.",
+    "type": "truefalse",
+    "options": [
+      {"id": "true", "text": "Pravda"},
+      {"id": "false", "text": "Nepravda"}
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 12,
+    "text": "Kriteriálna funkcia F̄ pri rozvrhovaní znamená:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "priemerné oneskorenie"},
+      {"id": "b", "text": "priemerný čas ukončenia"},
+      {"id": "c", "text": "priemerný predstih"},
+      {"id": "d", "text": "priemerná dĺžka pobytu vo výrobe"},
+      {"id": "e", "text": "priemerné omeškanie"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Rozvrhovanie",
+    "explanation": "F̄ = (1/n)·ΣCi = priemerný čas ukončenia."
+  },
+  {
+    "id": 13,
+    "text": "Ak sú zadané úlohy Ti (i=1,...,n), časy pripravenosti ri=0, nie sú zadané požadované časy ukončenia di, ani precedencie, ani priority, potom z hľadiska kriteriálnej funkcie C̄ platí:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "všetky rozvrhy z dominantnej množiny rozvrhov sú optimálne"},
+      {"id": "b", "text": "optimálny rozvrh vznikne usporiadaním úloh od najkratšej po najdlhšiu"},
+      {"id": "c", "text": "optimálny rozvrh vznikne usporiadaním úloh podľa hodnoty di od najmenšej po najväčšiu"},
+      {"id": "d", "text": "optimálne je usporiadať úlohy podľa nerastúcej postupnosti ich priorít"}
+    ],
+    "correctAnswers": ["a", "b"],
+    "topic": "Rozvrhovanie",
+    "explanation": "Bez di a priorít: pre C̄ je optimálne SPT pravidlo (Shortest Processing Time). Všetky SPT rozvrhy sú optimálne."
+  },
+  {
+    "id": 14,
+    "text": "V rámci kapacitného vyváženia výrobného procesu je možné kapacity typu stroje zvyšovať napríklad týmito spôsobmi:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "predĺžením výrobných časov"},
+      {"id": "b", "text": "automatizáciou výroby"},
+      {"id": "c", "text": "zakúpením nových strojov"},
+      {"id": "d", "text": "zvýšením plánu údržby"},
+      {"id": "e", "text": "minimalizovaním priestorov (skrátením údržby)"}
+    ],
+    "correctAnswers": ["b", "c"],
+    "topic": "Kapacitné plánovanie",
+    "explanation": "Predĺženie výrobných časov a zvýšenie plánu údržby znižujú kapacitu, nie zvyšujú."
+  },
+  {
+    "id": 15,
+    "text": "Medzi VÝHODY metódy skupinový posudok patria:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "je známe geografické rozloženie"},
+      {"id": "b", "text": "zastúpenie všetkých skupín ľudí, ktorí k tomu majú čo povedať"},
+      {"id": "c", "text": "ľudský faktor"},
+      {"id": "d", "text": "rýchlosť"},
+      {"id": "e", "text": "subjektivita"}
+    ],
+    "correctAnswers": ["b", "d"],
+    "topic": "Prognózovanie",
+    "explanation": "Ľudský faktor a subjektivita sú NEVÝHODY. Geografické rozloženie je výhoda inej metódy."
+  },
+  {
+    "id": 16,
+    "text": "Riešenie úlohy flow shop je určite aj riešením úlohy open shop.",
+    "type": "truefalse",
+    "options": [
+      {"id": "true", "text": "Pravda"},
+      {"id": "false", "text": "Nepravda"}
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Rozvrhovanie",
+    "explanation": "Flow shop je špeciálny prípad open shop — každé prípustné riešenie flow shop je prípustné aj pre open shop."
+  },
+  {
+    "id": 17,
+    "text": "Ktorá z činností výrobnej logistiky zabezpečuje objednanie potrebného množstva materiálov na výrobu?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "materiálová bilancia"},
+      {"id": "b", "text": "zásobovanie"},
+      {"id": "c", "text": "rozvrhovanie"},
+      {"id": "d", "text": "zákazková logistika"},
+      {"id": "e", "text": "dispečerské riadenie"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Výrobná logistika"
+  },
+  {
+    "id": 18,
+    "text": "Čo predstavuje parameter 's' v stratégiách riadenia zásob (P1, P2)?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "zásoby sa dopĺňajú v pravidelných časových intervaloch dĺžky s"},
+      {"id": "b", "text": "zásoby sa dopĺňajú na úroveň s"},
+      {"id": "c", "text": "zásoby sa dopĺňajú v okamihu, keď ich stav klesne pod hranicu s (bod objednania)"},
+      {"id": "d", "text": "zásoby sa dopĺňajú o pevné množstvo s"}
+    ],
+    "correctAnswers": ["c"],
+    "topic": "Riadenie zásob",
+    "explanation": "s = bod objednania (P1), t = perióda (P2), S = cieľová úroveň, x = pevné objednávacie množstvo."
+  },
+  {
+    "id": 19,
+    "text": "Efektívnosť procesu prehľadávania je ovplyvnená nielen použitým algoritmom prehľadávania, ale aj usporiadaním premenných.",
+    "type": "truefalse",
+    "options": [
+      {"id": "true", "text": "Pravda"},
+      {"id": "false", "text": "Nepravda"}
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 20,
+    "text": "Pri riešení úloh lineárneho programovania platí, že množina prípustných riešení je vždy konvexná.",
+    "type": "truefalse",
+    "options": [
+      {"id": "true", "text": "Pravda"},
+      {"id": "false", "text": "Nepravda"}
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Lineárne programovanie",
+    "explanation": "Množina prípustných riešení LP je konvexný polytop."
+  },
+  {
+    "id": 21,
+    "text": "Medzi predpoklady modelov lineárneho programovania NEPATRIA:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "optimálnosť"},
+      {"id": "b", "text": "monotónnosť"},
+      {"id": "c", "text": "aditívnosť (spočítateľnosť)"},
+      {"id": "d", "text": "nezápornosť"},
+      {"id": "e", "text": "derivovateľnosť"},
+      {"id": "f", "text": "proporcionalita (priama úmernosť)"},
+      {"id": "g", "text": "deliteľnosť"}
+    ],
+    "correctAnswers": ["a", "b", "e"],
+    "topic": "Lineárne programovanie",
+    "explanation": "Predpoklady LP: proporcionalita, aditívnosť, deliteľnosť, nezápornosť. Optimálnosť, monotónnosť a derivovateľnosť NEPATRIA."
+  },
+  {
+    "id": 22,
+    "text": "Grafickou reprezentáciou úloh s ohraničeniami je sieť ohraničení. Ak sú v úlohe definované okrem unárnych a binárnych ohraničení aj viacárne ohraničenia, potom sieť ohraničení musí mať dva typy uzlov.",
+    "type": "truefalse",
+    "options": [
+      {"id": "true", "text": "Pravda"},
+      {"id": "false", "text": "Nepravda"}
+    ],
+    "correctAnswers": ["true"],
+    "topic": "Úlohy s ohraničeniami",
+    "explanation": "Pri viacárnych ohraničeniach sa používa hypergraf s dvomi typmi uzlov: premenné + ohraničenia."
+  }
+]
