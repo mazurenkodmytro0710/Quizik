@@ -80,12 +80,10 @@ c) platí pre ľubovoľné javy A a B,
 
 a) E(X) > λ,
 b) M₀(X) > E(X),
-c) M₀(X) = 0,
-✅ d) M₀(X) = 1/λ.
+✅ c) M₀(X) = 0,
+d) M₀(X) = 1/λ.
 
-*(Poznámka: na fotografii skúšky je jasná galočka pri d). Pre exponenciálne rozdelenie: E(X) = 1/λ = M₀(X) iba v špeciálnom zmysle — mód f(x) = λ·e^(−λx) je v bode 0, ale správna odpoveď podľa označenia v teste je d)*
-
-> ⚠️ **Pozor na záludnosť:** Niektoré varianty testu označujú ako správnu **c) M₀(X) = 0** (mód hustoty), iné **d) M₀(X) = 1/λ**. Podľa fotografie so žltým zvýraznením je správna **d)**.
+*(Pre exponenciálne rozdelenie je hustota f(x) = λ·e^(−λx) na x ≥ 0 klesajúca, preto mód leží v bode 0. Hodnota 1/λ je stredná hodnota E(X).)*
 
 ---
 
@@ -167,14 +165,14 @@ d) v intervale ⟨a; b⟩ ľubovoľný konečný počet koreňov.
 
 ---
 
-## 18. Ak f(a)·f(b) < 0, tak pre spojitú funkciu f rovnica f(x) = 0, ktorá nemá násobné korene, má v intervale ⟨a; b⟩: ⚠️
+## 18. Ak f(a)·f(b) < 0, tak pre spojitú funkciu f rovnica f(x) = 0, ktorá nemá násobné korene, má v intervale ⟨a; b⟩:
 
 a) práve jeden koreň,
 b) párny počet koreňov,
 ✅ c) nepárny počet koreňov,
-✅ d) nevieme rozhodnúť bez poznania funkcie f.
+d) nevieme rozhodnúť bez poznania funkcie f.
 
-*(Správne: aspoň jeden / nepárny počet koreňov)*
+*(Zo spojitosti a zmeny znamienka vyplýva aspoň jeden koreň; bez násobných koreňov ich musí byť nepárny počet.)*
 
 ---
 
@@ -190,9 +188,11 @@ d) ak |φ′(x)| < 1 pre každé x ∈ ⟨a; b⟩, pričom x₀ je ľubovoľné 
 ## 20. Pri riešení rovnice f(x) = 0 sa metóda delenia intervalu dá použiť:
 
 a) vždy,
-✅ b) ak f′ existuje na celom separačnom intervale,
+b) ak f′ existuje na celom separačnom intervale,
 c) iba ak f je klesajúca funkcia na celom separačnom intervale,
-d) iba ak f je rastúca funkcia a spojitá na celom separačnom intervale.
+✅ d) ak je f spojitá na celom separačnom intervale a f(a)·f(b) < 0.
+
+*(Metóda delenia intervalu nepotrebuje deriváciu; stačí spojitosť a zmena znamienka na koncoch intervalu.)*
 
 ---
 

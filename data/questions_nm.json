@@ -113,9 +113,9 @@
       {"id": "c", "text": "M₀(X) = 0"},
       {"id": "d", "text": "M₀(X) = 1/λ"}
     ],
-    "correctAnswers": ["d"],
+    "correctAnswers": ["c"],
     "topic": "Rozdelenia pravdepodobnosti",
-    "explanation": "Pre exponenciálne rozdelenie: E(X) = 1/λ, σ(X) = 1/λ. Podľa označenia v skúškovom teste je správna odpoveď d)."
+    "explanation": "Pre exponenciálne rozdelenie je hustota klesajúca na intervale x >= 0, preto mód leží v bode x = 0. Hodnota 1/λ je stredná hodnota E(X)."
   },
   {
     "id": 10,
@@ -227,15 +227,16 @@
   {
     "id": 18,
     "text": "Ak f(a)·f(b) < 0, tak pre spojitú funkciu f rovnica f(x) = 0 bez násobných koreňov má v intervale ⟨a; b⟩:",
-    "type": "multiple",
+    "type": "single",
     "options": [
       {"id": "a", "text": "práve jeden koreň"},
       {"id": "b", "text": "párny počet koreňov"},
       {"id": "c", "text": "nepárny počet koreňov"},
       {"id": "d", "text": "nevieme rozhodnúť bez poznania funkcie f"}
     ],
-    "correctAnswers": ["c", "d"],
-    "topic": "Riešenie rovníc"
+    "correctAnswers": ["c"],
+    "topic": "Riešenie rovníc",
+    "explanation": "Zo spojitosti a zmeny znamienka vyplýva aspoň jeden koreň; bez násobných koreňov ich musí byť v intervale nepárny počet."
   },
   {
     "id": 19,
@@ -258,10 +259,11 @@
       {"id": "a", "text": "vždy"},
       {"id": "b", "text": "ak f′ existuje na celom separačnom intervale"},
       {"id": "c", "text": "iba ak f je klesajúca funkcia na celom separačnom intervale"},
-      {"id": "d", "text": "iba ak f je rastúca funkcia a spojitá na celom separačnom intervale"}
+      {"id": "d", "text": "ak je f spojitá na celom separačnom intervale a f(a)·f(b) < 0"}
     ],
-    "correctAnswers": ["b"],
-    "topic": "Riešenie rovníc"
+    "correctAnswers": ["d"],
+    "topic": "Riešenie rovníc",
+    "explanation": "Metóda delenia intervalu nepotrebuje deriváciu. Stačí spojitosť funkcie na intervale a zmena znamienka na jeho koncoch."
   },
   {
     "id": 21,

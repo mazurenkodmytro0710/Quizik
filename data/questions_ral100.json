@@ -26,7 +26,7 @@
     ],
     "correctAnswers": ["d", "e"],
     "topic": "Alokácia",
-    "explanation": "Ide o kvadratický priraďovací problém — rieši sa celočíselným/bivalentným programovaním."
+    "explanation": "Ide o základnú verziu priraďovacieho problému — rieši sa celočíselným/bivalentným programovaním."
   },
   {
     "id": 3,
@@ -66,9 +66,9 @@
       {"id": "d", "text": "oneskorenie najviac oneskorenej úlohy v rozvrhu"},
       {"id": "e", "text": "najväčšie nezáporné oneskorenie spomedzi všetkých úloh v rozvrhu alebo 0"}
     ],
-    "correctAnswers": ["d"],
+    "correctAnswers": ["b"],
     "topic": "Rozvrhovanie",
-    "explanation": "Fmax = maximum z oneskorení Fi = Ci − di. Pozor: Lmax = max oneskorenie vrátane záporných."
+    "explanation": "Fmax = maximum z dôb pobytu vo výrobe Fi. Pri ri = 0 sa zhoduje s Cmax."
   },
   {
     "id": 6,
@@ -81,9 +81,9 @@
       {"id": "d", "text": "súčin"},
       {"id": "e", "text": "minimum"}
     ],
-    "correctAnswers": ["a", "b", "c"],
+    "correctAnswers": ["a", "b", "c", "e"],
     "topic": "Rozvrhovanie",
-    "explanation": "Používajú sa súčet (ΣCi), priemer (C̄) a maximum (Cmax)."
+    "explanation": "Používajú sa súčet, priemer, maximum a podľa zadania aj minimum nad časovými charakteristikami úloh."
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
   {
     "id": 8,
     "text": "Ak sa firma snaží udržať vzťah medzi kapacitami a požiadavkami na výrobu tak, že kapacita Kj je vždy mierne nad požiadavkou Pj (kapacita predbieha dopyt), potom uplatňuje:",
-    "type": "single",
+    "type": "multiple",
     "options": [
       {"id": "a", "text": "stratégiu \"preempt of competition\""},
       {"id": "b", "text": "stratégiu \"wait and see\""},
@@ -110,7 +110,7 @@
       {"id": "d", "text": "agresívnu kapacitnú stratégiu"},
       {"id": "e", "text": "konzervatívnu kapacitnú stratégiu"}
     ],
-    "correctAnswers": ["d"],
+    "correctAnswers": ["a", "d"],
     "topic": "Kapacitné plánovanie",
     "explanation": "Graf ukazuje, že kapacita vždy predbieha dopyt → agresívna stratégia."
   },
@@ -141,9 +141,9 @@
       {"id": "d", "text": "ľudský faktor"},
       {"id": "e", "text": "dlhšie trvanie"}
     ],
-    "correctAnswers": ["b", "d", "e"],
+    "correctAnswers": ["b", "e"],
     "topic": "Prognózovanie",
-    "explanation": "Informácie z prvej ruky a zastúpenie skupín sú VÝHODY. Nevýhody sú: vysoké náklady, ľudský faktor, dlhšie trvanie."
+    "explanation": "Informácie z prvej ruky a zastúpenie skupín sú výhody. Nevýhody prieskumu trhu sú hlavne vysoké náklady a dlhšie trvanie."
   },
   {
     "id": 11,
@@ -167,9 +167,9 @@
       {"id": "d", "text": "priemerná dĺžka pobytu vo výrobe"},
       {"id": "e", "text": "priemerné omeškanie"}
     ],
-    "correctAnswers": ["b"],
+    "correctAnswers": ["d"],
     "topic": "Rozvrhovanie",
-    "explanation": "F̄ = (1/n)·ΣCi = priemerný čas ukončenia."
+    "explanation": "F̄ znamená priemernú dĺžku pobytu úloh vo výrobe."
   },
   {
     "id": 13,
@@ -194,11 +194,11 @@
       {"id": "b", "text": "automatizáciou výroby"},
       {"id": "c", "text": "zakúpením nových strojov"},
       {"id": "d", "text": "zvýšením plánu údržby"},
-      {"id": "e", "text": "minimalizovaním priestorov (skrátením údržby)"}
+      {"id": "e", "text": "minimalizovaním prestojov (skrátením údržby)"}
     ],
-    "correctAnswers": ["b", "c"],
+    "correctAnswers": ["b", "c", "e"],
     "topic": "Kapacitné plánovanie",
-    "explanation": "Predĺženie výrobných časov a zvýšenie plánu údržby znižujú kapacitu, nie zvyšujú."
+    "explanation": "Automatizácia, nové stroje a minimalizácia prestojov zvyšujú dostupnú kapacitu."
   },
   {
     "id": 15,
@@ -238,7 +238,7 @@
       {"id": "d", "text": "zákazková logistika"},
       {"id": "e", "text": "dispečerské riadenie"}
     ],
-    "correctAnswers": ["b"],
+    "correctAnswers": ["a"],
     "topic": "Výrobná logistika"
   },
   {
@@ -291,9 +291,9 @@
       {"id": "f", "text": "proporcionalita (priama úmernosť)"},
       {"id": "g", "text": "deliteľnosť"}
     ],
-    "correctAnswers": ["a", "b", "e"],
+    "correctAnswers": ["a", "e"],
     "topic": "Lineárne programovanie",
-    "explanation": "Predpoklady LP: proporcionalita, aditívnosť, deliteľnosť, nezápornosť. Optimálnosť, monotónnosť a derivovateľnosť NEPATRIA."
+    "explanation": "Predpoklady LP: proporcionalita, aditívnosť, deliteľnosť, nezápornosť. Optimálnosť a derivovateľnosť NEPATRIA."
   },
   {
     "id": 22,

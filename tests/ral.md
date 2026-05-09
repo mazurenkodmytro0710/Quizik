@@ -35,7 +35,7 @@ e) priemerné omeškanie
 ## 4. Ak sú zadané úlohy Ti (i = 1, ..., n), časy ich p ti ri = 0 (pre všetky i = 1, n), nie sú zadané po časy ukončenia di, ani precedencie, ani prioríty, z hľadiska kriteriálnej funkcie C platí: ⚠️
 
 ✅ a) všetky rozvrhy z dominantnej množiny rozvrhov optimálne
-b) optimálny rozvrh vznikne usporiadaním úloh od najkratšej po najdlhšiu
+✅ b) optimálny rozvrh vznikne usporiadaním úloh od najkratšej po najdlhšiu (SPT / SJF)
 c) optimálny rozvrh vznikne usporiadaním úloh pod hodnoty di od najmenšej po najväčšiu
 d) optimálne je usporiadať úlohy podľa nerastúcej postupnosti ich priorít
 
@@ -63,9 +63,9 @@ e) subjektivita
 
 ## 7. Riešenie úlohy flow shop je určite aj riešením úl open shop.
 
-Pravda
+✅ Pravda
 
-✅ Nepravda
+Nepravda
 
 ---
 
@@ -96,9 +96,9 @@ Nepravda
 
 ## 11. Pri riešení úloh lineárneho programovania platí, množina prípustných riešení je vždy konvexná.
 
-Pravda
+✅ Pravda
 
-✅ Nepravda
+Nepravda
 
 ---
 
@@ -110,7 +110,7 @@ c) aditívnosť (spočítateľnosť )
 d) nezápornosť
 ✅ e) derivovateľnosť
 f) proporcionalita (priama úmernosť )
-✅ g) deliteľnosť
+g) deliteľnosť
 
 ---
 
@@ -133,11 +133,11 @@ c) open shop
 
 ## 15. Majme n-objektov, ktoré je potrebné umiestniť do n-miest s minimálnymi nákladmi. Ak poznáme nákla dy cij (i = 1 ... n, j = 1 ... n) pre umiestneni do j-teho miesta, potom riešením je: ⚠️
 
-✅ a) použiť Johnsonov algoritmus
-✅ b) použiť iteračný výpočet
+a) použiť Johnsonov algoritmus
+b) použiť iteračný výpočet
 c) použiť metódu CRAFT
 ✅ d) použiť celočíselné programovanie
-e) zostaviť jednoduchý bivalentný model
+✅ e) zostaviť jednoduchý bivalentný model
 
 ---
 
@@ -1243,9 +1243,9 @@ e) Obsahuje len najdôležitejšie úlohy
 
 ## 159. Medzi vlastnosti rozvrhovania na jednom procesore prerušením patria: ⚠️
 
-a) Úlohy môžu byť prerušené a neskôr pokračované
+✅ a) Úlohy môžu byť prerušené a neskôr pokračované
 b) Každá úloha musí byť dokončená bez prerušenia
-c) Používa sa Jacksonov algoritmus
+✅ c) Používa sa Jacksonov algoritmus
 d) Rozvrh je optimalizovaný podľa kritéria Cmax
 e) Aktivuje sa úloha s najneskorším termínom ukon nia
 
@@ -1294,8 +1294,8 @@ d) MST (Minimum Spanning Tree)
 ## 165. Medzi vlastnosti Moorovho algoritmu patria: ⚠️
 
 ✅ a) Usporiadanie úloh podľa neklesajúcej postupnos požadovaných časov ukončenia (di)
-✅ b) Výber úloh s najdlhším trvaním (ti)
-✅ c) Minimalizácia kritériálnej funkcie Cmax
+✅ b) Minimalizácia kritériálnej funkcie nT (počet oneskorených zákaziek)
+✅ c) Výber úloh s najdlhším trvaním (ti)
 ✅ d) Aplikácia pri úlohách s rôznymi di a bez prece
 e) Usporiadanie úloh podľa nerastúcej postupnosti priorít 166. Medzi vlastnosti jednotlivých typov rozvrhovacích úloh patria:
 
@@ -1602,7 +1602,7 @@ d) Dlhá doba trvania
 
 a) Rýchlosť získania výsledku
 b) Prítomnosť všetkých potrebných odborníkov
-c) Závislosť na komunikačných schopnostiach
+✅ c) Závislosť na komunikačných schopnostiach
 d) Vysoké náklady
 
 ---
@@ -1827,7 +1827,7 @@ d) Analýza trhu, marketing, predaj
 a) Výpočet kapacity stroja na základe historickýc jov
 b) Určenie maximálnej kapacity na základe súčasné využitia
 c) Výpočet kapacity stroja pri rôznych úrovniach dukcie
-d) Určenie stroja, na ktorom sa kapacita vyčerpá prvá
+✅ d) Určenie stroja, na ktorom sa kapacita vyčerpá prvá
 
 ---
 
@@ -2311,7 +2311,7 @@ d) Konzistenciu nad hypergrafom.
 ## 292. Čo znamená silná k-konzistencia?
 
 a) Sieť ohraničení je k-konzistentná pre všetky pre menné.
-✅ b) Sieť ohraničení je j-konzistentná pre všetky j valu <1, k>.
+✅ b) Sieť ohraničení je j-konzistentná pre všetky j = 1, 2, ..., k (teda zahŕňa aj všetky nižšie úrovne konzistencie).
 c) Konzistenciu všetkých premenných s ich hodnota mi.
 d) Konzistenciu nad hypergrafom.
 

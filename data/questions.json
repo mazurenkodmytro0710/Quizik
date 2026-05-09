@@ -351,7 +351,7 @@
       { "id": "a", "text": "klasifikačného" },
       { "id": "b", "text": "sekvenčného" }
     ],
-    "correctAnswers": ["b"],
+    "correctAnswers": ["a"],
     "topic": "Clustering"
   },
   {
@@ -715,7 +715,7 @@
       { "id": "c", "text": "MDPL – minimálna dĺžka popisu" },
       { "id": "d", "text": "ID3" }
     ],
-    "correctAnswers": ["a", "b", "d"],
+    "correctAnswers": ["a", "b", "c", "d"],
     "topic": "Decision Trees"
   },
   {
