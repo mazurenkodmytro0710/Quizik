@@ -1,0 +1,8285 @@
+[
+  {
+    "id": 1,
+    "text": "Ktoré z nasledujúcich sú NEVÝHODY prieskumu trhu?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Informácie z prvej ruky"
+      },
+      {
+        "id": "b",
+        "text": "Vysoké náklady"
+      },
+      {
+        "id": "c",
+        "text": "Zastúpenie skupín"
+      },
+      {
+        "id": "d",
+        "text": "Ľudský faktor"
+      },
+      {
+        "id": "e",
+        "text": "Dlhšie trvanie"
+      }
+    ],
+    "correctAnswers": [
+      "b",
+      "e"
+    ],
+    "topic": "Prognózovanie"
+  },
+  {
+    "id": 2,
+    "text": "Prehľadávacie algoritmy bez redukčných techník musia prehľadať väčšiu časť priestoru stavov.",
+    "type": "truefalse",
+    "options": [
+      {
+        "id": "true",
+        "text": "Pravda"
+      },
+      {
+        "id": "false",
+        "text": "Nepravda"
+      }
+    ],
+    "correctAnswers": [
+      "true"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 3,
+    "text": "Kriteriálna funkcia F̄ pri rozvrhovaní znamená:",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Priemerné oneskorenie"
+      },
+      {
+        "id": "b",
+        "text": "Priemerný čas ukončenia"
+      },
+      {
+        "id": "c",
+        "text": "Priemerný predstih"
+      },
+      {
+        "id": "d",
+        "text": "Priemerná dĺžka pobytu vo výrobe"
+      },
+      {
+        "id": "e",
+        "text": "Priemerné omeškanie"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 4,
+    "text": "Ak sú zadané úlohy Ti, ri=0, nie sú di, precedencie ani priority, čo platí z hľadiska kriteriálnej funkcie C̄?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Všetky rozvrhy z dominantnej množiny rozvrhov sú optimálne"
+      },
+      {
+        "id": "b",
+        "text": "Optimálny rozvrh vznikne usporiadaním úloh od najkratšej po najdlhšiu (SPT/SJF)"
+      },
+      {
+        "id": "c",
+        "text": "Optimálny rozvrh vznikne usporiadaním podľa di"
+      },
+      {
+        "id": "d",
+        "text": "Optimálne je usporiadať úlohy podľa nerastúcej postupnosti priorít"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 5,
+    "text": "Kapacity strojov možno zvyšovať nasledujúcimi spôsobmi:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Predĺžením výrobných časov"
+      },
+      {
+        "id": "b",
+        "text": "Automatizáciou výroby"
+      },
+      {
+        "id": "c",
+        "text": "Zakúpením nových strojov"
+      },
+      {
+        "id": "d",
+        "text": "Zvýšením plánu údržby"
+      },
+      {
+        "id": "e",
+        "text": "Minimalizovaním prestojov (skrátením údržby)"
+      }
+    ],
+    "correctAnswers": [
+      "b",
+      "c",
+      "e"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 6,
+    "text": "Ktoré z nasledujúcich sú VÝHODY skupinového posudku?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Je známe geografické rozloženie"
+      },
+      {
+        "id": "b",
+        "text": "Zastúpenie všetkých skupín ľudí, ktorí k tomu majú čo povedať"
+      },
+      {
+        "id": "c",
+        "text": "Ľudský faktor"
+      },
+      {
+        "id": "d",
+        "text": "Rýchlosť"
+      },
+      {
+        "id": "e",
+        "text": "Subjektivita"
+      }
+    ],
+    "correctAnswers": [
+      "b",
+      "d"
+    ],
+    "topic": "Prognózovanie"
+  },
+  {
+    "id": 7,
+    "text": "Riešenie úlohy flow shop je určite aj riešením úlohy open shop.",
+    "type": "truefalse",
+    "options": [
+      {
+        "id": "true",
+        "text": "Pravda"
+      },
+      {
+        "id": "false",
+        "text": "Nepravda"
+      }
+    ],
+    "correctAnswers": [
+      "true"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 8,
+    "text": "Ktorá činnosť výrobnej logistiky zabezpečuje objednanie materiálov?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Materiálová bilancia"
+      },
+      {
+        "id": "b",
+        "text": "Zásobovanie"
+      },
+      {
+        "id": "c",
+        "text": "Rozvrhovanie"
+      },
+      {
+        "id": "d",
+        "text": "Zákazková logistika"
+      },
+      {
+        "id": "e",
+        "text": "Dispečerské riadenie"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Výrobná logistika"
+  },
+  {
+    "id": 9,
+    "text": "Čo predstavuje parameter 's' v stratégiách riadenia zásob (P1, P2)?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zásoby sa dopĺňajú v pravidelných intervaloch dĺžky s"
+      },
+      {
+        "id": "b",
+        "text": "Zásoby sa dopĺňajú na úroveň s"
+      },
+      {
+        "id": "c",
+        "text": "Zásoby sa dopĺňajú v okamihu, keď ich stav klesne pod hranicu s"
+      },
+      {
+        "id": "d",
+        "text": "Zásoby sa dopĺňajú o množstvo s"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 10,
+    "text": "Efektívnosť procesu prehľadávania je ovplyvnená aj usporiadaním premenných.",
+    "type": "truefalse",
+    "options": [
+      {
+        "id": "true",
+        "text": "Pravda"
+      },
+      {
+        "id": "false",
+        "text": "Nepravda"
+      }
+    ],
+    "correctAnswers": [
+      "true"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 11,
+    "text": "Množina prípustných riešení v lineárnom programovaní je vždy konvexná.",
+    "type": "truefalse",
+    "options": [
+      {
+        "id": "true",
+        "text": "Pravda"
+      },
+      {
+        "id": "false",
+        "text": "Nepravda"
+      }
+    ],
+    "correctAnswers": [
+      "true"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 12,
+    "text": "Ktoré z nasledujúcich NEPATRIA medzi predpoklady lineárneho programovania?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Optimálnosť"
+      },
+      {
+        "id": "b",
+        "text": "Monotónnosť"
+      },
+      {
+        "id": "c",
+        "text": "Aditívnosť (spočítateľnosť)"
+      },
+      {
+        "id": "d",
+        "text": "Nezápornosť"
+      },
+      {
+        "id": "e",
+        "text": "Derivovateľnosť"
+      },
+      {
+        "id": "f",
+        "text": "Proporcionalita (priama úmernosť)"
+      },
+      {
+        "id": "g",
+        "text": "Deliteľnosť"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "e"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 13,
+    "text": "Sieť ohraničení pri viacárnych ohraničeniach musí mať dva typy uzlov.",
+    "type": "truefalse",
+    "options": [
+      {
+        "id": "true",
+        "text": "Pravda"
+      },
+      {
+        "id": "false",
+        "text": "Nepravda"
+      }
+    ],
+    "correctAnswers": [
+      "true"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 14,
+    "text": "Ktorý typ výrobného systému sa vyznačuje rovnakým počtom úloh a rovnakým poradím spracovania na všetkých strojoch?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Job shop"
+      },
+      {
+        "id": "b",
+        "text": "Fun shop"
+      },
+      {
+        "id": "c",
+        "text": "Open shop"
+      },
+      {
+        "id": "d",
+        "text": "Flow shop"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 15,
+    "text": "Ako riešiť problém priradenia n objektov do n miest?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Použiť Johnsonov algoritmus"
+      },
+      {
+        "id": "b",
+        "text": "Použiť iteračný výpočet"
+      },
+      {
+        "id": "c",
+        "text": "Použiť metódu CRAFT"
+      },
+      {
+        "id": "d",
+        "text": "Použiť celočíselné programovanie"
+      },
+      {
+        "id": "e",
+        "text": "Zostaviť jednoduchý bivalentný model"
+      }
+    ],
+    "correctAnswers": [
+      "d",
+      "e"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 16,
+    "text": "Cieľom operačného výskumu je vypracovať závery pre čo najlepšie riadenie skúmaných operácií.",
+    "type": "truefalse",
+    "options": [
+      {
+        "id": "true",
+        "text": "Pravda"
+      },
+      {
+        "id": "false",
+        "text": "Nepravda"
+      }
+    ],
+    "correctAnswers": [
+      "true"
+    ],
+    "topic": "Operačný výskum"
+  },
+  {
+    "id": 17,
+    "text": "Ktoré z nasledujúcich sú vlastnosti metódy CRAFT?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Je to stochastický algoritmus"
+      },
+      {
+        "id": "b",
+        "text": "Zaručene nájde optimálne riešenie"
+      },
+      {
+        "id": "c",
+        "text": "Nájde riešenie, ktoré ale nemusí byť optimálne"
+      },
+      {
+        "id": "d",
+        "text": "Má presne daný počet iterácií"
+      },
+      {
+        "id": "e",
+        "text": "Je to heuristika"
+      },
+      {
+        "id": "f",
+        "text": "Počet iterácií nie je presne daný"
+      }
+    ],
+    "correctAnswers": [
+      "c",
+      "e",
+      "f"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 18,
+    "text": "Čo vyjadruje kriteriálna funkcia Fmax pri rozvrhovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Predstih tej úlohy, ktorá bola najviac v predstihu"
+      },
+      {
+        "id": "b",
+        "text": "Dĺžka pobytu vo výrobe úlohy s najdlhším pobytom spomedzi všetkých v rozvrhu"
+      },
+      {
+        "id": "c",
+        "text": "Čas ukončenia poslednej úlohy v rozvrhu"
+      },
+      {
+        "id": "d",
+        "text": "Oneskorenie najviac oneskorenej úlohy v rozvrhu"
+      },
+      {
+        "id": "e",
+        "text": "Najväčšie nezáporné oneskorenie alebo 0"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 19,
+    "text": "Ktoré matematické operácie sa používajú pri definovaní kriteriálnych funkcií rozvrhovania?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Súčet"
+      },
+      {
+        "id": "b",
+        "text": "Priemer"
+      },
+      {
+        "id": "c",
+        "text": "Maximum"
+      },
+      {
+        "id": "d",
+        "text": "Súčin"
+      },
+      {
+        "id": "e",
+        "text": "Minimum"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 20,
+    "text": "Keď kapacita vždy predbieha dopyt, o akú stratégiu ide?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stratégia \"preempt of competition\""
+      },
+      {
+        "id": "b",
+        "text": "Stratégia \"wait and see\""
+      },
+      {
+        "id": "c",
+        "text": "Vyvážená kapacitná stratégia"
+      },
+      {
+        "id": "d",
+        "text": "Agresívna kapacitná stratégia"
+      },
+      {
+        "id": "e",
+        "text": "Konzervatívna kapacitná stratégia"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "d"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 21,
+    "text": "Ktoré z nasledujúcich sú charakteristiky modelu M3?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Je deterministický"
+      },
+      {
+        "id": "b",
+        "text": "Je dynamický"
+      },
+      {
+        "id": "c",
+        "text": "So spojitým dopytom"
+      },
+      {
+        "id": "d",
+        "text": "Je stochastický"
+      },
+      {
+        "id": "e",
+        "text": "S diskrétnym dopytom"
+      },
+      {
+        "id": "f",
+        "text": "Je statický"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 22,
+    "text": "Ktoré sú 4 základné typy alokačných problémov?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alokácia do jedného miesta, Alokácia do viacerých miest, Distribučný problém, Logistický problém"
+      },
+      {
+        "id": "b",
+        "text": "Alokácia do jedného miesta, Alokácia do viacerých miest, Priraďovací problém, Kvadratický priraďovací problém"
+      },
+      {
+        "id": "c",
+        "text": "Priraďovací problém, Distribučný problém, Logistický problém, Kvadratický priraďovací problém"
+      },
+      {
+        "id": "d",
+        "text": "Transportný problém, Distribučný problém, Alokačný problém, Kvadratický priraďovací problém"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 23,
+    "text": "Kedy sa používa pomerovo-indexová metóda pri výbere lokality?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ak sú k dispozícii presné údaje o dodávateľoch"
+      },
+      {
+        "id": "b",
+        "text": "Ak sú presne známi odberatelia"
+      },
+      {
+        "id": "c",
+        "text": "Ak nie sú k dispozícii presné údaje"
+      },
+      {
+        "id": "d",
+        "text": "Ak sú náklady na dopravu presne vyčíslené"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 24,
+    "text": "Aký je princíp pomerovo-indexovej metódy?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maximálne znížiť náklady na materiál"
+      },
+      {
+        "id": "b",
+        "text": "Použiť vážený súčet faktorov pre výber lokality"
+      },
+      {
+        "id": "c",
+        "text": "Minimalizovať čas potrebný na výrobu"
+      },
+      {
+        "id": "d",
+        "text": "Optimalizovať počet zamestnancov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 25,
+    "text": "Aký postup sa používa pri výpočte optimálneho umiestnenia s euklidovskou vzdialenosťou?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Použiť hyperbolickú aproximáciu"
+      },
+      {
+        "id": "b",
+        "text": "Použiť mediánové umiestnenie"
+      },
+      {
+        "id": "c",
+        "text": "Použiť priamu lineárnu aproximáciu"
+      },
+      {
+        "id": "d",
+        "text": "Použiť aritmetický priemer"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 26,
+    "text": "Aký je cieľ alokačnej úlohy s rektilineárnou vzdialenosťou?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Minimalizovať vzdialenosť medzi dvoma najvzdialenejšími bodmi"
+      },
+      {
+        "id": "b",
+        "text": "Maximalizovať počet distribučných centier"
+      },
+      {
+        "id": "c",
+        "text": "Nájsť mediánové umiestnenie distribučného centra"
+      },
+      {
+        "id": "d",
+        "text": "Minimalizovať počet potrebných zamestnancov"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 27,
+    "text": "Čo je operatívny manažment výrobného procesu?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Riadenie marketingových aktivít"
+      },
+      {
+        "id": "b",
+        "text": "Systém riadiacich činností zabezpečujúcich priebeh výrobného procesu"
+      },
+      {
+        "id": "c",
+        "text": "Plánovanie nákladov"
+      },
+      {
+        "id": "d",
+        "text": "Optimalizácia logistiky"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Výrobná logistika"
+  },
+  {
+    "id": 28,
+    "text": "Čo zabezpečuje dispečerské riadenie?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Monitorovanie kvality produktu"
+      },
+      {
+        "id": "b",
+        "text": "Prenos cieľov na výrobný proces a prijímanie rozhodnutí na základe porovnania výstupov a cieľov"
+      },
+      {
+        "id": "c",
+        "text": "Plánovanie výrobných kapacít"
+      },
+      {
+        "id": "d",
+        "text": "Zásobovanie surovinami"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Výrobná logistika"
+  },
+  {
+    "id": 29,
+    "text": "Aký je rozdiel medzi plánovaním a rozvrhovaním?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Plánovanie sa týka dlhodobých cieľov, rozvrhovanie krátkodobých úloh"
+      },
+      {
+        "id": "b",
+        "text": "Plánovanie je postup vytvárania plánu, rozvrhovanie je postup vytvárania rozvrhu, ktorý zahŕňa umiestnenie úloh v čase a na stroje"
+      },
+      {
+        "id": "c",
+        "text": "Plánovanie je viac flexibilné ako rozvrhovanie"
+      },
+      {
+        "id": "d",
+        "text": "Plánovanie sa zaoberá len finančnými aspektmi, rozvrhovanie len technickými"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 30,
+    "text": "Čo je regulárna kriteriálna funkcia?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Funkcia, ktorá nemôže klesať bez zmeny stavu úlohy"
+      },
+      {
+        "id": "b",
+        "text": "Funkcia, ktorá neumožňuje nárast bez predĺženia termínu ukončenia aspoň jednej úlohy"
+      },
+      {
+        "id": "c",
+        "text": "Funkcia, ktorá optimalizuje náklady"
+      },
+      {
+        "id": "d",
+        "text": "Funkcia, ktorá určuje poradie úloh"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 31,
+    "text": "Aké sú hlavné charakteristiky úloh rozvrhovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stroje a suroviny"
+      },
+      {
+        "id": "b",
+        "text": "Stroje a úlohy"
+      },
+      {
+        "id": "c",
+        "text": "Suroviny a úlohy"
+      },
+      {
+        "id": "d",
+        "text": "Zdroje a kapacity"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 32,
+    "text": "Čo zaručuje dispečerské riadenie?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maximálne využitie skladových zásob"
+      },
+      {
+        "id": "b",
+        "text": "Súlad medzi výstupmi a cieľmi výrobného procesu"
+      },
+      {
+        "id": "c",
+        "text": "Optimalizáciu nákladov na dopravu"
+      },
+      {
+        "id": "d",
+        "text": "Rýchlosť spracovania úloh"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Výrobná logistika"
+  },
+  {
+    "id": 33,
+    "text": "Aký je etymologický význam slova \"logistika\"?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Umenie efektívneho pohybu tovaru"
+      },
+      {
+        "id": "b",
+        "text": "Myslieť, súdny"
+      },
+      {
+        "id": "c",
+        "text": "Praktické umenie počítať"
+      },
+      {
+        "id": "d",
+        "text": "Efektívne riadenie výroby"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Logistika"
+  },
+  {
+    "id": 34,
+    "text": "Aký je hlavný cieľ logistiky podľa prvej definície?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maximalizácia zisku"
+      },
+      {
+        "id": "b",
+        "text": "Minimalizácia nákladov"
+      },
+      {
+        "id": "c",
+        "text": "Zabezpečenie kvality výrobkov"
+      },
+      {
+        "id": "d",
+        "text": "Zlepšenie vzťahov so zákazníkmi"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Logistika"
+  },
+  {
+    "id": 35,
+    "text": "Aké sú dve hlavné stránky logistiky?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Finančnú a výrobnú"
+      },
+      {
+        "id": "b",
+        "text": "Technickú a informačnú"
+      },
+      {
+        "id": "c",
+        "text": "Materiálno-technickú a riadiacu (informačnú)"
+      },
+      {
+        "id": "d",
+        "text": "Obchodnú a technickú"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Logistika"
+  },
+  {
+    "id": 36,
+    "text": "Aká je úloha prognózovania v logistike?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Plánovanie výrobných kapacít"
+      },
+      {
+        "id": "b",
+        "text": "Odhad predaja výrobkov v nasledujúcom období"
+      },
+      {
+        "id": "c",
+        "text": "Riadenie stavu skladových zásob"
+      },
+      {
+        "id": "d",
+        "text": "Technické a ekonomické posúdenie objednávok"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Prognózovanie"
+  },
+  {
+    "id": 37,
+    "text": "Aký je cieľ operačného výskumu?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vyvinúť nové technológie"
+      },
+      {
+        "id": "b",
+        "text": "Vypracovať závery a odporúčania pre čo najlepšie riadenie skúmaných operácií"
+      },
+      {
+        "id": "c",
+        "text": "Zvýšiť produkciu výrobkov"
+      },
+      {
+        "id": "d",
+        "text": "Minimalizovať náklady na výrobu"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Operačný výskum"
+  },
+  {
+    "id": 38,
+    "text": "Ktorý z nasledujúcich predpokladov NEPATRÍ medzi predpoklady lineárneho programovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Proporcionalita"
+      },
+      {
+        "id": "b",
+        "text": "Aditívnosť"
+      },
+      {
+        "id": "c",
+        "text": "Deliteľnosť"
+      },
+      {
+        "id": "d",
+        "text": "Náhodnosť"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 39,
+    "text": "Aký je princíp simplexovej metódy?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hľadanie optimálnych riešení v náhodných bodoch"
+      },
+      {
+        "id": "b",
+        "text": "Iteratívny prieskum krajných bodov množiny prípustných riešení (MPR)"
+      },
+      {
+        "id": "c",
+        "text": "Použitie heuristických algoritmov na nájdenie riešení"
+      },
+      {
+        "id": "d",
+        "text": "Aplikácia neurónových sietí na optimalizáciu"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 40,
+    "text": "Čo je lineárne programovanie?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stochastický, dynamický, rozhodovací model"
+      },
+      {
+        "id": "b",
+        "text": "Deterministický, statický, rozhodovací model"
+      },
+      {
+        "id": "c",
+        "text": "Deterministický, dynamický, rozhodovací model"
+      },
+      {
+        "id": "d",
+        "text": "Stochastický, statický, rozhodovací model"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 41,
+    "text": "Kedy je vhodné použiť grafickú metódu pri lineárnom programovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pri problémoch s tromi premennými"
+      },
+      {
+        "id": "b",
+        "text": "Pri problémoch s dvoma premennými"
+      },
+      {
+        "id": "c",
+        "text": "Pri problémoch s jednou premennou"
+      },
+      {
+        "id": "d",
+        "text": "Pri problémoch s viacerými premennými"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 42,
+    "text": "Čo je celočíselné programovanie?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deterministický, dynamický, rozhodovací model"
+      },
+      {
+        "id": "b",
+        "text": "Stochastický, statický, rozhodovací model"
+      },
+      {
+        "id": "c",
+        "text": "Deterministický, statický, rozhodovací model"
+      },
+      {
+        "id": "d",
+        "text": "Stochastický, dynamický, rozhodovací model"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 43,
+    "text": "Aké hodnoty môžu nadobúdať premenné v bivalentnom programovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ľubovoľné reálne čísla"
+      },
+      {
+        "id": "b",
+        "text": "Ľubovoľné kladné celé čísla"
+      },
+      {
+        "id": "c",
+        "text": "Hodnoty 0 alebo 1"
+      },
+      {
+        "id": "d",
+        "text": "Hodnoty 0 alebo ľubovoľné celé čísla"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 44,
+    "text": "Ktorá z nasledujúcich metód nezaručuje nájdenie optimálneho riešenia, ale poskytuje suboptimálne riešenie v rozumnom čase?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Metóda vetvenia a medzí"
+      },
+      {
+        "id": "b",
+        "text": "Celočíselné programovanie"
+      },
+      {
+        "id": "c",
+        "text": "Heuristické metódy (napr. genetické algoritmy, simulované žíhanie)"
+      },
+      {
+        "id": "d",
+        "text": "Simplexová metóda"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 45,
+    "text": "Aký je princíp vetvenia v metóde vetvenia a medzí?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rozklad MPR na disjunktné podmnožiny"
+      },
+      {
+        "id": "b",
+        "text": "Stanovenie hornej medze kriteriálnej funkcie"
+      },
+      {
+        "id": "c",
+        "text": "Odhady hodnoty kriteriálnej funkcie"
+      },
+      {
+        "id": "d",
+        "text": "Určenie najlepšieho prípustného riešenia"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Celočíselné programovanie"
+  },
+  {
+    "id": 46,
+    "text": "Aká je počiatočná hodnota spodnej medze pri inicializácii metódy vetvenia a medzí pre prípad maximalizácie?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "= 0"
+      },
+      {
+        "id": "b",
+        "text": "= +∞"
+      },
+      {
+        "id": "c",
+        "text": "= -∞ (mínus nekonečno)"
+      },
+      {
+        "id": "d",
+        "text": "= 1"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Celočíselné programovanie"
+  },
+  {
+    "id": 47,
+    "text": "Čo znamená rozvrhovanie s prerušením?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Úlohy musia byť dokončené bez prerušenia"
+      },
+      {
+        "id": "b",
+        "text": "Úlohy môžu byť pozastavené v prospech iných úloh"
+      },
+      {
+        "id": "c",
+        "text": "Úlohy musia byť dokončené v poradí, v akom boli pridelené"
+      },
+      {
+        "id": "d",
+        "text": "Úlohy majú rovnaké časy spracovania"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 48,
+    "text": "Aký typ premenných sa používa pri výbere zákaziek v príklade bivalentného programovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reálne čísla"
+      },
+      {
+        "id": "b",
+        "text": "Celé čísla"
+      },
+      {
+        "id": "c",
+        "text": "Bivalentné premenné (0 alebo 1)"
+      },
+      {
+        "id": "d",
+        "text": "Nezáporné premenné"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Celočíselné programovanie"
+  },
+  {
+    "id": 49,
+    "text": "Ktorá heuristika priraďuje úlohy podľa najdlhšieho trvania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "SPT"
+      },
+      {
+        "id": "b",
+        "text": "EST"
+      },
+      {
+        "id": "c",
+        "text": "LPT"
+      },
+      {
+        "id": "d",
+        "text": "MWR"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 50,
+    "text": "Ako sa nazývajú úlohy bežiace na špeciálne určených strojoch?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Paralelné procesory"
+      },
+      {
+        "id": "b",
+        "text": "Špecializované procesory"
+      },
+      {
+        "id": "c",
+        "text": "Jednostupňová výroba"
+      },
+      {
+        "id": "d",
+        "text": "Viacstupňová výroba"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 51,
+    "text": "Ktorá metóda sa používa pre permutačné rozvrhy?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Moorov algoritmus"
+      },
+      {
+        "id": "b",
+        "text": "Metóda vetvenia a medzí"
+      },
+      {
+        "id": "c",
+        "text": "Jacksonov algoritmus"
+      },
+      {
+        "id": "d",
+        "text": "Heuristika LPT"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 52,
+    "text": "Čo vyjadruje kriteriálna funkcia Cmax?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Celkové náklady na výrobu"
+      },
+      {
+        "id": "b",
+        "text": "Makespan — čas ukončenia poslednej úlohy v rozvrhu"
+      },
+      {
+        "id": "c",
+        "text": "Počet úloh v rozvrhu"
+      },
+      {
+        "id": "d",
+        "text": "Priemerná doba čakania úloh"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 53,
+    "text": "Čo charakterizuje open shop?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Procesor môže vykonávať len jednu úlohu v danom čase"
+      },
+      {
+        "id": "b",
+        "text": "Úlohy musia byť vykonané v presne určenom poradí"
+      },
+      {
+        "id": "c",
+        "text": "Úlohy môžu byť vykonané v ľubovoľnom poradí"
+      },
+      {
+        "id": "d",
+        "text": "Procesor musí byť špecializovaný na konkrétne úlohy"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 54,
+    "text": "Ktorý algoritmus sa používa pri flow shop s dvoma procesormi?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Moorov algoritmus"
+      },
+      {
+        "id": "b",
+        "text": "Johnsonov algoritmus"
+      },
+      {
+        "id": "c",
+        "text": "Heuristika LPT"
+      },
+      {
+        "id": "d",
+        "text": "Metóda vetvenia a medzí"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 55,
+    "text": "Ktorý algoritmus NEPATRÍ medzi metódy rozvrhovania na jednom procesore?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jacksonov algoritmus"
+      },
+      {
+        "id": "b",
+        "text": "LPT"
+      },
+      {
+        "id": "c",
+        "text": "SPT"
+      },
+      {
+        "id": "d",
+        "text": "Johnsonov algoritmus"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 56,
+    "text": "Ktorý algoritmus nájde optimálny rozvrh pre flow shop s 2 procesormi?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Johnsonov algoritmus"
+      },
+      {
+        "id": "b",
+        "text": "Jacksonov algoritmus"
+      },
+      {
+        "id": "c",
+        "text": "Metóda vetvenia a hraníc"
+      },
+      {
+        "id": "d",
+        "text": "Algoritmus greedy search"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 57,
+    "text": "Ktorá metóda sa používa pre úlohy s prerušením na jednom procesore?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jacksonov algoritmus"
+      },
+      {
+        "id": "b",
+        "text": "Johnsonov algoritmus"
+      },
+      {
+        "id": "c",
+        "text": "LPT heuristika"
+      },
+      {
+        "id": "d",
+        "text": "SPT heuristika"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 58,
+    "text": "Ako sa nazývajú zákazky, kde každá úloha beží na inom stroji?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Paralelné procesory"
+      },
+      {
+        "id": "b",
+        "text": "Dedikované procesory"
+      },
+      {
+        "id": "c",
+        "text": "Hybridné procesory"
+      },
+      {
+        "id": "d",
+        "text": "Dynamické procesory"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 59,
+    "text": "Kedy sa výrobná logistika začala uplatňovať v civilnej sfére?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Na začiatku 20. storočia"
+      },
+      {
+        "id": "b",
+        "text": "V polovici 20. storočia"
+      },
+      {
+        "id": "c",
+        "text": "V druhej polovici 20. storočia"
+      },
+      {
+        "id": "d",
+        "text": "Na začiatku 21. storočia"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Logistika"
+  },
+  {
+    "id": 60,
+    "text": "Aké sú hlavné úlohy výrobnej logistiky?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Len preprava hotových výrobkov"
+      },
+      {
+        "id": "b",
+        "text": "Plánovanie a riadenie s cieľom efektívneho pohybu tovaru, zásob a informácií"
+      },
+      {
+        "id": "c",
+        "text": "Výhradne zásobovanie výroby surovinami"
+      },
+      {
+        "id": "d",
+        "text": "Len transport tovaru"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Logistika"
+  },
+  {
+    "id": 61,
+    "text": "Čo je cieľom prognózovania v logistike?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Plánovanie výrobných kapacít na základe histórie"
+      },
+      {
+        "id": "b",
+        "text": "Odhad predaja výrobkov v nasledujúcom období a zníženie neurčitosti pri plánovaní"
+      },
+      {
+        "id": "c",
+        "text": "Riadenie stavu skladových zásob"
+      },
+      {
+        "id": "d",
+        "text": "Optimalizácia výrobného procesu"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Prognózovanie"
+  },
+  {
+    "id": 62,
+    "text": "Čo zabezpečuje materiálová bilancia vo výrobnej logistike?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Riešenie problémov s ohraničeniami"
+      },
+      {
+        "id": "b",
+        "text": "Plánovanie pravidelnej údržby"
+      },
+      {
+        "id": "c",
+        "text": "Objednanie potrebného množstva materiálov na výrobu"
+      },
+      {
+        "id": "d",
+        "text": "Balenie a dodávku výrobkov"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Výrobná logistika"
+  },
+  {
+    "id": 63,
+    "text": "Aký je cieľ zákazkovej logistiky?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Monitorovanie procesov a operatívna evidencia"
+      },
+      {
+        "id": "b",
+        "text": "Definícia cieľov pre dispečerské riadenie"
+      },
+      {
+        "id": "c",
+        "text": "Technické a ekonomické posúdenie objednávok"
+      },
+      {
+        "id": "d",
+        "text": "Riadenie stavu skladových zásob"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Výrobná logistika"
+  },
+  {
+    "id": 64,
+    "text": "Aká je hlavná úloha dispečerského riadenia vo výrobnom procese?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Plánovanie pravidelnej údržby"
+      },
+      {
+        "id": "b",
+        "text": "Dozerá a riadi správny priebeh navrhnutého rozvrhu výroby"
+      },
+      {
+        "id": "c",
+        "text": "Balenie a dodávka k zákazníkovi"
+      },
+      {
+        "id": "d",
+        "text": "Predikcia predaja výrobkov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Výrobná logistika"
+  },
+  {
+    "id": 65,
+    "text": "Čo predstavuje expedícia v kontexte logistiky?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Riadenie stavu skladových zásob"
+      },
+      {
+        "id": "b",
+        "text": "Plánovanie výroby"
+      },
+      {
+        "id": "c",
+        "text": "Balenie a dodávka k zákazníkovi"
+      },
+      {
+        "id": "d",
+        "text": "Technické posúdenie objednávok"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Výrobná logistika"
+  },
+  {
+    "id": 66,
+    "text": "Čo je operačný výskum?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vedecká disciplína zaoberajúca sa finančnou analýzou"
+      },
+      {
+        "id": "b",
+        "text": "Vedecká disciplína skúmajúca operácie v organizačných jednotkách"
+      },
+      {
+        "id": "c",
+        "text": "Metóda marketingového prieskumu"
+      },
+      {
+        "id": "d",
+        "text": "Systém pre správu skladových zásob"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Operačný výskum"
+  },
+  {
+    "id": 67,
+    "text": "Aký je cieľ operačného výskumu?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zlepšenie kvality výrobkov"
+      },
+      {
+        "id": "b",
+        "text": "Vypracovanie záverov a odporúčaní pre čo najlepšie riadenie skúmaných operácií"
+      },
+      {
+        "id": "c",
+        "text": "Zvýšenie výrobných kapacít"
+      },
+      {
+        "id": "d",
+        "text": "Plánovanie marketingových kampaní"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Operačný výskum"
+  },
+  {
+    "id": 68,
+    "text": "Ako sa členia typy matematických modelov podľa prítomnosti náhodných veličín?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dynamické a statické"
+      },
+      {
+        "id": "b",
+        "text": "Rozhodovacie a technologické"
+      },
+      {
+        "id": "c",
+        "text": "Stochastické a deterministické"
+      },
+      {
+        "id": "d",
+        "text": "Finančné a nefinančné"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Operačný výskum"
+  },
+  {
+    "id": 69,
+    "text": "Čo charakterizuje dynamický matematický model?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Modeluje časové zmeny"
+      },
+      {
+        "id": "b",
+        "text": "Neobsahuje kriteriálnu funkciu"
+      },
+      {
+        "id": "c",
+        "text": "Obsahuje náhodné veličiny"
+      },
+      {
+        "id": "d",
+        "text": "Nemodeluje časové zmeny"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Operačný výskum"
+  },
+  {
+    "id": 70,
+    "text": "Aký typ modelu obsahuje kriteriálnu funkciu?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deterministický model"
+      },
+      {
+        "id": "b",
+        "text": "Stochastický model"
+      },
+      {
+        "id": "c",
+        "text": "Technologický model"
+      },
+      {
+        "id": "d",
+        "text": "Rozhodovací model"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ],
+    "topic": "Operačný výskum"
+  },
+  {
+    "id": 71,
+    "text": "Aký typ modelu je lineárne programovanie?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stochastický, dynamický, technologický model"
+      },
+      {
+        "id": "b",
+        "text": "Deterministický, statický, rozhodovací model"
+      },
+      {
+        "id": "c",
+        "text": "Stochastický, statický, rozhodovací model"
+      },
+      {
+        "id": "d",
+        "text": "Deterministický, dynamický, technologický model"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 72,
+    "text": "Aký je cieľ lineárneho programovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nájsť hodnoty premenných, ktoré minimalizujú produkciu"
+      },
+      {
+        "id": "b",
+        "text": "Nájsť také hodnoty premenných, pre ktoré kriteriálna funkcia dosiahne maximálnu alebo minimálnu hodnotu"
+      },
+      {
+        "id": "c",
+        "text": "Určiť počet výrobkov, ktoré maximalizujú náklady"
+      },
+      {
+        "id": "d",
+        "text": "Riešiť dynamické zmeny v čase"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 73,
+    "text": "Aké vlastnosti musia mať premenné v lineárnom programovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Musia byť celé čísla"
+      },
+      {
+        "id": "b",
+        "text": "Musia byť nezáporné"
+      },
+      {
+        "id": "c",
+        "text": "Musia byť vždy maximálne"
+      },
+      {
+        "id": "d",
+        "text": "Musia byť menšie ako 1"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 74,
+    "text": "Čo vyjadruje predpoklad proporcionality v lineárnom programovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Celková spotreba zdroja sa rovná súčtu dielčích spotrieb"
+      },
+      {
+        "id": "b",
+        "text": "Predpoklad priamej úmernosti spotreby jednotlivých zdrojov a hodnoty produkcie s veľkosťou produkcie"
+      },
+      {
+        "id": "c",
+        "text": "Premenné nadobúdajú iba celočíselné hodnoty"
+      },
+      {
+        "id": "d",
+        "text": "Kriteriálna funkcia vždy dosiahne extrém aspoň v jednom krajnom bode"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 75,
+    "text": "Čo vyjadruje maticová forma lineárneho programovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dynamické zmeny v čase"
+      },
+      {
+        "id": "b",
+        "text": "Modelovanie náhodných veličín"
+      },
+      {
+        "id": "c",
+        "text": "Rovnosti a nerovnosti obmedzujúcich podmienok vyjadrené v maticovej forme"
+      },
+      {
+        "id": "d",
+        "text": "Používanie heuristických metód"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 76,
+    "text": "Kedy je grafická metóda vhodná pri lineárnom programovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keď máme viac ako dve premenné"
+      },
+      {
+        "id": "b",
+        "text": "Keď máme iba jednu premennú"
+      },
+      {
+        "id": "c",
+        "text": "Keď máme presne dve premenné"
+      },
+      {
+        "id": "d",
+        "text": "Keď chceme modelovať časové zmeny"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 77,
+    "text": "Aký je prvý krok grafickej metódy v lineárnom programovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vyznačiť oblasť spĺňajúcu všetky ohraničenia"
+      },
+      {
+        "id": "b",
+        "text": "Zakresliť priamku zodpovedajúcu kriteriálnej funkcii"
+      },
+      {
+        "id": "c",
+        "text": "Zakresliť všetky definované ohraničenia"
+      },
+      {
+        "id": "d",
+        "text": "Vypočítať súradnice optimálneho riešenia"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 78,
+    "text": "Čo predstavuje prechod krajných bodov v simplexovej metóde?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zmena hodnoty kriteriálnej funkcie"
+      },
+      {
+        "id": "b",
+        "text": "Zmena kritérií ohraničení"
+      },
+      {
+        "id": "c",
+        "text": "Prechod od jedného bázického riešenia k inému bázickému riešeniu"
+      },
+      {
+        "id": "d",
+        "text": "Prechod od jednej funkcie k inej funkcii"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 79,
+    "text": "Čo sa stane v simplexovej metóde, ak neexistuje zlepšujúci bod?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pokračujeme v iteráciách"
+      },
+      {
+        "id": "b",
+        "text": "Aktuálne riešenie je považované za optimálne"
+      },
+      {
+        "id": "c",
+        "text": "Meníme kritériá ohraničení"
+      },
+      {
+        "id": "d",
+        "text": "Začíname proces od začiatku"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 80,
+    "text": "Aký je účel priamky kriteriálnej funkcie v grafickej metóde?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Určiť smer pohybu množiny prípustných riešení"
+      },
+      {
+        "id": "b",
+        "text": "Zistiť, ktorým smerom hodnota kriteriálnej funkcie rastie alebo klesá"
+      },
+      {
+        "id": "c",
+        "text": "Identifikovať bod, kde sa križujú všetky priamky"
+      },
+      {
+        "id": "d",
+        "text": "Vypočítať hodnotu premenných"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 81,
+    "text": "Aké sú kroky simplexovej metódy?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Výber ľubovoľného bodu, prechod na ďalší bod, kontrola kritérií, optimalizácia"
+      },
+      {
+        "id": "b",
+        "text": "Výber východiskového bodu, prechod na krajný bod s lepšou hodnotou kriteriálnej funkcie, pokračovanie v iteráciách, kontrola optimality"
+      },
+      {
+        "id": "c",
+        "text": "Výber optimálneho bodu, iterácia k ďalšiemu bodu, kontrola výsledkov"
+      },
+      {
+        "id": "d",
+        "text": "Výber bázického riešenia, kontrola ohraničení, optimalizácia kritérií"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 82,
+    "text": "Čo sa stane, keď kriteriálna funkcia dosiahne optimum v grafickej metóde?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zvolíme nový východiskový bod"
+      },
+      {
+        "id": "b",
+        "text": "Ukončíme proces hľadania riešenia"
+      },
+      {
+        "id": "c",
+        "text": "Zmeníme hodnoty premenných"
+      },
+      {
+        "id": "d",
+        "text": "Pokračujeme v hľadaní lepších riešení"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 83,
+    "text": "Čo je bivalentné programovanie?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Model s premennými nadobúdajúcimi ľubovoľné celé čísla"
+      },
+      {
+        "id": "b",
+        "text": "Deterministický, statický, rozhodovací model s premennými, ktoré sú dvojhodnotové (0 alebo 1)"
+      },
+      {
+        "id": "c",
+        "text": "Model s premennými nadobúdajúcimi ľubovoľné reálne čísla"
+      },
+      {
+        "id": "d",
+        "text": "Dynamický model s dvojhodnotovými premennými"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Lineárne programovanie"
+  },
+  {
+    "id": 84,
+    "text": "Aké metódy sa používajú na riešenie celočíselného programovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Úplné a približné"
+      },
+      {
+        "id": "b",
+        "text": "Dynamické a statické"
+      },
+      {
+        "id": "c",
+        "text": "Lineárne a nelineárne"
+      },
+      {
+        "id": "d",
+        "text": "Presné a heuristické"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Celočíselné programovanie"
+  },
+  {
+    "id": 85,
+    "text": "Ktorý typ metód poskytuje suboptimálne riešenie v rozumnom čase?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Úplné metódy"
+      },
+      {
+        "id": "b",
+        "text": "Približné metódy"
+      },
+      {
+        "id": "c",
+        "text": "Dynamické metódy"
+      },
+      {
+        "id": "d",
+        "text": "Statické metódy"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Celočíselné programovanie"
+  },
+  {
+    "id": 86,
+    "text": "Ktorá metóda zaručuje nájdenie optimálneho riešenia pri celočíselnom programovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Simulované žíhanie"
+      },
+      {
+        "id": "b",
+        "text": "Genetické algoritmy"
+      },
+      {
+        "id": "c",
+        "text": "Metóda vetvenia a medzí"
+      },
+      {
+        "id": "d",
+        "text": "Heuristické metódy"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Celočíselné programovanie"
+  },
+  {
+    "id": 87,
+    "text": "Aký je princíp vetvenia v metóde vetvenia a medzí?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Množina prípustných riešení sa zlučuje do jednej podmnožiny"
+      },
+      {
+        "id": "b",
+        "text": "Množina prípustných riešení sa rozkladá na rad disjunktných podmnožín"
+      },
+      {
+        "id": "c",
+        "text": "Všetky riešenia sa ignorujú"
+      },
+      {
+        "id": "d",
+        "text": "Všetky riešenia sa zlúčia do jednej množiny"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Celočíselné programovanie"
+  },
+  {
+    "id": 88,
+    "text": "Čo predstavuje horná medza pri maximalizácii v metóde vetvenia a medzí?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hodnota KF najhoršieho doteraz nájdeného riešenia"
+      },
+      {
+        "id": "b",
+        "text": "Najlepšia teoreticky možná hodnota kriteriálnej funkcie bez uvažovania obmedzení"
+      },
+      {
+        "id": "c",
+        "text": "Hodnota KF najlepšieho doteraz nájdeného riešenia"
+      },
+      {
+        "id": "d",
+        "text": "Najhoršia teoreticky možná hodnota KF"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Celočíselné programovanie"
+  },
+  {
+    "id": 89,
+    "text": "Aký je prvý krok metódy vetvenia a medzí?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Orezávanie"
+      },
+      {
+        "id": "b",
+        "text": "Stanovenie hornej medze"
+      },
+      {
+        "id": "c",
+        "text": "Inicializácia"
+      },
+      {
+        "id": "d",
+        "text": "Stanovenie spodnej medze"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Celočíselné programovanie"
+  },
+  {
+    "id": 90,
+    "text": "Čo je orezávanie v metóde vetvenia a medzí?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vylúčenie podmnožín, pre ktoré horná medza je nižšia ako dolná medza alebo ktoré sú prázdne"
+      },
+      {
+        "id": "b",
+        "text": "Vylúčenie všetkých podmnožín"
+      },
+      {
+        "id": "c",
+        "text": "Vylúčenie všetkých riešení"
+      },
+      {
+        "id": "d",
+        "text": "Vylúčenie horných medzí"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Celočíselné programovanie"
+  },
+  {
+    "id": 91,
+    "text": "Ak chýbajú presné údaje pre alokáciu distribučného centra, ktorú metódu použijeme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Euklidovská metóda"
+      },
+      {
+        "id": "b",
+        "text": "Pomerovo-indexová metóda"
+      },
+      {
+        "id": "c",
+        "text": "Metóda vetvenia a medzí"
+      },
+      {
+        "id": "d",
+        "text": "Genetický algoritmus"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 92,
+    "text": "Aké typy vzdialeností možno použiť pri optimalizácii umiestnenia distribučného centra s presnými údajmi?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Len euklidovská vzdialenosť"
+      },
+      {
+        "id": "b",
+        "text": "Len rektilineárna (Manhattanská) vzdialenosť"
+      },
+      {
+        "id": "c",
+        "text": "Euklidovská alebo rektilineárna (Manhattanská) vzdialenosť"
+      },
+      {
+        "id": "d",
+        "text": "Len kvadrát euklidovskej vzdialenosti"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 93,
+    "text": "Čo je priraďovací problém (základná verzia)?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Výber jednej optimálnej lokality pre výrobný závod"
+      },
+      {
+        "id": "b",
+        "text": "Priradenie n objektov do n miest (základná verzia)"
+      },
+      {
+        "id": "c",
+        "text": "Optimalizácia vzdialenosti najvzdialenejšieho odberateľa"
+      },
+      {
+        "id": "d",
+        "text": "Riešenie problému bez ohľadu na presné údaje"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 94,
+    "text": "Čo je charakteristické pre kvadratický priraďovací problém?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Väzby len medzi novými a existujúcimi objektmi"
+      },
+      {
+        "id": "b",
+        "text": "Väzby medzi novými objektmi navzájom"
+      },
+      {
+        "id": "c",
+        "text": "Výber najvhodnejšej lokality na základe váh faktorov"
+      },
+      {
+        "id": "d",
+        "text": "Minimalizácia vzdialenosti najvzdialenejšieho odberateľa"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 95,
+    "text": "Čo je zovšeobecnený distribučný problém?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Priradenie n objektov do n miest"
+      },
+      {
+        "id": "b",
+        "text": "Výber podmnožiny m miest pre distribučné centrá a optimalizácia dodávok n zákazníkom"
+      },
+      {
+        "id": "c",
+        "text": "Optimalizácia umiestnenia jedného distribučného centra"
+      },
+      {
+        "id": "d",
+        "text": "Výber najvhodnejšej lokality pomocou pomerovo-indexovej metódy"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 96,
+    "text": "Aké sú predpoklady pomerovo-indexovej metódy?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ak sú presne známi dodávatelia a odberatelia"
+      },
+      {
+        "id": "b",
+        "text": "Ak je možné vyjadriť závažnosť každého faktora (kritéria) voči ostatným faktorom (kritériám)"
+      },
+      {
+        "id": "c",
+        "text": "Ak nie sú známe lokality"
+      },
+      {
+        "id": "d",
+        "text": "Ak je ľahké vyčísliť presné náklady"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 97,
+    "text": "Aký je prvý krok pomerovo-indexovej metódy?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stanovenie dolnej hranice intervalu hodnôt"
+      },
+      {
+        "id": "b",
+        "text": "Stanovenie rozhodujúcich faktorov a kritérií pre jednotlivé lokality"
+      },
+      {
+        "id": "c",
+        "text": "Priradenie váh jednotlivým faktorom"
+      },
+      {
+        "id": "d",
+        "text": "Výpočet výsledného hodnotenia jednotlivých lokalít"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 98,
+    "text": "Čo predstavuje vážený súčet v pomerovo-indexovej metóde?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Súčet dolných hraníc intervalov hodnôt"
+      },
+      {
+        "id": "b",
+        "text": "Súčet horných hraníc intervalov hodnôt"
+      },
+      {
+        "id": "c",
+        "text": "Výsledné hodnotenie danej lokality"
+      },
+      {
+        "id": "d",
+        "text": "Rozdiel medzi dolnou a hornou hranicou intervalu hodnôt"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 99,
+    "text": "Ako sa vyberie najlepšia lokalita v pomerovo-indexovej metóde?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lokalita s najvyššou váhou jedného faktoru"
+      },
+      {
+        "id": "b",
+        "text": "Lokalita s najnižšou váhou všetkých faktorov"
+      },
+      {
+        "id": "c",
+        "text": "Lokalita, pre ktorú je hodnota váženého súčtu maximálna"
+      },
+      {
+        "id": "d",
+        "text": "Lokalita s najnižšou hodnotou váženého súčtu"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 100,
+    "text": "Ktorý vzorec √((x-ai)²+(y-bi)²) vyjadruje?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Euklidovská vzdialenosť"
+      },
+      {
+        "id": "b",
+        "text": "Kvadrát euklidovskej vzdialenosti"
+      },
+      {
+        "id": "c",
+        "text": "Rektilineárna (Manhattanská) vzdialenosť"
+      },
+      {
+        "id": "d",
+        "text": "Minimalizácia vzdialenosti najvzdialenejšieho objektu"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 101,
+    "text": "Aký je iteratívny postup pri výpočte optimálneho umiestnenia s euklidovskou vzdialenosťou?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Inicializujeme hodnoty pre ťažisko, v každej iterácii počítame nové súradnice a hodnotu kriteriálnej funkcie až po dosiahnutie požadovanej presnosti"
+      },
+      {
+        "id": "b",
+        "text": "Inicializujeme hodnoty pre ťažisko, zvolíme náhodné súradnice a kriteriálnu funkciu kontrolujeme len na začiatku"
+      },
+      {
+        "id": "c",
+        "text": "Začíname s nulovými hodnotami súradníc a postupne zvyšujeme v pevných krokoch"
+      },
+      {
+        "id": "d",
+        "text": "V každej iterácii kontrolujeme len zmenu súradníc a nezohľadňujeme kriteriálnu funkciu"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 102,
+    "text": "Kedy ukončíme iteratívny výpočet optimálneho umiestnenia?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keď dosiahneme maximálny počet iterácií"
+      },
+      {
+        "id": "b",
+        "text": "Keď sa hodnota kriteriálnej funkcie na druhom mieste za desatinnou čiarkou už nemení"
+      },
+      {
+        "id": "c",
+        "text": "Keď sú všetky súradnice nulové"
+      },
+      {
+        "id": "d",
+        "text": "Keď sa hodnota kriteriálnej funkcie neustále zvyšuje"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 103,
+    "text": "Ako sa vypočítava euklidovská vzdialenosť?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sčítaním vzdialeností v x a y osi"
+      },
+      {
+        "id": "b",
+        "text": "Násobením súradníc bodov"
+      },
+      {
+        "id": "c",
+        "text": "Využitím Pytagorovej vety"
+      },
+      {
+        "id": "d",
+        "text": "Delením rozdielu ich súradníc"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 104,
+    "text": "Aký je postup pri mediánovom umiestnení?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vypočítať priemer všetkých súradníc"
+      },
+      {
+        "id": "b",
+        "text": "Identifikovať bod s najvyšším a najnižším výskytom"
+      },
+      {
+        "id": "c",
+        "text": "Usporiadať objekty podľa ich súradníc a nájsť stredový bod"
+      },
+      {
+        "id": "d",
+        "text": "Použiť náhodný výber na určenie centrálneho bodu"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 105,
+    "text": "Ako sa minimalizuje vzdialenosť najvzdialenejšieho bodu?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vypočítaním priemernej vzdialenosti od všetkých bodov"
+      },
+      {
+        "id": "b",
+        "text": "Nájdením stredného bodu medzi všetkými bodmi"
+      },
+      {
+        "id": "c",
+        "text": "Identifikáciou strediska minimálnej kružnice obsahujúcej všetky body"
+      },
+      {
+        "id": "d",
+        "text": "Využitím rektilineárnej vzdialenosti pre každý bod"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 106,
+    "text": "Čo je iteratívny výpočet optimálneho umiestnenia?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Opakované testovanie rôznych lokalít do nájdenia najlepšieho riešenia"
+      },
+      {
+        "id": "b",
+        "text": "Výpočet založený na postupnom zlepšovaní odhadu polohy"
+      },
+      {
+        "id": "c",
+        "text": "Jednorázový výpočet používajúci priemerné hodnoty súradníc"
+      },
+      {
+        "id": "d",
+        "text": "Použitie vzorcov bez potreby ďalších výpočtov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 107,
+    "text": "Aký typ modelu sa používa pre základnú verziu priraďovacieho problému?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lineárne programovanie"
+      },
+      {
+        "id": "b",
+        "text": "Celočíselné (bivalentné) programovanie"
+      },
+      {
+        "id": "c",
+        "text": "Dynamické programovanie"
+      },
+      {
+        "id": "d",
+        "text": "Heuristické programovanie"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 108,
+    "text": "Aké sú rozhodujúce premenné v základnej verzii priraďovacieho problému?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kontinuálne premenné"
+      },
+      {
+        "id": "b",
+        "text": "Bivalentné premenné"
+      },
+      {
+        "id": "c",
+        "text": "Binomické premenné"
+      },
+      {
+        "id": "d",
+        "text": "Logistické premenné"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 109,
+    "text": "Aký je rozdiel medzi základnou a väzbovou verziou priraďovacieho problému?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Základná verzia zahŕňa existujúce objekty, verzia s väzbami nie"
+      },
+      {
+        "id": "b",
+        "text": "Verzia s väzbami zahŕňa existujúce objekty a väzby medzi nimi a novými objektmi"
+      },
+      {
+        "id": "c",
+        "text": "Základná verzia využíva heuristické metódy, verzia s väzbami presné algoritmy"
+      },
+      {
+        "id": "d",
+        "text": "Verzia s väzbami neberie do úvahy náklady na prepravu"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 110,
+    "text": "Aké typy matíc sa používajú vo väzbovej verzii priraďovacieho problému?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Matica nákladov a matica váh"
+      },
+      {
+        "id": "b",
+        "text": "Matica prepravných sadzieb a matica vzdialeností"
+      },
+      {
+        "id": "c",
+        "text": "Matica váh a matica vzdialeností"
+      },
+      {
+        "id": "d",
+        "text": "Matica nákladov a matica prepravných sadzieb"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 111,
+    "text": "Ktoré metódy sa používajú na riešenie kvadratického priraďovacieho problému?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Metóda vetvenia a medzí a metóda CRAFT"
+      },
+      {
+        "id": "b",
+        "text": "Metóda simplex a metóda vetvenia a medzí"
+      },
+      {
+        "id": "c",
+        "text": "Heuristické metódy a dynamické programovanie"
+      },
+      {
+        "id": "d",
+        "text": "Metóda geometrického stredu a Huffov model"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 112,
+    "text": "Aký je cieľ kvadratického priraďovacieho problému?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Minimalizovať náklady na prepravu medzi existujúcimi objektmi"
+      },
+      {
+        "id": "b",
+        "text": "Minimalizovať vzdialenosť medzi novými objektmi a existujúcimi miestami"
+      },
+      {
+        "id": "c",
+        "text": "Minimalizovať celkové náklady vrátane väzieb medzi novými objektmi"
+      },
+      {
+        "id": "d",
+        "text": "Minimalizovať počet nových objektov potrebných na pokrytie existujúcich miest"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 113,
+    "text": "Aký typ väzieb je charakteristický pre kvadratický priraďovací problém?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Väzby medzi existujúcimi objektmi a novými miestami"
+      },
+      {
+        "id": "b",
+        "text": "Väzby medzi novými objektmi a existujúcimi objektmi"
+      },
+      {
+        "id": "c",
+        "text": "Väzby medzi novými objektmi navzájom"
+      },
+      {
+        "id": "d",
+        "text": "Väzby medzi novými miestami navzájom"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 114,
+    "text": "Ako sa vyjadruje riešenie v kvadratickom priraďovacom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ako matica vzdialeností"
+      },
+      {
+        "id": "b",
+        "text": "Ako permutácia"
+      },
+      {
+        "id": "c",
+        "text": "Ako vektor intenzity väzieb"
+      },
+      {
+        "id": "d",
+        "text": "Ako bivalentná premenná"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 115,
+    "text": "Čo vyjadruje p(i) v permutácii kvadratického priraďovacieho problému?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vzdialenosť medzi objektmi"
+      },
+      {
+        "id": "b",
+        "text": "Náklady na prepravu"
+      },
+      {
+        "id": "c",
+        "text": "Index miesta, do ktorého je i-ty objekt umiestnený"
+      },
+      {
+        "id": "d",
+        "text": "Index objektu, ktorý je umiestnený na i-te miesto"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 116,
+    "text": "Aký je princíp metódy CRAFT pri kvadratickom priraďovacom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hľadanie optimálneho riešenia pomocou vetvenia a medzí"
+      },
+      {
+        "id": "b",
+        "text": "Minimalizácia nákladov pomocou lineárneho programovania"
+      },
+      {
+        "id": "c",
+        "text": "Vytvorenie nových permutácií výmenami dvojíc objektov a výber najlepšieho riešenia"
+      },
+      {
+        "id": "d",
+        "text": "Stanovenie pevných väzieb medzi existujúcimi a novými objektmi"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 117,
+    "text": "Aký je cieľ metódy CRAFT v priraďovacích problémoch?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nájsť najrýchlejšie riešenie"
+      },
+      {
+        "id": "b",
+        "text": "Nájsť najlacnejšie riešenie bez ohľadu na kvalitu"
+      },
+      {
+        "id": "c",
+        "text": "Optimalizovať permutáciu na základe kriteriálnej funkcie"
+      },
+      {
+        "id": "d",
+        "text": "Minimalizovať počet permutácií"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 118,
+    "text": "Čo sa hodnotí pre každú permutáciu v metóde CRAFT?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Počet existujúcich objektov"
+      },
+      {
+        "id": "b",
+        "text": "Náklady na prepravu medzi objektmi"
+      },
+      {
+        "id": "c",
+        "text": "Hodnota kriteriálnej funkcie"
+      },
+      {
+        "id": "d",
+        "text": "Matica vzdialeností medzi objektmi"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 119,
+    "text": "Kedy sa zastaví iterácia v metóde CRAFT?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keď sa dosiahne preddefinovaný počet permutácií"
+      },
+      {
+        "id": "b",
+        "text": "Keď sa už nezlepšuje hodnota kriteriálnej funkcie"
+      },
+      {
+        "id": "c",
+        "text": "Keď sú všetky permutácie vyskúšané"
+      },
+      {
+        "id": "d",
+        "text": "Keď sa nájde prvé optimálne riešenie"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 120,
+    "text": "V ktorých oblastiach sa využívajú priraďovacie problémy?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "V zdravotníctve a biológii"
+      },
+      {
+        "id": "b",
+        "text": "V doprave a logistike"
+      },
+      {
+        "id": "c",
+        "text": "V literatúre a umení"
+      },
+      {
+        "id": "d",
+        "text": "V športových aktivitách"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 121,
+    "text": "Aká je výhoda metódy vetvenia a medzí pri kvadratickom priraďovacom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rýchlosť riešenia"
+      },
+      {
+        "id": "b",
+        "text": "Jednoduchosť implementácie"
+      },
+      {
+        "id": "c",
+        "text": "Zaručenie nájdenia optimálneho riešenia"
+      },
+      {
+        "id": "d",
+        "text": "Flexibilita pri zmene parametrov"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 122,
+    "text": "Aký je počet miest pre distribučné centrá v zovšeobecnenom distribučnom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nekonečný počet"
+      },
+      {
+        "id": "b",
+        "text": "Konečný počet"
+      },
+      {
+        "id": "c",
+        "text": "Počet závisí od odberateľov"
+      },
+      {
+        "id": "d",
+        "text": "Počet nie je špecifikovaný"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 123,
+    "text": "Aké typy nákladov sa uvažujú v zovšeobecnenom distribučnom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Len fixné náklady"
+      },
+      {
+        "id": "b",
+        "text": "Len prepravné náklady"
+      },
+      {
+        "id": "c",
+        "text": "Fixné aj prepravné náklady"
+      },
+      {
+        "id": "d",
+        "text": "Náklady na inštaláciu a údržbu"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 124,
+    "text": "Akú hodnotu má yi, keď je miesto vybrané v zovšeobecnenom distribučnom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "0"
+      },
+      {
+        "id": "b",
+        "text": "1"
+      },
+      {
+        "id": "c",
+        "text": "2"
+      },
+      {
+        "id": "d",
+        "text": "Hodnota nie je binárna"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 125,
+    "text": "Čo znamená xij = 1 v zovšeobecnenom distribučnom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "i-te distribučné centrum nebude dodávať j-temu odberateľovi"
+      },
+      {
+        "id": "b",
+        "text": "i-te distribučné centrum bude dodávať j-temu odberateľovi"
+      },
+      {
+        "id": "c",
+        "text": "Distribučné centrum je uzatvorené"
+      },
+      {
+        "id": "d",
+        "text": "Odberateľ nemá priradené distribučné centrum"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 126,
+    "text": "Aké náklady sú minimalizované v kriteriálnej funkcii zovšeobecneného distribučného problému?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Len fixné náklady"
+      },
+      {
+        "id": "b",
+        "text": "Len prepravné náklady"
+      },
+      {
+        "id": "c",
+        "text": "Fixné aj prepravné náklady"
+      },
+      {
+        "id": "d",
+        "text": "Náklady na skladovanie"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 127,
+    "text": "Aké ohraničenia platia pre priradenie odberateľa v zovšeobecnenom distribučnom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Každý odberateľ môže byť priradený viacerým distribučným centrám"
+      },
+      {
+        "id": "b",
+        "text": "Každý odberateľ musí byť priradený práve jednému distribučnému centru"
+      },
+      {
+        "id": "c",
+        "text": "Každý odberateľ nemusí byť priradený žiadnemu distribučnému centru"
+      },
+      {
+        "id": "d",
+        "text": "Priradenie odberateľov je ľubovoľné"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 128,
+    "text": "Ktorá metóda sa odporúča pre jednoduché riešenie distribučného problému?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Heuristika"
+      },
+      {
+        "id": "b",
+        "text": "Celočíselné programovanie"
+      },
+      {
+        "id": "c",
+        "text": "Logické programovanie ohraničení"
+      },
+      {
+        "id": "d",
+        "text": "Dynamické programovanie"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 129,
+    "text": "Aká je nevýhoda celočíselného programovania pri veľkých úlohách distribučného problému?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Príliš vysoké fixné náklady"
+      },
+      {
+        "id": "b",
+        "text": "Nepružnosť pri zmene zadania"
+      },
+      {
+        "id": "c",
+        "text": "Nezvládnuteľný rozmer pri veľkých úlohách"
+      },
+      {
+        "id": "d",
+        "text": "Pomalý výpočet"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 130,
+    "text": "Aké sú výhody heuristického prístupu pri distribučnom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jednoduché riešenie malých aj veľkých úloh"
+      },
+      {
+        "id": "b",
+        "text": "Výrazné zmenšenie priestoru prehľadávania a rýchly výpočet"
+      },
+      {
+        "id": "c",
+        "text": "Zaručenie optimálneho riešenia"
+      },
+      {
+        "id": "d",
+        "text": "Flexibilita pri zmene zadania"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 131,
+    "text": "Aká je nevýhoda heuristiky pri distribučnom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pomalý výpočet"
+      },
+      {
+        "id": "b",
+        "text": "Potreba veľkej pamäte"
+      },
+      {
+        "id": "c",
+        "text": "Malá flexibilita pri zmene zadania"
+      },
+      {
+        "id": "d",
+        "text": "Zložité formulovanie problému"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 132,
+    "text": "Ktorý prístup je vhodný pre rýchle prototypovanie a flexibilitu pri distribučnom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Heuristický prístup"
+      },
+      {
+        "id": "b",
+        "text": "Celočíselné programovanie"
+      },
+      {
+        "id": "c",
+        "text": "Logické programovanie ohraničení"
+      },
+      {
+        "id": "d",
+        "text": "Dynamické programovanie"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 133,
+    "text": "Kedy je vhodné použiť celočíselné programovanie pri distribučnom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keď je rozmer úlohy veľký"
+      },
+      {
+        "id": "b",
+        "text": "Keď je potrebné rýchle riešenie"
+      },
+      {
+        "id": "c",
+        "text": "Keď nie sú dané špeciálne ohraničenia a rozmer úlohy nie je veľký"
+      },
+      {
+        "id": "d",
+        "text": "Keď je potrebná veľká flexibilita"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 134,
+    "text": "Kedy je vhodné použiť heuristiku pri distribučnom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keď je potrebná veľká flexibilita"
+      },
+      {
+        "id": "b",
+        "text": "Keď je rozmer úlohy veľký a zadanie úlohy sa nebude meniť"
+      },
+      {
+        "id": "c",
+        "text": "Keď je potrebné rýchle riešenie"
+      },
+      {
+        "id": "d",
+        "text": "Keď sú dané špeciálne ohraničenia"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 135,
+    "text": "Aká je výhoda logického programovania ohraničení oproti heuristike pri distribučnom probléme?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rýchlejší výpočet"
+      },
+      {
+        "id": "b",
+        "text": "Menší zdrojový kód a rýchlejšie naprogramovanie"
+      },
+      {
+        "id": "c",
+        "text": "Väčšia priamočiarosť riešenia"
+      },
+      {
+        "id": "d",
+        "text": "Jednoduchšie formulovanie problému"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 136,
+    "text": "Aký je záver pri výbere metódy pre distribučný problém?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Celočíselné programovanie je vždy najlepšie"
+      },
+      {
+        "id": "b",
+        "text": "Heuristický prístup je vhodný, keď sa zadanie úlohy nebude meniť"
+      },
+      {
+        "id": "c",
+        "text": "Logické programovanie ohraničení je vždy najlepšie"
+      },
+      {
+        "id": "d",
+        "text": "Žiadna metóda nie je vhodná pre riešenie distribučného problému"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Alokácia"
+  },
+  {
+    "id": 137,
+    "text": "Čo je operatívny manažment?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Systém účtovných činností pre finančné plánovanie"
+      },
+      {
+        "id": "b",
+        "text": "Systém riadiacich činností, ktoré priamo zabezpečujú priebeh výrobného procesu"
+      },
+      {
+        "id": "c",
+        "text": "Systém marketingových činností pre podporu predaja"
+      },
+      {
+        "id": "d",
+        "text": "Systém technických činností pre údržbu zariadení"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Výrobná logistika"
+  },
+  {
+    "id": 138,
+    "text": "Aké sú činnosti operatívneho manažmentu?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Marketing a predaj"
+      },
+      {
+        "id": "b",
+        "text": "Výrobné rozvrhovanie, dispečerské riadenie a monitorovanie procesov"
+      },
+      {
+        "id": "c",
+        "text": "Finančné plánovanie a účtovníctvo"
+      },
+      {
+        "id": "d",
+        "text": "Nábor zamestnancov a školenia"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Výrobná logistika"
+  },
+  {
+    "id": 139,
+    "text": "Aká je hlavná funkcia výrobného rozvrhovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Definovanie cieľov výrobného procesu vo forme rozvrhov"
+      },
+      {
+        "id": "b",
+        "text": "Zabezpečenie materiálu pre výrobu"
+      },
+      {
+        "id": "c",
+        "text": "Riadenie personálu"
+      },
+      {
+        "id": "d",
+        "text": "Monitorovanie kvality výroby"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 140,
+    "text": "Aká je hlavná úloha dispečerského riadenia?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nábor zamestnancov"
+      },
+      {
+        "id": "b",
+        "text": "Prenos cieľov na výrobný proces a porovnávanie výstupov s cieľmi"
+      },
+      {
+        "id": "c",
+        "text": "Monitorovanie finančných tokov"
+      },
+      {
+        "id": "d",
+        "text": "Údržba strojov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Výrobná logistika"
+  },
+  {
+    "id": 141,
+    "text": "Aké sú hlavné charakteristiky rozvrhovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zamestnanci a vybavenie"
+      },
+      {
+        "id": "b",
+        "text": "Stroje (alebo procesory) a úlohy"
+      },
+      {
+        "id": "c",
+        "text": "Materiál a dodávatelia"
+      },
+      {
+        "id": "d",
+        "text": "Produkty a trhy"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 142,
+    "text": "Aké sú doplnkové charakteristiky rozvrhovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stroje, materiál a finančné prostriedky"
+      },
+      {
+        "id": "b",
+        "text": "Precedenčné ohraničenia, disjunktné ohraničenia, zákazky a pomocné zdroje"
+      },
+      {
+        "id": "c",
+        "text": "Zákazníci, dodávatelia a distribútori"
+      },
+      {
+        "id": "d",
+        "text": "Kvalita, množstvo a čas"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 143,
+    "text": "Aké sú dva základné typy procesorov v rozvrhovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mechanické a elektronické"
+      },
+      {
+        "id": "b",
+        "text": "Rýchle a pomalé"
+      },
+      {
+        "id": "c",
+        "text": "Paralelné a špecializované"
+      },
+      {
+        "id": "d",
+        "text": "Manuálne a automatické"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 144,
+    "text": "Ako sa delia procesory podľa výkonnosti?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mechanické a elektronické"
+      },
+      {
+        "id": "b",
+        "text": "Rýchle a pomalé"
+      },
+      {
+        "id": "c",
+        "text": "Identické, uniformné a nesúvzťažné"
+      },
+      {
+        "id": "d",
+        "text": "Manuálne a automatické"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 145,
+    "text": "Čo charakterizuje identické procesory?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Každý procesor má svoju rýchlosť, ktorá nezávisí od úlohy"
+      },
+      {
+        "id": "b",
+        "text": "Každý procesor spracováva úlohy rôznou rýchlosťou"
+      },
+      {
+        "id": "c",
+        "text": "Na každom procesore trvá spracovanie úlohy rovnaký čas"
+      },
+      {
+        "id": "d",
+        "text": "Procesory sú špecializované na rôzne úlohy"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 146,
+    "text": "Aký je povinný vstupný údaj o úlohách Ti pri rozvrhovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Počet zamestnancov"
+      },
+      {
+        "id": "b",
+        "text": "Čas spracovania úlohy"
+      },
+      {
+        "id": "c",
+        "text": "Náklady na úlohu"
+      },
+      {
+        "id": "d",
+        "text": "Zdroje potrebné pre úlohu"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 147,
+    "text": "Čo je čas pripravenosti úlohy (ri)?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Požadovaná doba splnenia úlohy"
+      },
+      {
+        "id": "b",
+        "text": "Neprekročiteľný čas ukončenia úlohy"
+      },
+      {
+        "id": "c",
+        "text": "Okamžik, od ktorého je úloha pripravená na realizáciu"
+      },
+      {
+        "id": "d",
+        "text": "Celkový čas potrebný na dokončenie úlohy"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 148,
+    "text": "Čo vyjadruje precedenčné ohraničenie Ti < Tj?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Úloha Ti môže byť vykonaná po úlohe Tj"
+      },
+      {
+        "id": "b",
+        "text": "Úloha Ti musí byť vykonaná pred úlohou Tj"
+      },
+      {
+        "id": "c",
+        "text": "Úlohy Ti a Tj sa môžu prekrývať"
+      },
+      {
+        "id": "d",
+        "text": "Úlohy Ti a Tj sú nezávislé"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 149,
+    "text": "Čo vyjadruje disjunktné ohraničenie pri rozvrhovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Úlohy Ti a Tj musia byť vykonané na tom istom stroji"
+      },
+      {
+        "id": "b",
+        "text": "Úlohy Ti a Tj sa musia prekrývať"
+      },
+      {
+        "id": "c",
+        "text": "Úlohy Ti a Tj sa nesmú prekrývať"
+      },
+      {
+        "id": "d",
+        "text": "Úlohy Ti a Tj musia byť vykonané súčasne"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 150,
+    "text": "Čo sú zákazky (jobs) v kontexte rozvrhovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jednotlivé úlohy"
+      },
+      {
+        "id": "b",
+        "text": "Skupiny úloh"
+      },
+      {
+        "id": "c",
+        "text": "Stroje alebo procesory"
+      },
+      {
+        "id": "d",
+        "text": "Pomocné zdroje"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 151,
+    "text": "Aké sú príklady pomocných zdrojov pri rozvrhovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stroje a procesory"
+      },
+      {
+        "id": "b",
+        "text": "Úlohy a zákazky"
+      },
+      {
+        "id": "c",
+        "text": "Materiál a energia"
+      },
+      {
+        "id": "d",
+        "text": "Čas a priestor"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 152,
+    "text": "Ktoré z nasledujúcich sú charakteristiky rozvrhu (R)?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Čas ukončenia jednotlivých úloh"
+      },
+      {
+        "id": "b",
+        "text": "Počet všetkých úloh"
+      },
+      {
+        "id": "c",
+        "text": "Čas začiatku jednotlivých úloh"
+      },
+      {
+        "id": "d",
+        "text": "Spôsob určenia nákladov na úlohy"
+      },
+      {
+        "id": "e",
+        "text": "Zoznam závislostí medzi úlohami"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "c",
+      "e"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 153,
+    "text": "Ktoré z nasledujúcich sú vlastnosti dominantnej množiny rozvrhov (Dom)?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Každý rozvrh R, ktorý nie je v Dom, má zodpovedajúci rozvrh S v Dom"
+      },
+      {
+        "id": "b",
+        "text": "Rozvrhy v Dom minimalizujú počet úloh"
+      },
+      {
+        "id": "c",
+        "text": "Pre každú úlohu Ti v rozvrhu S platí ci(S) ≤ ci(R)"
+      },
+      {
+        "id": "d",
+        "text": "Dom zabezpečuje maximálne náklady na úlohy"
+      },
+      {
+        "id": "e",
+        "text": "Dom obsahuje všetky možné rozvrhy"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 155,
+    "text": "Ktoré z nasledujúcich platia pre regulárnu kriteriálnu funkciu F(R)?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nie je možný jej nárast bez predĺženia termínu ukončenia aspoň jednej úlohy"
+      },
+      {
+        "id": "b",
+        "text": "Môže klesať bez ohľadu na zmenu termínov ukončenia úloh"
+      },
+      {
+        "id": "c",
+        "text": "Je definovaná len pre optimálne rozvrhy"
+      },
+      {
+        "id": "d",
+        "text": "Musí byť monotónna"
+      },
+      {
+        "id": "e",
+        "text": "Nemôže byť záporná"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 156,
+    "text": "Ktoré z nasledujúcich platia pre optimálny rozvrh?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spĺňa všetky časové obmedzenia"
+      },
+      {
+        "id": "b",
+        "text": "Zaručuje minimálne celkové náklady"
+      },
+      {
+        "id": "c",
+        "text": "Kriteriálna funkcia F dosahuje minimum"
+      },
+      {
+        "id": "d",
+        "text": "Zohľadňuje len čas ukončenia úloh"
+      },
+      {
+        "id": "e",
+        "text": "Zahŕňa všetky možné úlohy"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 157,
+    "text": "Ktoré z nasledujúcich patria medzi najčastejšie kriteriálne funkcie?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Suma (ΣC, ΣL, ΣF, ΣT, nT)"
+      },
+      {
+        "id": "b",
+        "text": "Maximálne hodnoty (Cmax, Lmax, Fmax)"
+      },
+      {
+        "id": "c",
+        "text": "Minimálne hodnoty (Cmin, Lmin, Fmin)"
+      },
+      {
+        "id": "d",
+        "text": "Aritmetický priemer (C̄, L̄, F̄, T̄)"
+      },
+      {
+        "id": "e",
+        "text": "Vážkový priemer (Xw)"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 158,
+    "text": "Ktoré z nasledujúcich sú dôležité vlastnosti optimálneho rozvrhu?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zohľadňuje všetky časové obmedzenia"
+      },
+      {
+        "id": "b",
+        "text": "Minimalizuje neskoré dokončenia úloh"
+      },
+      {
+        "id": "c",
+        "text": "Maximalizuje počet splnených úloh"
+      },
+      {
+        "id": "d",
+        "text": "Zaručuje čo najnižšie náklady na úlohy"
+      },
+      {
+        "id": "e",
+        "text": "Obsahuje len najdôležitejšie úlohy"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 159,
+    "text": "Ktoré z nasledujúcich platia pre rozvrhovanie na jednom procesore s prerušením?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Úlohy môžu byť prerušené a neskôr pokračované"
+      },
+      {
+        "id": "b",
+        "text": "Každá úloha musí byť dokončená bez prerušenia"
+      },
+      {
+        "id": "c",
+        "text": "Používa sa Jacksonov algoritmus"
+      },
+      {
+        "id": "d",
+        "text": "Rozvrh je optimalizovaný podľa kritéria Cmax"
+      },
+      {
+        "id": "e",
+        "text": "Aktivuje sa úloha s najneskorším termínom ukončenia"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 160,
+    "text": "Ktoré z nasledujúcich platia pre rozvrhovanie na jednom procesore bez prerušenia?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Úlohy môžu byť prerušené a neskôr pokračované"
+      },
+      {
+        "id": "b",
+        "text": "Optimálne usporiadanie úloh je podľa neklesajúcej postupnosti dĺžok trvania"
+      },
+      {
+        "id": "c",
+        "text": "Optimálne usporiadanie úloh je podľa nerastúcej postupnosti priorít"
+      },
+      {
+        "id": "d",
+        "text": "Všetky rozvrhy sú rovnako dobré z hľadiska KF Cmax ak ri=0 a bez di"
+      },
+      {
+        "id": "e",
+        "text": "Používa sa Moorov algoritmus pri rôznych di a bez precedencií"
+      }
+    ],
+    "correctAnswers": [
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 161,
+    "text": "Medzi vlastnosti rozvrhovania na viacerých procesoroch patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Úlohy sú priraďované vždy na ten procesor, ktorý sa najskôr uvoľní"
+      },
+      {
+        "id": "b",
+        "text": "Úlohy sú priraďované náhodne na dostupné procesory"
+      },
+      {
+        "id": "c",
+        "text": "Používa sa len LPT heuristika"
+      },
+      {
+        "id": "d",
+        "text": "Používa sa rôzne heuristiky ako LPT, SPT, EST, EFT, LFT, MWR"
+      },
+      {
+        "id": "e",
+        "text": "Úlohy sú usporiadané podľa zvolenej heuristiky pred priradením na procesory"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "d",
+      "e"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 162,
+    "text": "Medzi charakteristiky špecializovaných procesorov patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Úlohy sa rozdeľujú do skupín, tzv. zákaziek"
+      },
+      {
+        "id": "b",
+        "text": "Každá úloha v rámci zákazky beží na rovnakom stroji"
+      },
+      {
+        "id": "c",
+        "text": "Existujú tri základné typy úloh: open shop, flow shop a job shop"
+      },
+      {
+        "id": "d",
+        "text": "Každá zákazka obsahuje len jednu úlohu"
+      },
+      {
+        "id": "e",
+        "text": "Úlohy v rámci zákazky Jk sú [T1,k, ..., Tnk,k]"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "c",
+      "e"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 164,
+    "text": "Medzi používané heuristiky pre rozvrhovanie na viacerých procesoroch patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "LPT (Longest Processing Time)"
+      },
+      {
+        "id": "b",
+        "text": "SPT (Shortest Processing Time)"
+      },
+      {
+        "id": "c",
+        "text": "LFT (Latest Finishing Time)"
+      },
+      {
+        "id": "d",
+        "text": "MST (Minimum Spanning Tree)"
+      },
+      {
+        "id": "e",
+        "text": "MWR (Most Work Remaining)"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 165,
+    "text": "Medzi vlastnosti Moorovho algoritmu patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Usporiadanie úloh podľa neklesajúcej postupnosti požadovaných časov ukončenia (di)"
+      },
+      {
+        "id": "b",
+        "text": "Minimalizácia kritériálnej funkcie nT (počet oneskorených zákaziek)"
+      },
+      {
+        "id": "c",
+        "text": "Výber úloh s najdlhším trvaním (ti)"
+      },
+      {
+        "id": "d",
+        "text": "Aplikácia pri úlohách s rôznymi di a bez precedencií"
+      },
+      {
+        "id": "e",
+        "text": "Usporiadanie úloh podľa nerastúcej postupnosti priorít"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 167,
+    "text": "Medzi vlastnosti rozvrhovania typu open shop patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nezáleží na poradí úloh"
+      },
+      {
+        "id": "b",
+        "text": "Riešenie môže byť hľadané ako úloha flow shop"
+      },
+      {
+        "id": "c",
+        "text": "Riešenie v polynomiálnom čase je známe pre ľubovoľný počet procesorov"
+      },
+      {
+        "id": "d",
+        "text": "Existuje lepšie riešenie ako pre flow shop"
+      },
+      {
+        "id": "e",
+        "text": "Riešenie v polynomiálnom čase je známe pre dva procesory"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "e"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 168,
+    "text": "Medzi vlastnosti rozvrhovania typu flow shop patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Existuje len niekoľko prípadov riešiteľných v polynomiálnom čase"
+      },
+      {
+        "id": "b",
+        "text": "Riešenie v polynomiálnom čase je známe pre dva procesory s ľubovoľným počtom zákaziek"
+      },
+      {
+        "id": "c",
+        "text": "Všetky úlohy sú k dispozícii v čase rij = 0"
+      },
+      {
+        "id": "d",
+        "text": "Používa sa Jacksonov algoritmus"
+      },
+      {
+        "id": "e",
+        "text": "Používa sa Johnsonov algoritmus"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 169,
+    "text": "Medzi kroky Johnsonovho algoritmu patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vytvorenie dvoch zoznamov: L1 = {Ji | t1i ≤ t2i}, J − L1"
+      },
+      {
+        "id": "b",
+        "text": "Usporiadanie zoznamu L1 podľa neklesajúcich procesných časov t1i"
+      },
+      {
+        "id": "c",
+        "text": "Usporiadanie zoznamu L2 podľa nerastúcich procesných časov t2i"
+      },
+      {
+        "id": "d",
+        "text": "Optimalizácia rozvrhu podľa kritéria Cmax"
+      },
+      {
+        "id": "e",
+        "text": "Vytvorenie jedného zoznamu z usporiadaných zoznamov L1 a L2"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 170,
+    "text": "Medzi vlastnosti rozvrhovania typu job shop patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Výroba každého výrobku je členená na maximálne m operácií"
+      },
+      {
+        "id": "b",
+        "text": "Trvanie operácií je presne dané"
+      },
+      {
+        "id": "c",
+        "text": "Operácie môžu byť prerušované"
+      },
+      {
+        "id": "d",
+        "text": "Každý stroj môže spracovávať naraz maximálne jednu operáciu"
+      },
+      {
+        "id": "e",
+        "text": "Poradie operácií je rovnaké pre všetky výrobky"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 171,
+    "text": "Medzi vlastnosti rozvrhovania typu flow shop patria (II):",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Používa sa Johnsonov algoritmus pre optimalizáciu"
+      },
+      {
+        "id": "b",
+        "text": "Operácie môžu byť vykonávané na rovnakom stroji"
+      },
+      {
+        "id": "c",
+        "text": "Všetky úlohy musia byť k dispozícii pred začiatkom rozvrhovania"
+      },
+      {
+        "id": "d",
+        "text": "Poradie úloh je pevne dané a rovnaké pre všetky zákazky"
+      },
+      {
+        "id": "e",
+        "text": "Využíva sa len pre prípady s dvoma procesormi"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 172,
+    "text": "Medzi kroky postupu riešenia špeciálneho prípadu shop patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Na vodorovnú os vynesieme časy spracovania úloh v rámci druhej zákazky v predpísanom poradí"
+      },
+      {
+        "id": "b",
+        "text": "Na zvislú os vynesieme časy spracovania úloh v rámci prvej zákazky v predpísanom poradí"
+      },
+      {
+        "id": "c",
+        "text": "Vyšrafujeme tzv. 'zakázané oblasti', kde súradnice na vodorovnej aj zvislej osi patria tomu istému procesoru"
+      },
+      {
+        "id": "d",
+        "text": "Rozvrh znázorňujeme tzv. 'pracovnou čiarou', ktorá pozostáva z troch typov úsekov: pod 45° uhlom, vodorovný úsek, zvislý úsek"
+      },
+      {
+        "id": "e",
+        "text": "Vždy keď pracovná čiara narazí na zakázanú oblasť, vznikne len jedna alternatívna trajektória"
+      }
+    ],
+    "correctAnswers": [
+      "c",
+      "d"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 173,
+    "text": "Medzi typy úsekov pracovnej čiary patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Úseky pod 60° uhlom zodpovedajú paralelnému spracovávaniu oboch úloh"
+      },
+      {
+        "id": "b",
+        "text": "Vodorovný úsek zodpovedá spracovávaniu druhej zákazky, zatiaľ čo prvá čaká na uvoľnenie procesora"
+      },
+      {
+        "id": "c",
+        "text": "Zvislý úsek znamená spracovávanie prvej zákazky, zatiaľ čo druhá čaká na uvoľnenie procesora"
+      },
+      {
+        "id": "d",
+        "text": "Úseky pod 45° uhlom zodpovedajú paralelnému spracovávaniu oboch úloh"
+      },
+      {
+        "id": "e",
+        "text": "Vodorovný úsek zodpovedá spracovávaniu prvej zákazky, zatiaľ čo druhá čaká na uvoľnenie procesora"
+      }
+    ],
+    "correctAnswers": [
+      "d",
+      "e"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 174,
+    "text": "Medzi kroky analýzy pracovnej čiary patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vždy keď pracovná čiara narazí na zakázanú oblasť, vzniknú dve alternatívne trajektórie"
+      },
+      {
+        "id": "b",
+        "text": "Je potrebné určiť trvanie každej pracovnej čiary"
+      },
+      {
+        "id": "c",
+        "text": "Najkratšia pracovná čiara zodpovedá optimálnemu rozvrhu"
+      },
+      {
+        "id": "d",
+        "text": "Pracovnú čiaru možno kresliť bez ohľadu na zakázané oblasti"
+      },
+      {
+        "id": "e",
+        "text": "Nakresliť Ganttov diagram optimálneho rozvrhu a vypočítať Cmax"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 175,
+    "text": "Medzi kroky Johnsonovho algoritmu pre job shop patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vytvorenie dvoch zoznamov: L1 = {Ji | t1i ≤ t2i}, J − L1"
+      },
+      {
+        "id": "b",
+        "text": "Usporiadanie zoznamu L1 podľa neklesajúcich procesných časov t1i"
+      },
+      {
+        "id": "c",
+        "text": "Usporiadanie zoznamu L2 podľa klesajúcich procesných časov t2i"
+      },
+      {
+        "id": "d",
+        "text": "Zreťazenie usporiadaných zoznamov L1 a L2 pre optimálny rozvrh"
+      },
+      {
+        "id": "e",
+        "text": "Použitie Jacksonovho algoritmu pre optimálne riešenie"
+      }
+    ],
+    "correctAnswers": [
+      "b",
+      "c",
+      "d"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 176,
+    "text": "Čo predstavuje metóda vetvenia a medzí?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Metóda na optimalizáciu rozvrhu pre všetky úlohy"
+      },
+      {
+        "id": "b",
+        "text": "Metóda na optimalizáciu rozvrhu pre dve úlohy"
+      },
+      {
+        "id": "c",
+        "text": "Metóda na optimalizáciu rozvrhu pre tri úlohy"
+      },
+      {
+        "id": "d",
+        "text": "Metóda na určenie poradia vykonávania úloh bez ohraničení"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 177,
+    "text": "Ktorý algoritmus sa používa na optimalizáciu rozvrhu pre 2 stroje a ľubovoľný počet zákaziek?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Genetické algoritmy"
+      },
+      {
+        "id": "b",
+        "text": "Johnsonov algoritmus"
+      },
+      {
+        "id": "c",
+        "text": "Hill climbing"
+      },
+      {
+        "id": "d",
+        "text": "Simulované žíhanie"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 178,
+    "text": "Ako sa nazýva metóda pre 2 zákazky a ľubovoľný počet strojov?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Grafická metóda cez pomocný diagram pracovných čiar"
+      },
+      {
+        "id": "b",
+        "text": "Metóda vetvenia a medzí"
+      },
+      {
+        "id": "c",
+        "text": "Simulované žíhanie"
+      },
+      {
+        "id": "d",
+        "text": "Johnsonov algoritmus"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 179,
+    "text": "Čo charakterizuje úplné metódy rozvrhovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zaručujú nájdenie optimálneho riešenia v polynomiálnom čase"
+      },
+      {
+        "id": "b",
+        "text": "Zaručujú nájdenie suboptimálneho riešenia"
+      },
+      {
+        "id": "c",
+        "text": "Zaručujú nájdenie optimálneho riešenia, ale v nepolynomiálnom čase"
+      },
+      {
+        "id": "d",
+        "text": "Negarantujú nájdenie žiadneho riešenia"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 180,
+    "text": "Ktoré z nasledujúcich metód nepatria medzi neúplné metódy rozvrhovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Genetické algoritmy"
+      },
+      {
+        "id": "b",
+        "text": "Hill climbing"
+      },
+      {
+        "id": "c",
+        "text": "Lineárne programovanie"
+      },
+      {
+        "id": "d",
+        "text": "Simulované žíhanie"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 181,
+    "text": "Ktorá z nasledujúcich metód zaručuje nájdenie suboptimálneho riešenia?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Metóda vetvenia a medzí"
+      },
+      {
+        "id": "b",
+        "text": "Úlohy s ohraničeniami"
+      },
+      {
+        "id": "c",
+        "text": "Simulované žíhanie"
+      },
+      {
+        "id": "d",
+        "text": "Lineárne programovanie"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 182,
+    "text": "Čo predstavujú premenné v úlohách rozvrhovania s ohraničeniami?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Časy začiatku jednotlivých úloh"
+      },
+      {
+        "id": "b",
+        "text": "Počet strojov"
+      },
+      {
+        "id": "c",
+        "text": "Počet zákaziek"
+      },
+      {
+        "id": "d",
+        "text": "Dĺžky trvania jednotlivých úloh"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 183,
+    "text": "Ako sú reprezentované ohraničenia v úlohách rozvrhovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ako rovnice"
+      },
+      {
+        "id": "b",
+        "text": "Ako nerovnice"
+      },
+      {
+        "id": "c",
+        "text": "Ako logaritmické funkcie"
+      },
+      {
+        "id": "d",
+        "text": "Ako boolovské výrazy"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 184,
+    "text": "Čo vyjadruje precedenčné ohraničenie?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ti + ti ≤ di"
+      },
+      {
+        "id": "b",
+        "text": "Ti ≥ eri"
+      },
+      {
+        "id": "c",
+        "text": "Ti + ti ≤ Tj"
+      },
+      {
+        "id": "d",
+        "text": "Ti ≥ Tj + tj"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 185,
+    "text": "Ako sa riešia disjunktné ohraničenia pre všetky dvojice úloh zdieľajúce jeden stroj?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tl + tl ≤ Tk"
+      },
+      {
+        "id": "b",
+        "text": "Tk + tl ≤ T"
+      },
+      {
+        "id": "c",
+        "text": "Tk + tk ≤ Tl alebo Tl + tl ≤ Tk"
+      },
+      {
+        "id": "d",
+        "text": "Tl = Tk"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 186,
+    "text": "Prečo úplné metódy narážajú na kombinatorickú explóziu?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pretože počet disjunktných ohraničení exponenciálne narastá s veľkosťou úlohy"
+      },
+      {
+        "id": "b",
+        "text": "Pretože zaručujú nájdenie suboptimálneho riešenia"
+      },
+      {
+        "id": "c",
+        "text": "Pretože sú vhodné len pre malé úlohy"
+      },
+      {
+        "id": "d",
+        "text": "Pretože ich implementácia je príliš zložitá"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 187,
+    "text": "Ktoré metódy sú vhodné na optimalizačný problém s ohodnotením kvality čiastočného riešenia?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lineárne programovanie"
+      },
+      {
+        "id": "b",
+        "text": "Metóda vetvenia a medzí"
+      },
+      {
+        "id": "c",
+        "text": "Tabu search"
+      },
+      {
+        "id": "d",
+        "text": "Simulované žíhanie"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 188,
+    "text": "Čo je cieľom prognózovania v kontexte plánovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Odhad spotreby energie"
+      },
+      {
+        "id": "b",
+        "text": "Odhad vývoja cien"
+      },
+      {
+        "id": "c",
+        "text": "Odhad predaja výrobkov a budúcich požiadaviek na výrobu"
+      },
+      {
+        "id": "d",
+        "text": "Odhad počtu zamestnancov"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 189,
+    "text": "Čo pomáha prognózovanie redukovať pri vytváraní konkrétnych plánov?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Náklady"
+      },
+      {
+        "id": "b",
+        "text": "Neurčitosť"
+      },
+      {
+        "id": "c",
+        "text": "Počet zamestnancov"
+      },
+      {
+        "id": "d",
+        "text": "Čas výroby"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 190,
+    "text": "Čo predstavuje odhad dolnej medze v rozvrhovacích úlohách typu job-shop?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Najmenší súčet trvaní úloh na jednom procesore"
+      },
+      {
+        "id": "b",
+        "text": "Najväčší súčet trvaní úloh na jednom procesore alebo v rámci jednej zákazky"
+      },
+      {
+        "id": "c",
+        "text": "Priemer trvaní úloh na všetkých procesoroch"
+      },
+      {
+        "id": "d",
+        "text": "Súčet najkratších trvaní zo všetkých zákaziek"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 191,
+    "text": "Aký je prvý krok v postupe pri prognózovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Určenie časového horizontu prognózy"
+      },
+      {
+        "id": "b",
+        "text": "Určenie cieľa prognózy"
+      },
+      {
+        "id": "c",
+        "text": "Výber metódy prognózovania"
+      },
+      {
+        "id": "d",
+        "text": "Zber historických údajov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 192,
+    "text": "Ktorý krok v postupe pri prognózovaní sa zaoberá stanovením obdobia, na ktoré sa prognóza vzťahuje?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Výber metódy prognózovania"
+      },
+      {
+        "id": "b",
+        "text": "Monitorovanie kvality prognóz"
+      },
+      {
+        "id": "c",
+        "text": "Určenie časového horizontu prognózy"
+      },
+      {
+        "id": "d",
+        "text": "Určenie cieľa prognózy"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 193,
+    "text": "Čo je tretím krokom v postupe pri prognózovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zber a analýza vhodných informácií a ich spracovanie pre účely prognózy"
+      },
+      {
+        "id": "b",
+        "text": "Výber metódy prognózovania"
+      },
+      {
+        "id": "c",
+        "text": "Monitorovanie kvality prognóz"
+      },
+      {
+        "id": "d",
+        "text": "Určenie cieľa prognózy"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 194,
+    "text": "Na čom sú založené kvantitatívne metódy prognózovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Subjektívnych informáciách zákazníkov, predajcov, manažérov a expertov"
+      },
+      {
+        "id": "b",
+        "text": "Analýze a spracovaní historických údajov a ich extrapolácii na obdobie prognózy"
+      },
+      {
+        "id": "c",
+        "text": "Náhodnom výbere údajov"
+      },
+      {
+        "id": "d",
+        "text": "Expertnom hodnotení bez historických údajov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 195,
+    "text": "Kedy sa používajú kvalitatívne metódy prognózovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keď je potrebné veľa historických údajov"
+      },
+      {
+        "id": "b",
+        "text": "Keď je potrebná prognóza rýchlo alebo keď nemáme dostatok informácií pre použitie kvantitatívnych metód"
+      },
+      {
+        "id": "c",
+        "text": "Keď sú dostupné podrobné štatistické údaje"
+      },
+      {
+        "id": "d",
+        "text": "Keď existuje dostatočný počet expertov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 196,
+    "text": "Čo je časová rada údajov?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Náhodná sekvencia údajov"
+      },
+      {
+        "id": "b",
+        "text": "Časovo usporiadaná sekvencia údajov, pozorovaných a získaných v pravidelnom intervale"
+      },
+      {
+        "id": "c",
+        "text": "Sekvencia údajov bez časovej súvislosti"
+      },
+      {
+        "id": "d",
+        "text": "Sekvencia údajov zoradených podľa veľkosti"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 197,
+    "text": "Čo sa predpokladá pri použití časovej rady údajov pre prognózovanie?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hodnoty sa v minulosti nebudú meniť"
+      },
+      {
+        "id": "b",
+        "text": "Vývoj a vzťahy medzi hodnotami v minulosti budú pokračovať aj v budúcnosti"
+      },
+      {
+        "id": "c",
+        "text": "Hodnoty sú nezávislé od času"
+      },
+      {
+        "id": "d",
+        "text": "Historické dáta sú presné a bez chýb"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 198,
+    "text": "Čo je časový horizont prognózy?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Počet údajov z minulosti"
+      },
+      {
+        "id": "b",
+        "text": "Obdobie, na ktoré je potrebné stanoviť prognózu"
+      },
+      {
+        "id": "c",
+        "text": "Počet pracovníkov zapojených do prognózovania"
+      },
+      {
+        "id": "d",
+        "text": "Frekvencia zberu dát"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 199,
+    "text": "Ako dlho trvá strategická prognóza?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Na jeden časový interval"
+      },
+      {
+        "id": "b",
+        "text": "Na 3 - 5 časových intervalov"
+      },
+      {
+        "id": "c",
+        "text": "Na viac ako 5 časových intervalov"
+      },
+      {
+        "id": "d",
+        "text": "Na 10 - 20 časových intervalov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 200,
+    "text": "Kedy sa používa taktická prognóza?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Na dlhodobé plánovanie nových výrobkov"
+      },
+      {
+        "id": "b",
+        "text": "Na kapacitné plánovanie a objednávky vstupov s dlhými dodacími lehotami"
+      },
+      {
+        "id": "c",
+        "text": "Na určenie dlhodobého vývoja cien vstupov"
+      },
+      {
+        "id": "d",
+        "text": "Na krátkodobé operatívne plánovanie výroby"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 201,
+    "text": "Čo je dôležité z hľadiska rozsahu hodnôt do minulosti pri kvantitatívnom prognózovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Použiť len najnovšie údaje"
+      },
+      {
+        "id": "b",
+        "text": "Čím viac údajov, tým lepšie (min. 3-5), ale staršie údaje majú menší vplyv"
+      },
+      {
+        "id": "c",
+        "text": "Použiť len staršie údaje"
+      },
+      {
+        "id": "d",
+        "text": "Maximálne 10 historických hodnôt pre presnosť"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 202,
+    "text": "Čo je cieľom monitorovania kvality prognóz?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Znížiť počet údajov"
+      },
+      {
+        "id": "b",
+        "text": "Zabezpečiť presnosť a spoľahlivosť prognóz"
+      },
+      {
+        "id": "c",
+        "text": "Zvýšiť náklady na prognózovanie"
+      },
+      {
+        "id": "d",
+        "text": "Automatizovať proces prognózovania"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 203,
+    "text": "Na čom sú založené kvantitatívne metódy prognózovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Subjektívnych názoroch expertov"
+      },
+      {
+        "id": "b",
+        "text": "Historických údajoch a ich analýze"
+      },
+      {
+        "id": "c",
+        "text": "Náhodných výberoch"
+      },
+      {
+        "id": "d",
+        "text": "Kombinácii kvantitatívnych a kvalitatívnych metód"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 204,
+    "text": "Kedy sa používajú kvalitatívne metódy prognózovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keď sú dostupné podrobné štatistické údaje"
+      },
+      {
+        "id": "b",
+        "text": "Keď je potrebná rýchla prognóza alebo keď chýbajú dostatočné informácie"
+      },
+      {
+        "id": "c",
+        "text": "Keď sú dostupné len historické údaje"
+      },
+      {
+        "id": "d",
+        "text": "Keď je časový horizont prognózy dlhší ako 5 rokov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 205,
+    "text": "Aké metódy sú klasifikované ako kvantitatívne?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Metódy založené na subjektívnych informáciách"
+      },
+      {
+        "id": "b",
+        "text": "Metódy založené na analýze historických údajov"
+      },
+      {
+        "id": "c",
+        "text": "Metódy náhodného výberu"
+      },
+      {
+        "id": "d",
+        "text": "Metódy založené na expertných odhadoch bez dát"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 206,
+    "text": "V čom spočíva metóda exponenciálneho vyrovnávania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "V priemere všetkých hodnôt"
+      },
+      {
+        "id": "b",
+        "text": "V priemere posledných hodnôt"
+      },
+      {
+        "id": "c",
+        "text": "V zohľadnení vplyvu chyby predchádzajúcej prognózy"
+      },
+      {
+        "id": "d",
+        "text": "V zohľadnení sezónnych zmien"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 207,
+    "text": "Ktorá metóda nie je kvantitatívnou metódou prognózovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aritmetický priemer"
+      },
+      {
+        "id": "b",
+        "text": "Kĺzavý priemer"
+      },
+      {
+        "id": "c",
+        "text": "Vážený priemer"
+      },
+      {
+        "id": "d",
+        "text": "Metóda expertnej oceny"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 208,
+    "text": "Aké sú výhody použitia odhadov predajcov pri prognózovaní dopytu?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vysoká presnosť"
+      },
+      {
+        "id": "b",
+        "text": "Informácie z prvej ruky"
+      },
+      {
+        "id": "c",
+        "text": "Objektivita"
+      },
+      {
+        "id": "d",
+        "text": "Dlhá doba trvania"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 209,
+    "text": "Aký je nedostatok skupinového posudku?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rýchlosť získania výsledku"
+      },
+      {
+        "id": "b",
+        "text": "Prítomnosť všetkých potrebných odborníkov"
+      },
+      {
+        "id": "c",
+        "text": "Závislosť na komunikačných schopnostiach"
+      },
+      {
+        "id": "d",
+        "text": "Vysoké náklady"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 210,
+    "text": "Ktorý model sa vyznačuje opakujúcimi sa hodnotami po určitom čase?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Konštantný model"
+      },
+      {
+        "id": "b",
+        "text": "Trendový model"
+      },
+      {
+        "id": "c",
+        "text": "Cyklický model"
+      },
+      {
+        "id": "d",
+        "text": "Sezónny model"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 211,
+    "text": "Ktorá metóda prognózovania berie do úvahy vplyv starších hodnôt pomocou váh?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aritmetický priemer"
+      },
+      {
+        "id": "b",
+        "text": "Kĺzavý priemer"
+      },
+      {
+        "id": "c",
+        "text": "Vážený priemer"
+      },
+      {
+        "id": "d",
+        "text": "Exponenciálne vyrovnávanie"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 212,
+    "text": "Čo určuje parameter α v metóde exponenciálneho vyrovnávania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Počet hodnôt zahrnutých do výpočtu"
+      },
+      {
+        "id": "b",
+        "text": "Miera vplyvu chyby predchádzajúcej prognózy"
+      },
+      {
+        "id": "c",
+        "text": "Miera vplyvu sezónnych zmien"
+      },
+      {
+        "id": "d",
+        "text": "Priemernú hodnotu všetkých dát"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 213,
+    "text": "Kedy je potrebné používať kvalitatívne metódy prognózovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pri dostatočnom množstve historických údajov"
+      },
+      {
+        "id": "b",
+        "text": "Pri nedostatku údajov alebo rýchlych zmenách podmienok"
+      },
+      {
+        "id": "c",
+        "text": "Pri krátkodobých prognózach"
+      },
+      {
+        "id": "d",
+        "text": "Pri dlhodobých prognózach"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 214,
+    "text": "Aké sú hlavné výhody metódy aritmetického priemeru?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jednoduchosť a rýchlosť"
+      },
+      {
+        "id": "b",
+        "text": "Presnosť a flexibilita"
+      },
+      {
+        "id": "c",
+        "text": "Komplexnosť a vysoká presnosť"
+      },
+      {
+        "id": "d",
+        "text": "Zohľadnenie sezónnych zmien"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 215,
+    "text": "Aké sú výhody a nevýhody prieskumu trhu?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rýchlosť a nízke náklady"
+      },
+      {
+        "id": "b",
+        "text": "Exaktnosť a vysoké náklady"
+      },
+      {
+        "id": "c",
+        "text": "Informácie z druhej ruky a vysoká presnosť"
+      },
+      {
+        "id": "d",
+        "text": "Komplexnosť a dlhá doba trvania"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 216,
+    "text": "Aké kroky zahŕňa realizácia prieskumu trhu pre prognózovanie?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zber údajov a analýza"
+      },
+      {
+        "id": "b",
+        "text": "Výber spôsobu komunikácie a realizácia prieskumu"
+      },
+      {
+        "id": "c",
+        "text": "Návrh dotazníka a výber reprezentatívnej vzorky"
+      },
+      {
+        "id": "d",
+        "text": "Všetky uvedené kroky"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 218,
+    "text": "Čo je základným princípom metódy Delphi?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Priama komunikácia medzi expertmi"
+      },
+      {
+        "id": "b",
+        "text": "Anonymná komunikácia medzi expertmi"
+      },
+      {
+        "id": "c",
+        "text": "Použitie historických údajov"
+      },
+      {
+        "id": "d",
+        "text": "Prognózovanie krátkodobých trendov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 219,
+    "text": "Aký je hlavný cieľ koordinačnej skupiny (Delphi committee - DC) v metóde Delphi?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Určiť spôsob komunikácie a formulovať otázky pre expertov"
+      },
+      {
+        "id": "b",
+        "text": "Predpovedať krátkodobé zmeny na trhu"
+      },
+      {
+        "id": "c",
+        "text": "Zabezpečiť priamu diskusiu medzi expertmi"
+      },
+      {
+        "id": "d",
+        "text": "Analyzovať historické údaje"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 220,
+    "text": "Aká je hlavná výhoda metódy Delphi?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rýchlosť procesu"
+      },
+      {
+        "id": "b",
+        "text": "Konsenzus skupiny nezávislých expertov"
+      },
+      {
+        "id": "c",
+        "text": "Jednoduchosť a nízke náklady"
+      },
+      {
+        "id": "d",
+        "text": "Priama komunikácia medzi expertmi"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 221,
+    "text": "V akých situáciách je metóda Delphi obzvlášť užitočná?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keď sú k dispozícii rozsiahle historické údaje"
+      },
+      {
+        "id": "b",
+        "text": "Keď je potrebná rýchla predpoveď"
+      },
+      {
+        "id": "c",
+        "text": "Keď sa predpovedajú nové výrobky alebo technológie"
+      },
+      {
+        "id": "d",
+        "text": "Keď je potrebná priama komunikácia medzi expertmi"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 222,
+    "text": "Aké je riziko spojené s nedostatočnou anonymitou expertov v metóde Delphi?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zníženie presnosti predpovedí"
+      },
+      {
+        "id": "b",
+        "text": "Zvýšenie rýchlosti dosiahnutia konsenzu"
+      },
+      {
+        "id": "c",
+        "text": "Zlepšenie kvality predpovedí"
+      },
+      {
+        "id": "d",
+        "text": "Zníženie nákladov"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 227,
+    "text": "Prečo nie je možné vyčleniť 100 % skutočnej maximálnej kapacity stroja pre KMj?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Z dôvodu údržby strojov"
+      },
+      {
+        "id": "b",
+        "text": "Z dôvodu regulačných účelov a väzieb medzi strojmi"
+      },
+      {
+        "id": "c",
+        "text": "Z dôvodu nízkeho dopytu"
+      },
+      {
+        "id": "d",
+        "text": "Z dôvodu neefektívnosti výroby"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 228,
+    "text": "Čo treba zohľadniť pri kalkulácii KMj okrem skutočnej maximálnej kapacity stroja?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Počet zamestnancov"
+      },
+      {
+        "id": "b",
+        "text": "Spoľahlivosť strojov vzhľadom na ich životnosť"
+      },
+      {
+        "id": "c",
+        "text": "Náklady na výrobu"
+      },
+      {
+        "id": "d",
+        "text": "Dopyt po produktoch"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 229,
+    "text": "Čo znamená kapacitná stratégia podniku?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Plánovanie nákladov na výrobu"
+      },
+      {
+        "id": "b",
+        "text": "Prístup podniku k pomeru medzi kapacitou výroby a skutočnými požiadavkami"
+      },
+      {
+        "id": "c",
+        "text": "Analýza konkurencie"
+      },
+      {
+        "id": "d",
+        "text": "Zvyšovanie počtu zamestnancov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 230,
+    "text": "Čo znamená, keď je kapacita výroby rovná požiadavkám?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Je ľahké dosiahnuť presnú rovnosť"
+      },
+      {
+        "id": "b",
+        "text": "Je ťažké dosiahnuť presnú rovnosť"
+      },
+      {
+        "id": "c",
+        "text": "Kapacita výroby je vždy vyššia ako požiadavky"
+      },
+      {
+        "id": "d",
+        "text": "Kapacita výroby je vždy nižšia ako požiadavky"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 231,
+    "text": "Aký je cieľ kvantitatívnych metód prognózovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Získať názory odborníkov"
+      },
+      {
+        "id": "b",
+        "text": "Použiť historické údaje na predikciu budúcich trendov"
+      },
+      {
+        "id": "c",
+        "text": "Analyzovať názory zákazníkov"
+      },
+      {
+        "id": "d",
+        "text": "Získať konsenzus skupiny expertov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 232,
+    "text": "Aká je výhoda použitia metódy lineárnej regresie pri prognózovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jednoduchosť výpočtov"
+      },
+      {
+        "id": "b",
+        "text": "Schopnosť analyzovať vzťah medzi premennými"
+      },
+      {
+        "id": "c",
+        "text": "Zohľadnenie sezónnych zmien"
+      },
+      {
+        "id": "d",
+        "text": "Jednoduchosť získania údajov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 233,
+    "text": "Aký je cieľ plánovania výrobných kapacít?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zvýšiť počet zamestnancov"
+      },
+      {
+        "id": "b",
+        "text": "Dosiahnuť rovnováhu medzi kapacitami výrobného procesu a kapacitnými nárokmi"
+      },
+      {
+        "id": "c",
+        "text": "Znížiť náklady na výrobu"
+      },
+      {
+        "id": "d",
+        "text": "Zvýšiť rýchlosť výroby"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 234,
+    "text": "Čo je úzke miesto výrobného procesu?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stroj s najvyššou produkciou"
+      },
+      {
+        "id": "b",
+        "text": "Stroj alebo operácia, kde sa kapacita vyčerpá prvá pri zvyšovaní produkcie"
+      },
+      {
+        "id": "c",
+        "text": "Miesto, kde je najnižší dopyt"
+      },
+      {
+        "id": "d",
+        "text": "Miesto s najvyššími kapacitnými možnosťami"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 235,
+    "text": "Aké sú hlavné kroky v plánovaní výrobných kapacít?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prognózovanie dopytu, zvyšovanie produkcie, distribúcia"
+      },
+      {
+        "id": "b",
+        "text": "Určenie veľkosti výrobnej kapacity, stanovenie kapacitnej stratégie, kapacitné vyváženie výrobného procesu"
+      },
+      {
+        "id": "c",
+        "text": "Výber zamestnancov, školenie, zvyšovanie efektivity"
+      },
+      {
+        "id": "d",
+        "text": "Analýza trhu, marketing, predaj"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 236,
+    "text": "Čo znamená statický výpočet úzkeho miesta?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Výpočet kapacity stroja na základe historických dát"
+      },
+      {
+        "id": "b",
+        "text": "Určenie maximálnej kapacity na základe súčasného využitia"
+      },
+      {
+        "id": "c",
+        "text": "Výpočet kapacity stroja pri rôznych úrovniach produkcie"
+      },
+      {
+        "id": "d",
+        "text": "Určenie stroja, na ktorom sa kapacita vyčerpá prvá"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 237,
+    "text": "Aká je optimálna veľkosť dávky v zákazkovej logistike?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maximálna možná veľkosť, aby sa minimalizovali náklady"
+      },
+      {
+        "id": "b",
+        "text": "Najmenšia možná veľkosť, aby sa znížili skladovacie náklady"
+      },
+      {
+        "id": "c",
+        "text": "Veľkosť, ktorá zabezpečí rovnováhu medzi výrobnými nákladmi a skladovacími nákladmi"
+      },
+      {
+        "id": "d",
+        "text": "Fixná veľkosť, ktorá sa nemení"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 238,
+    "text": "Čo je priradzovací problém v kontexte alokácie výrobných procesov do viacerých miest?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Problém spojený s kumuláciou a dávkovaním"
+      },
+      {
+        "id": "b",
+        "text": "Priradenie výrobných procesov k rôznym miestam pomocou bivalentného modelu"
+      },
+      {
+        "id": "c",
+        "text": "Určenie optimálnej veľkosti dávky"
+      },
+      {
+        "id": "d",
+        "text": "Výber optimálnych výrobných technológií"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 239,
+    "text": "Aké sú prístupy k zovšeobecnenému distribučnému problému?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aritmetický priemer, kĺzavý priemer, vážený priemer"
+      },
+      {
+        "id": "b",
+        "text": "Bivalentný model, heuristika, logické programovanie ohraničení"
+      },
+      {
+        "id": "c",
+        "text": "Exponenciálne vyrovnávanie, lineárna regresia, metóda harmonických váh"
+      },
+      {
+        "id": "d",
+        "text": "Skupinový posudok, prieskum trhu, metóda Delphi"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 240,
+    "text": "Aká je hlavná výhoda exponenciálneho vyrovnávania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "V priemere všetkých hodnôt"
+      },
+      {
+        "id": "b",
+        "text": "V priemere posledných hodnôt"
+      },
+      {
+        "id": "c",
+        "text": "V zohľadnení vplyvu chyby predchádzajúcej prognózy"
+      },
+      {
+        "id": "d",
+        "text": "V zohľadnení sezónnych zmien"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 241,
+    "text": "Ktorá metóda prognózovania využíva vážené priemery na predpoveď budúcich hodnôt?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aritmetický priemer"
+      },
+      {
+        "id": "b",
+        "text": "Kĺzavý priemer"
+      },
+      {
+        "id": "c",
+        "text": "Metóda harmonických váh"
+      },
+      {
+        "id": "d",
+        "text": "Lineárna regresia"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 242,
+    "text": "Čo je cieľom zákazkovej logistiky?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zvýšiť počet zamestnancov"
+      },
+      {
+        "id": "b",
+        "text": "Riadiť tok objednávok od ich evidencie po podporu kúpnych zmlúv"
+      },
+      {
+        "id": "c",
+        "text": "Analyzovať trh"
+      },
+      {
+        "id": "d",
+        "text": "Zvyšovať výrobnú kapacitu"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 243,
+    "text": "Čo môže výrazne ovplyvniť efektívnosť výrobného procesu?",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Počet zamestnancov"
+      },
+      {
+        "id": "b",
+        "text": "Administratívne spracovanie objednávok"
+      },
+      {
+        "id": "c",
+        "text": "Fáza výrobnej logistiky"
+      },
+      {
+        "id": "d",
+        "text": "Dopyt po produktoch"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "c"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 245,
+    "text": "Aký je hlavný cieľ kapacitného plánovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Znížiť výrobné náklady"
+      },
+      {
+        "id": "b",
+        "text": "Dosiahnuť maximálny súlad medzi kapacitami výrobného procesu a kapacitnými nárokmi"
+      },
+      {
+        "id": "c",
+        "text": "Zvýšiť počet objednávok"
+      },
+      {
+        "id": "d",
+        "text": "Analyzovať konkurenčné prostredie"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 246,
+    "text": "Kedy je vhodné, aby množstvo výrobkov obsiahnuté v jednej skupine bolo celým násobkom dávky?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keď sa zvyšuje dopyt po produktoch"
+      },
+      {
+        "id": "b",
+        "text": "Keď to vyžaduje technológia alebo diskrétne výrobné procesy"
+      },
+      {
+        "id": "c",
+        "text": "Keď je potrebné znížiť výrobné náklady"
+      },
+      {
+        "id": "d",
+        "text": "Keď sa zvyšuje počet objednávok"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 247,
+    "text": "Ako je možné stanoviť optimálnu veľkosť dávky v diskrétnych výrobných procesoch?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Analyzovaním dopytu po produktoch"
+      },
+      {
+        "id": "b",
+        "text": "Na základe celkových nákladov"
+      },
+      {
+        "id": "c",
+        "text": "Zvyšovaním počtu zamestnancov"
+      },
+      {
+        "id": "d",
+        "text": "Rozdelením výrobných procesov na menšie časti"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 248,
+    "text": "Aký je minimálny čas od začiatku výrobného procesu po jeho ukončenie?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Výrobný cyklus"
+      },
+      {
+        "id": "b",
+        "text": "Kumulácia zákaziek"
+      },
+      {
+        "id": "c",
+        "text": "Optimálna veľkosť dávky"
+      },
+      {
+        "id": "d",
+        "text": "Kapacitná stratégia"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 249,
+    "text": "Čo treba urobiť pre každú objednávku na základe známych výrobných cyklov?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zvýšiť výrobné náklady"
+      },
+      {
+        "id": "b",
+        "text": "Zakresliť trajektóriu reprezentujúcu výrobu danej objednávky"
+      },
+      {
+        "id": "c",
+        "text": "Analyzovať trh"
+      },
+      {
+        "id": "d",
+        "text": "Zvýšiť počet zamestnancov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 250,
+    "text": "Ako môžeme dosiahnuť neprekročenie kapacitných možností?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zvýšením počtu objednávok"
+      },
+      {
+        "id": "b",
+        "text": "Posunmi jednotlivých objednávok v čase"
+      },
+      {
+        "id": "c",
+        "text": "Zvýšením výrobných nákladov"
+      },
+      {
+        "id": "d",
+        "text": "Analyzovaním trhu"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 251,
+    "text": "Čo znamená statický výpočet úzkeho miesta?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Výpočet maximálnej kapacity stroja"
+      },
+      {
+        "id": "b",
+        "text": "Výpočet úzkeho miesta vo výrobnom procese"
+      },
+      {
+        "id": "c",
+        "text": "Výpočet nákladov na výrobu"
+      },
+      {
+        "id": "d",
+        "text": "Výpočet dopytu po produktoch"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 252,
+    "text": "Čo predstavuje maximálna kapacita vo výrobnom procese?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Minimálny čas na výrobu produktov"
+      },
+      {
+        "id": "b",
+        "text": "Maximálna produkcia za časovú jednotku"
+      },
+      {
+        "id": "c",
+        "text": "Celkový počet zamestnancov"
+      },
+      {
+        "id": "d",
+        "text": "Celkové výrobné náklady"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 253,
+    "text": "Čo znamená úzke miesto výrobného procesu?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Miesto s najvyššími výrobnými nákladmi"
+      },
+      {
+        "id": "b",
+        "text": "Výrobná operácia, na ktorej sa kapacita vyčerpá prvá pri zvyšovaní produkcie"
+      },
+      {
+        "id": "c",
+        "text": "Miesto s najnižšími výrobnými nákladmi"
+      },
+      {
+        "id": "d",
+        "text": "Výrobná operácia, ktorá sa používa najčastejšie"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 254,
+    "text": "Ako určíme úzke miesto, ak kapacitné možnosti jednotlivých strojov sú rovnaké?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Podľa stroja s najnižšími kapacitnými nárokmi"
+      },
+      {
+        "id": "b",
+        "text": "Podľa stroja s najvyššími kapacitnými nárokmi"
+      },
+      {
+        "id": "c",
+        "text": "Podľa stroja s najnižšími výrobnými nákladmi"
+      },
+      {
+        "id": "d",
+        "text": "Podľa stroja s najvyššími výrobnými nákladmi"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 255,
+    "text": "Ako určíme úzke miesto, ak kapacitné možnosti jednotlivých strojov sú rôzne?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Podľa stroja s najmenším rozdielom medzi jeho kapacitnými možnosťami a kapacitnými nárokmi"
+      },
+      {
+        "id": "b",
+        "text": "Podľa stroja s najvyššími kapacitnými nárokmi"
+      },
+      {
+        "id": "c",
+        "text": "Podľa stroja s najvyššími výrobnými nákladmi"
+      },
+      {
+        "id": "d",
+        "text": "Podľa stroja s najnižšími výrobnými nákladmi"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Kapacitné plánovanie"
+  },
+  {
+    "id": 256,
+    "text": "Čo určuje parameter P1 v stratégii riadenia zásob?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Určuje, kedy objednávame (dopĺňame) zásoby"
+      },
+      {
+        "id": "b",
+        "text": "Určuje, na akú úroveň sa zásoby dopĺňajú"
+      },
+      {
+        "id": "c",
+        "text": "Určuje maximálnu povolenú hladinu zásob"
+      },
+      {
+        "id": "d",
+        "text": "Určuje minimálnu povolenú hladinu zásob"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 257,
+    "text": "Čo určuje parameter P2 v stratégii riadenia zásob?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Určuje, kedy objednávame (dopĺňame) zásoby"
+      },
+      {
+        "id": "b",
+        "text": "Určuje, na akú úroveň sa zásoby dopĺňajú"
+      },
+      {
+        "id": "c",
+        "text": "Určuje maximálnu veľkosť objednávky"
+      },
+      {
+        "id": "d",
+        "text": "Určuje časový interval medzi objednávkami"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 259,
+    "text": "Aký je význam P2 = x v stratégii riadenia zásob?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zásoby sa dopĺňajú na úroveň S"
+      },
+      {
+        "id": "b",
+        "text": "Zásoby sa dopĺňajú o množstvo x"
+      },
+      {
+        "id": "c",
+        "text": "Zásoby sa dopĺňajú pri prekročení množstva x"
+      },
+      {
+        "id": "d",
+        "text": "Zásoby sa dopĺňajú, keď je dopyt väčší než x"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 260,
+    "text": "Čo charakterizuje model M1?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Statický, stochastický, s diskrétnym dopytom"
+      },
+      {
+        "id": "b",
+        "text": "Dynamický, deterministický, so spojitým dopytom"
+      },
+      {
+        "id": "c",
+        "text": "Statický, deterministický, s diskrétnym dopytom"
+      },
+      {
+        "id": "d",
+        "text": "Dynamický, stochastický, so spojitým dopytom"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 261,
+    "text": "Čo charakterizuje model M3?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Statický, stochastický, so spojitým dopytom"
+      },
+      {
+        "id": "b",
+        "text": "Dynamický, deterministický, so spojitým dopytom"
+      },
+      {
+        "id": "c",
+        "text": "Dynamický, stochastický, s diskrétnym dopytom"
+      },
+      {
+        "id": "d",
+        "text": "Statický, deterministický, so spojitým dopytom"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 262,
+    "text": "Čo charakterizuje model M4?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ako M3, ale zásoby dopĺňané vlastnou výrobou"
+      },
+      {
+        "id": "b",
+        "text": "Ako M3, ale s prípustným nedostatkom pohotovej zásoby"
+      },
+      {
+        "id": "c",
+        "text": "Ako M1, ale s diskrétnym dopytom"
+      },
+      {
+        "id": "d",
+        "text": "Ako M2, ale so spojitým dopytom"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 263,
+    "text": "Čo charakterizuje model M5?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Statický, stochastický, s diskrétnym dopytom"
+      },
+      {
+        "id": "b",
+        "text": "Ako M3, ale s prípustným nedostatkom pohotovej zásoby"
+      },
+      {
+        "id": "c",
+        "text": "Ako M1, ale so spojitým dopytom"
+      },
+      {
+        "id": "d",
+        "text": "Dynamický, deterministický, s nepravidelným dopytom"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 264,
+    "text": "Čo znamená deterministický dopyt?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dopyt je vopred známy"
+      },
+      {
+        "id": "b",
+        "text": "Dopyt nie je presne známy, ale riadi sa známym rozdelením pravdepodobnosti"
+      },
+      {
+        "id": "c",
+        "text": "Dopyt je náhodný a nepredvídateľný"
+      },
+      {
+        "id": "d",
+        "text": "Dopyt sa mení podľa sezóny"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 265,
+    "text": "Čo znamená stochastický dopyt?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dopyt je vopred známy"
+      },
+      {
+        "id": "b",
+        "text": "Dopyt nie je presne známy, ale riadi sa známym rozdelením pravdepodobnosti"
+      },
+      {
+        "id": "c",
+        "text": "Dopyt je náhodný a nepredvídateľný"
+      },
+      {
+        "id": "d",
+        "text": "Dopyt sa mení podľa sezóny"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 266,
+    "text": "Aké sú náklady rastúce s veľkosťou zásob?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Náklady na udržiavanie zásob (skladovacie náklady)"
+      },
+      {
+        "id": "b",
+        "text": "Náklady vyplývajúce z nedostatku pohotových zásob"
+      },
+      {
+        "id": "c",
+        "text": "Náklady na logistiku a dopravu"
+      },
+      {
+        "id": "d",
+        "text": "Náklady na objednávanie zásob"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 267,
+    "text": "Aké sú náklady klesajúce s veľkosťou zásob?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Náklady na udržiavanie zásob (skladovacie náklady)"
+      },
+      {
+        "id": "b",
+        "text": "Náklady vyplývajúce z nedostatku pohotových zásob"
+      },
+      {
+        "id": "c",
+        "text": "Náklady na logistiku a dopravu"
+      },
+      {
+        "id": "d",
+        "text": "Náklady na objednávanie zásob"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 268,
+    "text": "Čo znamená statické dopĺňanie zásob?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Za celé obdobie sa objednáva iba raz"
+      },
+      {
+        "id": "b",
+        "text": "Za celé obdobie sa objednáva viackrát"
+      },
+      {
+        "id": "c",
+        "text": "Objednáva sa pravidelne v stanovených intervaloch"
+      },
+      {
+        "id": "d",
+        "text": "Objednáva sa iba pri dosiahnutí minimálnej úrovne zásob"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 269,
+    "text": "Čo znamená dynamické dopĺňanie zásob?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Za celé obdobie sa objednáva iba raz"
+      },
+      {
+        "id": "b",
+        "text": "Za celé obdobie sa objednáva viackrát"
+      },
+      {
+        "id": "c",
+        "text": "Objednáva sa pravidelne v stanovených intervaloch"
+      },
+      {
+        "id": "d",
+        "text": "Objednáva sa iba pri dosiahnutí minimálnej úrovne zásob"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 270,
+    "text": "Čo znamená deterministické dopĺňanie zásob?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dopyt je počas daného obdobia presne známy"
+      },
+      {
+        "id": "b",
+        "text": "Dopyt nie je presne známy, ale riadi sa známym rozdelením pravdepodobnosti"
+      },
+      {
+        "id": "c",
+        "text": "Dopyt sa mení podľa sezóny"
+      },
+      {
+        "id": "d",
+        "text": "Dopyt je úplne náhodný a nepredvídateľný"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 271,
+    "text": "Čo znamená stochastické dopĺňanie zásob?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dopyt je počas daného obdobia presne známy"
+      },
+      {
+        "id": "b",
+        "text": "Dopyt nie je presne známy, ale riadi sa známym rozdelením pravdepodobnosti"
+      },
+      {
+        "id": "c",
+        "text": "Dopyt sa mení podľa sezóny"
+      },
+      {
+        "id": "d",
+        "text": "Dopyt je úplne náhodný a nepredvídateľný"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 272,
+    "text": "Aké sú náklady spojené so spustením výrobnej linky v modeli M4?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "n1"
+      },
+      {
+        "id": "b",
+        "text": "ND"
+      },
+      {
+        "id": "c",
+        "text": "n2"
+      },
+      {
+        "id": "d",
+        "text": "n1 + ND"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 273,
+    "text": "Aká je stratégia pre model M4?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "(t, x)"
+      },
+      {
+        "id": "b",
+        "text": "(s, x)"
+      },
+      {
+        "id": "c",
+        "text": "(t, S)"
+      },
+      {
+        "id": "d",
+        "text": "(s, S)"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 274,
+    "text": "Aké sú náklady na skladovanie jednotkového množstva zásob v modeli M3?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "ND"
+      },
+      {
+        "id": "b",
+        "text": "n1"
+      },
+      {
+        "id": "c",
+        "text": "n2"
+      },
+      {
+        "id": "d",
+        "text": "n1 + n2"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 275,
+    "text": "Aká je stratégia pre model M2?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "(s, x)"
+      },
+      {
+        "id": "b",
+        "text": "(t, x)"
+      },
+      {
+        "id": "c",
+        "text": "(t, S)"
+      },
+      {
+        "id": "d",
+        "text": "(s, S)"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Riadenie zásob"
+  },
+  {
+    "id": 276,
+    "text": "Aké sú hlavné aplikačné oblasti rozvrhovania?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Investičné, distribučné, dopravné"
+      },
+      {
+        "id": "b",
+        "text": "Časové, priestorové"
+      },
+      {
+        "id": "c",
+        "text": "Alokačné úlohy, distribučné úlohy"
+      },
+      {
+        "id": "d",
+        "text": "Výrobné, konfiguračné návrhy"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 277,
+    "text": "Ktoré typy úloh môžu byť riešené v oblasti optimalizácie?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rozvrhovacie, dopravné, distribučné"
+      },
+      {
+        "id": "b",
+        "text": "Časové, alokačné, výrobné"
+      },
+      {
+        "id": "c",
+        "text": "Investičné, distribučné, dopravné"
+      },
+      {
+        "id": "d",
+        "text": "Konfiguračné návrhy, skladové úlohy"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 278,
+    "text": "Čo je cieľom konfiguračného návrhu?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Optimalizovať rozmiestnenie skladov"
+      },
+      {
+        "id": "b",
+        "text": "Navrhnúť výrobky zostavené z komponentov rôznych typov"
+      },
+      {
+        "id": "c",
+        "text": "Minimalizovať náklady na distribúciu"
+      },
+      {
+        "id": "d",
+        "text": "Optimalizovať rozvrh hodín"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Rozvrhovanie"
+  },
+  {
+    "id": 279,
+    "text": "Čo je množina premenných vo všeobecnosti definovaná v CSP?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "D = {D1, D2, ..., Dn}"
+      },
+      {
+        "id": "b",
+        "text": "C = {C1, ..., Cn, C1,2, ..., Cn-1,n}"
+      },
+      {
+        "id": "c",
+        "text": "V = {V1, V2, ..., Vn}"
+      },
+      {
+        "id": "d",
+        "text": "P = {P1, P2, ..., Pn}"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 280,
+    "text": "Aké typy môžu byť domény v CSP?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Konečné, nekonečné"
+      },
+      {
+        "id": "b",
+        "text": "Konečné, deterministické"
+      },
+      {
+        "id": "c",
+        "text": "Spojité, nespojité"
+      },
+      {
+        "id": "d",
+        "text": "Racionálne, iracionálne"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 281,
+    "text": "Čo znamená riešiť úlohu s ohraničeniami?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nájsť optimálny rozvrh"
+      },
+      {
+        "id": "b",
+        "text": "Nájsť jedno riešenie"
+      },
+      {
+        "id": "c",
+        "text": "Dokázať existenciu alebo neexistenciu riešenia"
+      },
+      {
+        "id": "d",
+        "text": "Všetky uvedené odpovede"
+      }
+    ],
+    "correctAnswers": [
+      "d"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 282,
+    "text": "Čo je cieľom redukčných algoritmov?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prehľadávať priestor prehľadávania"
+      },
+      {
+        "id": "b",
+        "text": "Zredukovať priestor prehľadávania"
+      },
+      {
+        "id": "c",
+        "text": "Kombinovať redukčné a prehľadávacie algoritmy"
+      },
+      {
+        "id": "d",
+        "text": "Nájsť jedno riešenie"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 283,
+    "text": "Čo znamená silná k-konzistencia?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sieť ohraničení je j-konzistentná pre všetky j v rozsahu ⟨1, k⟩"
+      },
+      {
+        "id": "b",
+        "text": "Sieť ohraničení je k-1 konzistentná"
+      },
+      {
+        "id": "c",
+        "text": "Všetky ohraničenia sú splnené pre každú premennú"
+      },
+      {
+        "id": "d",
+        "text": "Každá hodnota je konzistentná s každou inou hodnotou"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 284,
+    "text": "Aká je nevýhoda prehľadávacích algoritmov?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Výpočtová zložitosť"
+      },
+      {
+        "id": "b",
+        "text": "Jednoduchosť implementácie"
+      },
+      {
+        "id": "c",
+        "text": "Potreba kombinovať s redukčnými algoritmami"
+      },
+      {
+        "id": "d",
+        "text": "Vysoké náklady na skladovanie"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 285,
+    "text": "Čo kombinujú kombinované algoritmy?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Výhody redukčných a prehľadávacích algoritmov"
+      },
+      {
+        "id": "b",
+        "text": "Nevýhody redukčných a prehľadávacích algoritmov"
+      },
+      {
+        "id": "c",
+        "text": "Výhody prehľadávacích a optimalizačných algoritmov"
+      },
+      {
+        "id": "d",
+        "text": "Výhody a nevýhody všetkých typov algoritmov"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 286,
+    "text": "Čo sú unárne ohraničenia?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ohraničenia definované nad jednou premennou"
+      },
+      {
+        "id": "b",
+        "text": "Ohraničenia definované nad dvoma premennými"
+      },
+      {
+        "id": "c",
+        "text": "Ohraničenia definované nad troma premennými"
+      },
+      {
+        "id": "d",
+        "text": "Ohraničenia definované nad všetkými premennými"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 287,
+    "text": "Čo znamenajú binárne ohraničenia?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ohraničenia definované nad jednou premennou"
+      },
+      {
+        "id": "b",
+        "text": "Ohraničenia definované nad dvoma premennými"
+      },
+      {
+        "id": "c",
+        "text": "Ohraničenia definované nad troma premennými"
+      },
+      {
+        "id": "d",
+        "text": "Ohraničenia definované nad všetkými premennými"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 288,
+    "text": "Čo je hypergraf v kontexte CSP?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Neorientovaný graf s dvoma typmi uzlov"
+      },
+      {
+        "id": "b",
+        "text": "Graf, kde hrany spájajú premenné a ohraničenia"
+      },
+      {
+        "id": "c",
+        "text": "Graf s jedným typom uzlov a hyperhranami"
+      },
+      {
+        "id": "d",
+        "text": "Jednoduchšie znázornenie pre binárne CSP"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 289,
+    "text": "Čo je priestor prehľadávania P v CSP?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Množina premenných"
+      },
+      {
+        "id": "b",
+        "text": "Množina domén"
+      },
+      {
+        "id": "c",
+        "text": "Kartézsky súčin domén všetkých premenných"
+      },
+      {
+        "id": "d",
+        "text": "Množina ohraničení"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 290,
+    "text": "Čo znamená optimalizovať CSP?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nájsť riešenie, ktoré minimalizuje funkciu nákladov"
+      },
+      {
+        "id": "b",
+        "text": "Nájsť riešenie, ktoré maximalizuje funkciu nákladov"
+      },
+      {
+        "id": "c",
+        "text": "Nájsť všetky riešenia"
+      },
+      {
+        "id": "d",
+        "text": "Dokázať existenciu riešenia"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 291,
+    "text": "Čo znamená k-konzistencia v kontexte siete ohraničení?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Konzistenciu všetkých podmnožín množiny premenných V s kardinalitou k"
+      },
+      {
+        "id": "b",
+        "text": "Konzistenciu všetkých premenných"
+      },
+      {
+        "id": "c",
+        "text": "Konzistenciu jedinečných premenných"
+      },
+      {
+        "id": "d",
+        "text": "Konzistenciu nad hypergrafom"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 292,
+    "text": "Čo znamená silná k-konzistencia?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sieť ohraničení je k-konzistentná pre všetky premenné"
+      },
+      {
+        "id": "b",
+        "text": "Sieť ohraničení je j-konzistentná pre všetky j = 1, 2, ..., k (zahŕňa aj všetky nižšie úrovne konzistencie)"
+      },
+      {
+        "id": "c",
+        "text": "Konzistencia všetkých premenných s ich hodnotami"
+      },
+      {
+        "id": "d",
+        "text": "Konzistencia nad hypergrafom"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 293,
+    "text": "Čo je 1-konzistencia (uzlová konzistencia, NC)?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Konzistencia medzi dvoma premennými"
+      },
+      {
+        "id": "b",
+        "text": "Konzistencia jednej premennej so svojou doménou"
+      },
+      {
+        "id": "c",
+        "text": "Konzistencia medzi všetkými premennými a ich doménami"
+      },
+      {
+        "id": "d",
+        "text": "Konzistencia medzi premennou a jej susedmi"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 294,
+    "text": "Čo znamená 2-konzistencia (hranová konzistencia, AC)?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hodnoty v ľubovoľnej doméne sa porovnávajú s hodnotami inej premennej"
+      },
+      {
+        "id": "b",
+        "text": "Každá premenná je konzistentná so všetkými svojimi hodnotami"
+      },
+      {
+        "id": "c",
+        "text": "Všetky premenné sú konzistentné s hyperhranami"
+      },
+      {
+        "id": "d",
+        "text": "Konzistencia sa dosahuje použitím simplexového algoritmu"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 295,
+    "text": "Prečo sa algoritmy na zabezpečenie k-konzistencie pre k>2 používajú veľmi zriedkavo?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Majú vysokú priestorovú zložitosť"
+      },
+      {
+        "id": "b",
+        "text": "Majú vysokú časovú zložitosť"
+      },
+      {
+        "id": "c",
+        "text": "Nie sú dostatočne presné"
+      },
+      {
+        "id": "d",
+        "text": "Sú príliš jednoduché na implementáciu"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 296,
+    "text": "Čo je základným prehľadávacím algoritmom pre CSP?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Algoritmus spätného navracania (BT - backtracking)"
+      },
+      {
+        "id": "b",
+        "text": "Algoritmus hranovej konzistencie"
+      },
+      {
+        "id": "c",
+        "text": "Algoritmus simplex"
+      },
+      {
+        "id": "d",
+        "text": "Algoritmus uzlovej konzistencie"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 297,
+    "text": "Aké problémy spôsobuje algoritmus spätného navracania (BT)?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Je príliš jednoduchý na implementáciu"
+      },
+      {
+        "id": "b",
+        "text": "Zabezpečuje k-konzistenciu"
+      },
+      {
+        "id": "c",
+        "text": "Zvykne dochádzať k 'trashing'-u"
+      },
+      {
+        "id": "d",
+        "text": "Má nízku výpočtovú náročnosť"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 298,
+    "text": "Čo je cieľom algoritmov spätného navracania riadených závislosťami?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zredukovať časovú zložitosť"
+      },
+      {
+        "id": "b",
+        "text": "Prehľadávať priestor prehľadávania P"
+      },
+      {
+        "id": "c",
+        "text": "Zredukovať priestor prehľadávania P"
+      },
+      {
+        "id": "d",
+        "text": "Kombinovať redukčné a prehľadávacie algoritmy"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 299,
+    "text": "Čo kombinujú kombinované algoritmy v CSP?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Výhody redukčných a prehľadávacích algoritmov"
+      },
+      {
+        "id": "b",
+        "text": "Výhody redukčných a optimalizačných algoritmov"
+      },
+      {
+        "id": "c",
+        "text": "Nevýhody prehľadávacích a optimalizačných algoritmov"
+      },
+      {
+        "id": "d",
+        "text": "Nevýhody všetkých typov algoritmov"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 300,
+    "text": "Čo znamená kombinovaná stratégia 'ohranič a generuj'?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zredukovať priestor prehľadávania pred každým krokom prehľadávania"
+      },
+      {
+        "id": "b",
+        "text": "Generovať všetky možné riešenia a potom ohraničiť priestor"
+      },
+      {
+        "id": "c",
+        "text": "Použiť uzlovú konzistenciu pred každým krokom prehľadávania"
+      },
+      {
+        "id": "d",
+        "text": "Použiť hranovú konzistenciu po každom kroku prehľadávania"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 301,
+    "text": "Aký je rozdiel medzi úplnými a neúplnými redukčnými algoritmami?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Úplné algoritmy zaručujú riešenie, neúplné nemusia"
+      },
+      {
+        "id": "b",
+        "text": "Úplné algoritmy sú rýchlejšie, neúplné sú pomalšie"
+      },
+      {
+        "id": "c",
+        "text": "Úplné algoritmy sa používajú pre konečné domény, neúplné pre nekonečné domény"
+      },
+      {
+        "id": "d",
+        "text": "Úplné algoritmy používajú simplexový algoritmus, neúplné nie"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 302,
+    "text": "Čo je optimalizácia metódou 'vetvenia a medzí'?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rozdelenie problému na podproblémy a ohraničenie ich riešení"
+      },
+      {
+        "id": "b",
+        "text": "Použitie redukčných algoritmov na riešenie problému"
+      },
+      {
+        "id": "c",
+        "text": "Prehľadávanie všetkých možných riešení a ohraničenie nekonzistentných"
+      },
+      {
+        "id": "d",
+        "text": "Kombinácia uzlovej a hranovej konzistencie"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 303,
+    "text": "Čo je deklaratívna formulácia úlohy v kontexte CSP?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Definícia premenných s počiatočnými doménami a ohraničeniami"
+      },
+      {
+        "id": "b",
+        "text": "Implementácia algoritmu spätného navracania"
+      },
+      {
+        "id": "c",
+        "text": "Použitie simplexového algoritmu pre optimalizáciu"
+      },
+      {
+        "id": "d",
+        "text": "Definícia premenných bez domén"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 304,
+    "text": "Čo znamená 'rozšírená unifikácia' v deklaratívnom programovaní?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Priraďovanie premenných s počiatočnými doménami"
+      },
+      {
+        "id": "b",
+        "text": "Zahrnutie atribútov premenných do unifikačného procesu"
+      },
+      {
+        "id": "c",
+        "text": "Prehľadávanie všetkých možných riešení"
+      },
+      {
+        "id": "d",
+        "text": "Kombinácia uzlovej a hranovej konzistencie"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 305,
+    "text": "Čo znamená 'lokálna propagácia' v kontexte redukčných algoritmov?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Použitie samostatného algoritmu pre každý typ ohraničení"
+      },
+      {
+        "id": "b",
+        "text": "Kombinácia redukčných a prehľadávacích algoritmov"
+      },
+      {
+        "id": "c",
+        "text": "Implementácia uzlovej a hranovej konzistencie"
+      },
+      {
+        "id": "d",
+        "text": "Optimalizácia metódou vetvenia a medzí"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 306,
+    "text": "Čo je ECLiPSe v kontexte CLP?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Programovací jazyk na písanie webových aplikácií"
+      },
+      {
+        "id": "b",
+        "text": "Platforma na logické programovanie s obmedzeniami"
+      },
+      {
+        "id": "c",
+        "text": "Nástroj na grafické modelovanie"
+      },
+      {
+        "id": "d",
+        "text": "Simulačný nástroj na fyzikálne simulácie"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 307,
+    "text": "Ktoré z nasledujúcich tvrdení najlepšie opisuje základnú štruktúru programu v ECLiPSe?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Definícia premenných, domén a obmedzení, následne prehľadávanie riešení"
+      },
+      {
+        "id": "b",
+        "text": "Definícia tried a objektov, následne metódy a inštancie"
+      },
+      {
+        "id": "c",
+        "text": "Definícia funkcií, následne ich volania a výpočty"
+      },
+      {
+        "id": "d",
+        "text": "Definícia štýlov a šablón pre webové stránky"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 308,
+    "text": "Aký je účel príkazu :- lib(ic). v ECLiPSe?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Načíta knižnicu pre prácu s obmedzeniami nad celočíselnými doménami"
+      },
+      {
+        "id": "b",
+        "text": "Načíta knižnicu pre prácu s reťazcami"
+      },
+      {
+        "id": "c",
+        "text": "Načíta knižnicu pre grafické užívateľské rozhranie"
+      },
+      {
+        "id": "d",
+        "text": "Načíta knižnicu pre prácu s databázami"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 309,
+    "text": "Čo znamená operátor #= v ECLiPSe?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Priraďovanie hodnôt"
+      },
+      {
+        "id": "b",
+        "text": "Logické AND"
+      },
+      {
+        "id": "c",
+        "text": "Rovnosť pre premenné s obmedzeniami"
+      },
+      {
+        "id": "d",
+        "text": "Príkaz na zmenu domény premennej"
+      }
+    ],
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 310,
+    "text": "Čo znamená pojem 'doména' v kontexte CLP v jazyku ECLiPSe?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Súbor všetkých možných hodnôt, ktoré môže premenná nadobudnúť"
+      },
+      {
+        "id": "b",
+        "text": "Množina všetkých obmedzení pre určitý problém"
+      },
+      {
+        "id": "c",
+        "text": "Typ dátových štruktúr používaných v programe"
+      },
+      {
+        "id": "d",
+        "text": "Názov súboru, kde je program uložený"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  },
+  {
+    "id": 311,
+    "text": "Čo je hlavnou výhodou použitia CLP v ECLiPSe?",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rýchlejší výkon v porovnaní s imperatívnym programovaním"
+      },
+      {
+        "id": "b",
+        "text": "Jednoduchšia implementácia algoritmov s obmedzeniami"
+      },
+      {
+        "id": "c",
+        "text": "Možnosť používania grafických nástrojov"
+      },
+      {
+        "id": "d",
+        "text": "Podpora viacerých programovacích jazykov"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Úlohy s ohraničeniami"
+  }
+]
