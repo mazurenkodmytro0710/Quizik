@@ -1,0 +1,241 @@
+[
+  {
+    "id": 1,
+    "text": "Predpoveď nemennej alebo opakovane sa opakujúcej hodnoty systému určením pravdepodobnej odchýlky je nazývaná:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "predikcia"},
+      {"id": "b", "text": "klasifikácia"},
+      {"id": "c", "text": "prognóza"},
+      {"id": "d", "text": "simulácia"}
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Dátová analytika"
+  },
+  {
+    "id": 2,
+    "text": "Predpoveď kategorizácie udalosti do tried (pravdivý/nepravdivý, áno/nie) je nazývaná:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "predikcia"},
+      {"id": "b", "text": "klasifikácia"},
+      {"id": "c", "text": "prognóza"},
+      {"id": "d", "text": "regresná analýza"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Dátová analytika"
+  },
+  {
+    "id": 3,
+    "text": "Štyri kroky v procese riešenia problémov podnikania zahŕňajú:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "Určenie problému"},
+      {"id": "b", "text": "Výsledok analýzy a výber riešenia problémov"},
+      {"id": "c", "text": "Vytvorenie návrhu riešenia problémov"},
+      {"id": "d", "text": "Implementácia zvoleného riešenia"}
+    ],
+    "correctAnswers": ["a", "b", "c", "d"],
+    "topic": "Riadenie IS"
+  },
+  {
+    "id": 4,
+    "text": "Ktoré značky v HTML slúžia na označenie členeného textu do blokov?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "<TR>"},
+      {"id": "b", "text": "<P>"},
+      {"id": "c", "text": "<SPAN>"},
+      {"id": "d", "text": "<DIV>"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Webové technológie"
+  },
+  {
+    "id": 5,
+    "text": "Medzi základné zdroje na trhu s komerčným tovarom patria:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "Sprostredkovateľské služby"},
+      {"id": "b", "text": "Podniky vstupujúce do zásobovania a maloobchodu"},
+      {"id": "c", "text": "Služby výroby"},
+      {"id": "d", "text": "Služby podpory marketingu pri rozhodovaní"},
+      {"id": "e", "text": "Administratívne procesy vo firme"},
+      {"id": "f", "text": "Elektronické obchodovanie"}
+    ],
+    "correctAnswers": ["a", "b", "d"],
+    "topic": "Elektronické podnikanie"
+  },
+  {
+    "id": 6,
+    "text": "Ktoré z nasledovných tvrdení o podnikových procesoch sú správne?",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "Služby, ktoré sa končia vznikom hodnoty vo forme produktu alebo služby, sa považujú za podnikové procesy."},
+      {"id": "b", "text": "Je to súbor automatizácií a systému riadenia produkcie."},
+      {"id": "c", "text": "Sú to aktivity smerované k vytvoreniu reálneho produktu."},
+      {"id": "d", "text": "Na ich základe je možné vytvoriť model podnikového procesu."},
+      {"id": "e", "text": "Procesy sú len tie, ktoré sú realizované dodávateľmi."},
+      {"id": "f", "text": "Procesy možno popísať modelom, ktorý zobrazuje hlavné produktové toky vo firme."},
+      {"id": "g", "text": "Je to činnosť premeniteľná z nejasných vstupov na určité výstupy."}
+    ],
+    "correctAnswers": ["a", "c", "d", "f", "g"],
+    "topic": "Podnikové procesy"
+  },
+  {
+    "id": 7,
+    "text": "Akým spôsobom je možné formátovať elementy stránky pomocou kaskádových štýlov CSS?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "Pre každý element sa formátovacie vlastnosti zapisujú do selektora a zápisu v style elementu."},
+      {"id": "b", "text": "Kaskádové štýly slúžia iba na generovanie textu, nie na formátovanie."},
+      {"id": "c", "text": "Pre jeden element sa formátovacie vlastnosti zapisujú v atribúte \"style\"."},
+      {"id": "d", "text": "Pre jeden element sa formátovacie vlastnosti zapisujú v atribúte \"class\"."}
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Webové technológie"
+  },
+  {
+    "id": 8,
+    "text": "Analýza, podľa ktorej IT zohráva zmeny v procesoch a spôsoby merania prínosu týchto zmien (okrem úspešnosti), sa nazýva:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "IT Balanced Scorecard analýza"},
+      {"id": "b", "text": "ROI analýza (návratnosť investícií)"},
+      {"id": "c", "text": "SWOT analýza"},
+      {"id": "d", "text": "Ani jedna z uvedených možností nie je správna"}
+    ],
+    "correctAnswers": ["d"],
+    "topic": "IT governance"
+  },
+  {
+    "id": 9,
+    "text": "Pasívny zber a aktívna distribúcia znalostí je charakteristická pre:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "znalostnú špongiu"},
+      {"id": "b", "text": "znalostné podujatie"},
+      {"id": "c", "text": "znalostnú pumpu"},
+      {"id": "d", "text": "znalostné vydavateľstvo"}
+    ],
+    "correctAnswers": ["d"],
+    "topic": "Manažment znalostí"
+  },
+  {
+    "id": 10,
+    "text": "Aký je hlavný cieľ riadenia projektu?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "Vybrať najlepší nápad z množiny možných riešení."},
+      {"id": "b", "text": "Poskytnúť podklady pre kontrolu počas realizácie projektu."},
+      {"id": "c", "text": "Prijať rozhodnutia dôležité pre prípravu projektu."},
+      {"id": "d", "text": "Zdokumentovať výsledky projektu pre budúce použitie."}
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Projektový manažment"
+  },
+  {
+    "id": 11,
+    "text": "Pre organizácie pôsobiace v prostredí s vysokou mierou neistoty je z hľadiska manažmentu znalostí potrebná najmä:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "identifikácia znalostí"},
+      {"id": "b", "text": "zachytávanie znalostí"},
+      {"id": "c", "text": "získavanie znalostí"},
+      {"id": "d", "text": "zdieľanie znalostí"}
+    ],
+    "correctAnswers": ["d"],
+    "topic": "Manažment znalostí"
+  },
+  {
+    "id": 12,
+    "text": "Medzi podmieňujúce faktory manažmentu znalostí NEPATRIA:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "Organizačné charakteristiky (veľkosť organizácie, stratégia riadenia)"},
+      {"id": "b", "text": "Osobnostné charakteristiky manažérov v organizácii"},
+      {"id": "c", "text": "Informačná a komunikačná infraštruktúra organizácie"},
+      {"id": "d", "text": "Charakteristiky prostredia (miera jeho neistoty)"},
+      {"id": "e", "text": "Typ používaného znalostného skladu"},
+      {"id": "f", "text": "Charakteristika (typ) znalostí na riešenie úloh (explicitné/tacitné)"},
+      {"id": "g", "text": "Charakteristika (typ) úloh v danom oddelení (miera neurčitosti a nezávislosti)"}
+    ],
+    "correctAnswers": ["b", "c", "e"],
+    "topic": "Manažment znalostí"
+  },
+  {
+    "id": 13,
+    "text": "Medzi celopodnikové informačné systémy NEPATRIA:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "ERP systémy"},
+      {"id": "b", "text": "KM systémy"},
+      {"id": "c", "text": "CMS systémy"},
+      {"id": "d", "text": "SCM systémy"},
+      {"id": "e", "text": "TPS systémy"},
+      {"id": "f", "text": "CRM systémy"},
+      {"id": "g", "text": "DSS systémy"}
+    ],
+    "correctAnswers": ["c", "e", "g"],
+    "topic": "Podnikové IS"
+  },
+  {
+    "id": 14,
+    "text": "Systémy ERP II rozširujú ERP systémy najmä o tieto nové funkcionality:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "BI (Business Intelligence) – manažérsky informačný systém"},
+      {"id": "b", "text": "CRM (Customer Relationship Management) – riadenie vzťahov so zákazníkmi"},
+      {"id": "c", "text": "SCM (Supply Chain Management) – riadenie dodávateľského reťazca"},
+      {"id": "d", "text": "CIM (Content Management System) – systém pre správu obsahu"},
+      {"id": "e", "text": "DSS (Decision Support System) – systém na podporu rozhodovania"}
+    ],
+    "correctAnswers": ["a", "b", "c"],
+    "topic": "Podnikové IS"
+  },
+  {
+    "id": 15,
+    "text": "Pre menšie organizácie je pre aplikáciu znalostí vhodné podporovať najmä nasledovný typ procesov:",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "kombinácia"},
+      {"id": "b", "text": "vedenie"},
+      {"id": "c", "text": "rutiny"},
+      {"id": "d", "text": "socializácia"},
+      {"id": "e", "text": "distribúcia"}
+    ],
+    "correctAnswers": ["d"],
+    "topic": "Manažment znalostí"
+  },
+  {
+    "id": 16,
+    "text": "Medzi základné stratégie na boj s konkurenčnými silami patrí:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "špecializačná stratégia"},
+      {"id": "b", "text": "posilňovanie vzťahov so zákazníkmi a dodávateľmi"},
+      {"id": "c", "text": "stratégia nízkych nákladov"},
+      {"id": "d", "text": "efektívna podpora manažmentu pri rozhodovaní"},
+      {"id": "e", "text": "automatizácia procesov vo firme"},
+      {"id": "f", "text": "diferenciačná stratégia"},
+      {"id": "g", "text": "elektronické obchodovanie"}
+    ],
+    "correctAnswers": ["a", "b", "c", "f"],
+    "topic": "IT stratégia"
+  },
+  {
+    "id": 17,
+    "text": "Medzi výhody diferenciačnej stratégie boja s konkurenčnými silami patrí:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "možnosť stanoviť nižšiu cenu za produkt ako konkurenti pri zachovaní potrebnej úrovne zisku"},
+      {"id": "b", "text": "zvyšuje bariéry vstupu pre podniky prenikajúce do odvetvia"},
+      {"id": "c", "text": "možnosť diktovať ceny v danom odvetví"},
+      {"id": "d", "text": "ochrana pred konkurenčnou súťažou so spotrebiteľskou dôverou k značke"},
+      {"id": "e", "text": "väčšia tolerancia k nárastu nákladov ako pri nákladovo orientovanej stratégii"},
+      {"id": "f", "text": "schopnosť dodávať žiadaný výrobok ako jediný na trhu, čo vzbudzuje dôveru k značke"}
+    ],
+    "correctAnswers": ["b", "e", "f"],
+    "topic": "IT stratégia"
+  }
+]

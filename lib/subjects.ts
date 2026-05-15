@@ -3,9 +3,10 @@ import questionsData from "@/data/questions.json";
 import questionsNmData from "@/data/questions_nm.json";
 import questionsRal100Data from "@/data/questions_ral100.json";
 import questionsRalData from "@/data/questions_ral.json";
+import questionsUhiData from "@/data/questions_uhi.json";
 import { Question } from "./types";
 
-export type SubjectId = "zsu" | "nm" | "ral100" | "ral";
+export type SubjectId = "zsu" | "nm" | "ral100" | "ral" | "uhi";
 
 export interface QuizSubject {
   id: SubjectId;
@@ -13,7 +14,7 @@ export interface QuizSubject {
   subtitle: string;
   description: string;
   icon: string;
-  accent: "violet" | "emerald" | "amber" | "sky";
+  accent: "violet" | "emerald" | "amber" | "sky" | "rose";
   questions: Question[];
 }
 
@@ -54,6 +55,15 @@ export const getQuizSubjects = cache(async (): Promise<QuizSubject[]> => {
       icon: "🚚",
       accent: "sky",
       questions: questionsRalData as Question[],
+    },
+    {
+      id: "uhi",
+      title: "UHI",
+      subtitle: "Úvod do HW a IS",
+      description: "Otázky z podnikových IS, IT stratégie, manažmentu znalostí a webových technológií.",
+      icon: "💡",
+      accent: "rose",
+      questions: questionsUhiData as Question[],
     },
   ];
 });

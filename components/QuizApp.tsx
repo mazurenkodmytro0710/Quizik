@@ -264,6 +264,8 @@ function getSubjectAccentClass(accent: QuizSubject["accent"]) {
       return "border-amber-400/40 bg-amber-500/10 shadow-lg shadow-amber-950/20";
     case "sky":
       return "border-sky-400/40 bg-sky-500/10 shadow-lg shadow-sky-950/20";
+    case "rose":
+      return "border-rose-400/40 bg-rose-500/10 shadow-lg shadow-rose-950/20";
     case "violet":
     default:
       return "border-violet-400/40 bg-violet-500/10 shadow-lg shadow-violet-950/20";
