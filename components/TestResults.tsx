@@ -48,19 +48,33 @@ export function TestResults({ stats, subjectTitle, onRestart, onHome }: TestResu
             {stats.mistakes.map(({ question, selected, correct }) => (
               <div key={question.id} className="rounded-2xl bg-red-500/10 border border-red-500/20 p-4">
                 <p className="text-white/90 text-sm font-medium mb-2">{question.text}</p>
-                <p className="text-xs text-red-400">
-                  Tvoja odpoveď: <span className="font-semibold">{selected.join(", ") || "—"}</span>
-                </p>
-                <p className="text-xs text-emerald-400">
-                  Správna odpoveď: <span className="font-semibold">{correct.join(", ")}</span>
-                </p>
-                <div className="mt-2 flex flex-col gap-1">
-                  {correct.map((cId) => (
-                    <p key={cId} className="text-xs text-white/40">
-                      {cId}: {getOptionLabel(question, cId)}
+                {question.type !== "matching" && (
+                  <>
+                    <p className="text-xs text-red-400">
+                      Tvoja odpoveď: <span className="font-semibold">{selected.join(", ") || "—"}</span>
                     </p>
-                  ))}
-                </div>
+                    <p className="text-xs text-emerald-400">
+                      Správna odpoveď: <span className="font-semibold">{correct.join(", ")}</span>
+                    </p>
+                  </>
+                )}
+                {question.type === "matching" && question.pairs ? (
+                  <div className="mt-2 flex flex-col gap-1">
+                    {question.pairs.map((pair) => (
+                      <p key={pair.id} className="text-xs text-white/40">
+                        {pair.left} → <span className="text-emerald-400">{pair.right}</span>
+                      </p>
+                    ))}
+                  </div>
+                ) : (
+                  <div className="mt-2 flex flex-col gap-1">
+                    {correct.map((cId) => (
+                      <p key={cId} className="text-xs text-white/40">
+                        {cId}: {getOptionLabel(question, cId)}
+                      </p>
+                    ))}
+                  </div>
+                )}
               </div>
             ))}
           </div>

@@ -237,5 +237,120 @@
     ],
     "correctAnswers": ["b", "e", "f"],
     "topic": "IT stratégia"
+  },
+  {
+    "id": 18,
+    "text": "Pre funkčné riadenie podniku je charakteristické:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "Oddelenia sú integrované, činnosti prebiehajú aj medzi oddeleniami"},
+      {"id": "b", "text": "Komunikácia je komplikovaná, prebieha cez nadriadených"},
+      {"id": "c", "text": "Používajú pridanú hodnotu pre zákazníka ako kritérium"},
+      {"id": "d", "text": "Oddelenia vo firme fungujú autonómne"}
+    ],
+    "correctAnswers": ["b", "d"],
+    "topic": "Riadenie podniku"
+  },
+  {
+    "id": 19,
+    "text": "Medzi významné obchodné (podnikové) ciele, ktoré vedú firmy k investovaniu do informačných systémov, patria aj:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "Zvýšenie prestíže"},
+      {"id": "b", "text": "Užší vzťah so zákazníkmi, dodávateľmi"},
+      {"id": "c", "text": "Operačná excelencia"},
+      {"id": "d", "text": "Zabezpečenie najnovšou výpočtovou technikou"},
+      {"id": "e", "text": "Expanzia na nové trhy"},
+      {"id": "f", "text": "Nové tovary, služby a obchodné modely"}
+    ],
+    "correctAnswers": ["b", "c", "f"],
+    "topic": "Informačné systémy"
+  },
+  {
+    "id": 20,
+    "text": "Analógiou metodiky balanced scorecards (bilančné kartičky) pre informačné systémy a služby je metodika IT balanced scorecard.",
+    "type": "truefalse",
+    "options": [
+      {"id": "true", "text": "Pravda"},
+      {"id": "false", "text": "Nepravda"}
+    ],
+    "correctAnswers": ["true"],
+    "topic": "IT governance"
+  },
+  {
+    "id": 21,
+    "text": "Medzi základné procesy tvorby znalostí podľa Nonaku a Takeuchiho patria:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "externalizácia"},
+      {"id": "b", "text": "aplikácia"},
+      {"id": "c", "text": "socializácia"},
+      {"id": "d", "text": "rutiny"},
+      {"id": "e", "text": "kombinácia"},
+      {"id": "f", "text": "vedenie"},
+      {"id": "g", "text": "distribúcia"},
+      {"id": "h", "text": "internalizácia"}
+    ],
+    "correctAnswers": ["a", "c", "e", "h"],
+    "topic": "Manažment znalostí"
+  },
+  {
+    "id": 22,
+    "text": "Priraďte správne typy prediktívneho dolovania v dátach k ich definíciám:",
+    "type": "matching",
+    "options": [],
+    "pairs": [
+      {"id": "p1", "left": "Predikuje kategorické označenia tried (pravdivý/nepravdivý, áno/nie)", "right": "klasifikácia"},
+      {"id": "p2", "left": "Predikuje neznáme alebo chýbajúce číselné hodnoty systému", "right": "predikcia"}
+    ],
+    "correctAnswers": ["p1:klasifikácia", "p2:predikcia"],
+    "topic": "Dátová analytika"
+  },
+  {
+    "id": 23,
+    "text": "Medzi dôvody, prečo sú znalosti pre organizácie také dôležité, patria:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "znalosti od expertov musia byť uchované v znalostných systémoch"},
+      {"id": "b", "text": "globalizácia trhu"},
+      {"id": "c", "text": "súčasným trendom vo svete je vedomostná ekonomika"},
+      {"id": "d", "text": "organizácie sa stávajú znalostne intenzívnymi"},
+      {"id": "e", "text": "narastajúca zložitosť riešených úloh"},
+      {"id": "f", "text": "znalosti umožňujú byť na čele zmien"},
+      {"id": "g", "text": "znalosti sú mobilné"}
+    ],
+    "correctAnswers": ["b", "d", "e", "f", "g"],
+    "topic": "Manažment znalostí"
+  },
+  {
+    "id": 24,
+    "text": "Správne priraďte jednotlivé perspektívy metodiky Balanced Scorecard a čo merajú:",
+    "type": "matching",
+    "options": [],
+    "pairs": [
+      {"id": "p1", "left": "Finančná perspektíva", "right": "celopodnikový prínos"},
+      {"id": "p2", "left": "Zákaznícka perspektíva", "right": "orientácia na zákazníka"},
+      {"id": "p3", "left": "Perspektíva interných procesov", "right": "prevádzková dokonalosť"},
+      {"id": "p4", "left": "Perspektíva učenia sa a rastu", "right": "orientácia na budúcnosť"}
+    ],
+    "correctAnswers": ["p1:celopodnikový prínos", "p2:orientácia na zákazníka", "p3:prevádzková dokonalosť", "p4:orientácia na budúcnosť"],
+    "topic": "IT governance"
+  },
+  {
+    "id": 25,
+    "text": "Z organizačného hľadiska členíme informačné systémy na tieto typy:",
+    "type": "multiple",
+    "options": [
+      {"id": "a", "text": "Finančné a účtovnícke systémy"},
+      {"id": "b", "text": "Transakčné systémy"},
+      {"id": "c", "text": "Systémy na podporu exekutívy"},
+      {"id": "d", "text": "Manažérske informačné systémy"},
+      {"id": "e", "text": "Systémy na podporu rozhodovania"},
+      {"id": "f", "text": "Systémy na podporu predaja a marketingu"},
+      {"id": "g", "text": "Systémy na podporu správy ľudských zdrojov"},
+      {"id": "h", "text": "Výrobné systémy"}
+    ],
+    "correctAnswers": ["b", "d", "e"],
+    "topic": "Informačné systémy"
   }
 ]

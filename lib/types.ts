@@ -1,8 +1,15 @@
-export type QuestionType = "single" | "multiple" | "truefalse";
+export type QuestionType = "single" | "multiple" | "truefalse" | "matching";
 
 export interface Option {
   id: string;
   text: string;
+}
+
+/** One pair for a matching question. `right` is the correct match for `left`. */
+export interface MatchingPair {
+  id: string;
+  left: string;
+  right: string;
 }
 
 export interface Question {
@@ -10,6 +17,9 @@ export interface Question {
   text: string;
   type: QuestionType;
   options: Option[];
+  /** Present only when type === "matching" */
+  pairs?: MatchingPair[];
+  /** For matching: ["pairId:rightText", …] — one entry per pair */
   correctAnswers: string[];
   topic?: string;
   explanation?: string;
