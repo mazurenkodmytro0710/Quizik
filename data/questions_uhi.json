@@ -4,12 +4,26 @@
     "text": "Predpoveď nemennej alebo opakovane sa opakujúcej hodnoty systému určením pravdepodobnej odchýlky je nazývaná:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "predikcia"},
-      {"id": "b", "text": "klasifikácia"},
-      {"id": "c", "text": "prognóza"},
-      {"id": "d", "text": "simulácia"}
+      {
+        "id": "a",
+        "text": "predikcia"
+      },
+      {
+        "id": "b",
+        "text": "klasifikácia"
+      },
+      {
+        "id": "c",
+        "text": "prognóza"
+      },
+      {
+        "id": "d",
+        "text": "simulácia"
+      }
     ],
-    "correctAnswers": ["a"],
+    "correctAnswers": [
+      "a"
+    ],
     "topic": "Dátová analytika"
   },
   {
@@ -17,12 +31,26 @@
     "text": "Predpoveď kategorizácie udalosti do tried (pravdivý/nepravdivý, áno/nie) je nazývaná:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "predikcia"},
-      {"id": "b", "text": "klasifikácia"},
-      {"id": "c", "text": "prognóza"},
-      {"id": "d", "text": "regresná analýza"}
+      {
+        "id": "a",
+        "text": "predikcia"
+      },
+      {
+        "id": "b",
+        "text": "klasifikácia"
+      },
+      {
+        "id": "c",
+        "text": "prognóza"
+      },
+      {
+        "id": "d",
+        "text": "regresná analýza"
+      }
     ],
-    "correctAnswers": ["b"],
+    "correctAnswers": [
+      "b"
+    ],
     "topic": "Dátová analytika"
   },
   {
@@ -30,12 +58,29 @@
     "text": "Štyri kroky v procese riešenia problémov podnikania zahŕňajú:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Určenie problému"},
-      {"id": "b", "text": "Výsledok analýzy a výber riešenia problémov"},
-      {"id": "c", "text": "Vytvorenie návrhu riešenia problémov"},
-      {"id": "d", "text": "Implementácia zvoleného riešenia"}
+      {
+        "id": "a",
+        "text": "Určenie problému"
+      },
+      {
+        "id": "b",
+        "text": "Výsledok analýzy a výber riešenia problémov"
+      },
+      {
+        "id": "c",
+        "text": "Vytvorenie návrhu riešenia problémov"
+      },
+      {
+        "id": "d",
+        "text": "Implementácia zvoleného riešenia"
+      }
     ],
-    "correctAnswers": ["a", "b", "c", "d"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
     "topic": "Riadenie IS"
   },
   {
@@ -43,12 +88,26 @@
     "text": "Ktoré značky v HTML slúžia na označenie členeného textu do blokov?",
     "type": "single",
     "options": [
-      {"id": "a", "text": "<TR>"},
-      {"id": "b", "text": "<P>"},
-      {"id": "c", "text": "<SPAN>"},
-      {"id": "d", "text": "<DIV>"}
+      {
+        "id": "a",
+        "text": "<TR>"
+      },
+      {
+        "id": "b",
+        "text": "<P>"
+      },
+      {
+        "id": "c",
+        "text": "<SPAN>"
+      },
+      {
+        "id": "d",
+        "text": "<DIV>"
+      }
     ],
-    "correctAnswers": ["b"],
+    "correctAnswers": [
+      "b"
+    ],
     "topic": "Webové technológie"
   },
   {
@@ -56,14 +115,36 @@
     "text": "Medzi základné zdroje na trhu s komerčným tovarom patria:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Sprostredkovateľské služby"},
-      {"id": "b", "text": "Podniky vstupujúce do zásobovania a maloobchodu"},
-      {"id": "c", "text": "Služby výroby"},
-      {"id": "d", "text": "Služby podpory marketingu pri rozhodovaní"},
-      {"id": "e", "text": "Administratívne procesy vo firme"},
-      {"id": "f", "text": "Elektronické obchodovanie"}
+      {
+        "id": "a",
+        "text": "Sprostredkovateľské služby"
+      },
+      {
+        "id": "b",
+        "text": "Podniky vstupujúce do zásobovania a maloobchodu"
+      },
+      {
+        "id": "c",
+        "text": "Služby výroby"
+      },
+      {
+        "id": "d",
+        "text": "Služby podpory marketingu pri rozhodovaní"
+      },
+      {
+        "id": "e",
+        "text": "Administratívne procesy vo firme"
+      },
+      {
+        "id": "f",
+        "text": "Elektronické obchodovanie"
+      }
     ],
-    "correctAnswers": ["a", "b", "d"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "d"
+    ],
     "topic": "Elektronické podnikanie"
   },
   {
@@ -71,15 +152,42 @@
     "text": "Ktoré z nasledovných tvrdení o podnikových procesoch sú správne?",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Služby, ktoré sa končia vznikom hodnoty vo forme produktu alebo služby, sa považujú za podnikové procesy."},
-      {"id": "b", "text": "Je to súbor automatizácií a systému riadenia produkcie."},
-      {"id": "c", "text": "Sú to aktivity smerované k vytvoreniu reálneho produktu."},
-      {"id": "d", "text": "Na ich základe je možné vytvoriť model podnikového procesu."},
-      {"id": "e", "text": "Procesy sú len tie, ktoré sú realizované dodávateľmi."},
-      {"id": "f", "text": "Procesy možno popísať modelom, ktorý zobrazuje hlavné produktové toky vo firme."},
-      {"id": "g", "text": "Je to činnosť premeniteľná z nejasných vstupov na určité výstupy."}
+      {
+        "id": "a",
+        "text": "Služby, ktoré sa končia vznikom hodnoty vo forme produktu alebo služby, sa považujú za podnikové procesy."
+      },
+      {
+        "id": "b",
+        "text": "Je to súbor automatizácií a systému riadenia produkcie."
+      },
+      {
+        "id": "c",
+        "text": "Sú to aktivity smerované k vytvoreniu reálneho produktu."
+      },
+      {
+        "id": "d",
+        "text": "Na ich základe je možné vytvoriť model podnikového procesu."
+      },
+      {
+        "id": "e",
+        "text": "Procesy sú len tie, ktoré sú realizované dodávateľmi."
+      },
+      {
+        "id": "f",
+        "text": "Procesy možno popísať modelom, ktorý zobrazuje hlavné produktové toky vo firme."
+      },
+      {
+        "id": "g",
+        "text": "Je to činnosť premeniteľná z nejasných vstupov na určité výstupy."
+      }
     ],
-    "correctAnswers": ["a", "c", "d", "f", "g"],
+    "correctAnswers": [
+      "a",
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
     "topic": "Podnikové procesy"
   },
   {
@@ -87,12 +195,26 @@
     "text": "Akým spôsobom je možné formátovať elementy stránky pomocou kaskádových štýlov CSS?",
     "type": "single",
     "options": [
-      {"id": "a", "text": "Pre každý element sa formátovacie vlastnosti zapisujú do selektora a zápisu v style elementu."},
-      {"id": "b", "text": "Kaskádové štýly slúžia iba na generovanie textu, nie na formátovanie."},
-      {"id": "c", "text": "Pre jeden element sa formátovacie vlastnosti zapisujú v atribúte \"style\"."},
-      {"id": "d", "text": "Pre jeden element sa formátovacie vlastnosti zapisujú v atribúte \"class\"."}
+      {
+        "id": "a",
+        "text": "Pre každý element sa formátovacie vlastnosti zapisujú do selektora a zápisu v style elementu."
+      },
+      {
+        "id": "b",
+        "text": "Kaskádové štýly slúžia iba na generovanie textu, nie na formátovanie."
+      },
+      {
+        "id": "c",
+        "text": "Pre jeden element sa formátovacie vlastnosti zapisujú v atribúte \"style\"."
+      },
+      {
+        "id": "d",
+        "text": "Pre jeden element sa formátovacie vlastnosti zapisujú v atribúte \"class\"."
+      }
     ],
-    "correctAnswers": ["a"],
+    "correctAnswers": [
+      "a"
+    ],
     "topic": "Webové technológie"
   },
   {
@@ -100,12 +222,26 @@
     "text": "Analýza, podľa ktorej IT zohráva zmeny v procesoch a spôsoby merania prínosu týchto zmien (okrem úspešnosti), sa nazýva:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "IT Balanced Scorecard analýza"},
-      {"id": "b", "text": "ROI analýza (návratnosť investícií)"},
-      {"id": "c", "text": "SWOT analýza"},
-      {"id": "d", "text": "Ani jedna z uvedených možností nie je správna"}
+      {
+        "id": "a",
+        "text": "IT Balanced Scorecard analýza"
+      },
+      {
+        "id": "b",
+        "text": "ROI analýza (návratnosť investícií)"
+      },
+      {
+        "id": "c",
+        "text": "SWOT analýza"
+      },
+      {
+        "id": "d",
+        "text": "Ani jedna z uvedených možností nie je správna"
+      }
     ],
-    "correctAnswers": ["d"],
+    "correctAnswers": [
+      "d"
+    ],
     "topic": "IT governance"
   },
   {
@@ -113,12 +249,26 @@
     "text": "Pasívny zber a aktívna distribúcia znalostí je charakteristická pre:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "znalostnú špongiu"},
-      {"id": "b", "text": "znalostné podujatie"},
-      {"id": "c", "text": "znalostnú pumpu"},
-      {"id": "d", "text": "znalostné vydavateľstvo"}
+      {
+        "id": "a",
+        "text": "znalostnú špongiu"
+      },
+      {
+        "id": "b",
+        "text": "znalostné podujatie"
+      },
+      {
+        "id": "c",
+        "text": "znalostnú pumpu"
+      },
+      {
+        "id": "d",
+        "text": "znalostné vydavateľstvo"
+      }
     ],
-    "correctAnswers": ["d"],
+    "correctAnswers": [
+      "d"
+    ],
     "topic": "Manažment znalostí"
   },
   {
@@ -126,12 +276,26 @@
     "text": "Aký je hlavný cieľ riadenia projektu?",
     "type": "single",
     "options": [
-      {"id": "a", "text": "Vybrať najlepší nápad z množiny možných riešení."},
-      {"id": "b", "text": "Poskytnúť podklady pre kontrolu počas realizácie projektu."},
-      {"id": "c", "text": "Prijať rozhodnutia dôležité pre prípravu projektu."},
-      {"id": "d", "text": "Zdokumentovať výsledky projektu pre budúce použitie."}
+      {
+        "id": "a",
+        "text": "Vybrať najlepší nápad z množiny možných riešení."
+      },
+      {
+        "id": "b",
+        "text": "Poskytnúť podklady pre kontrolu počas realizácie projektu."
+      },
+      {
+        "id": "c",
+        "text": "Prijať rozhodnutia dôležité pre prípravu projektu."
+      },
+      {
+        "id": "d",
+        "text": "Zdokumentovať výsledky projektu pre budúce použitie."
+      }
     ],
-    "correctAnswers": ["a"],
+    "correctAnswers": [
+      "a"
+    ],
     "topic": "Projektový manažment"
   },
   {
@@ -139,12 +303,26 @@
     "text": "Pre organizácie pôsobiace v prostredí s vysokou mierou neistoty je z hľadiska manažmentu znalostí potrebná najmä:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "identifikácia znalostí"},
-      {"id": "b", "text": "zachytávanie znalostí"},
-      {"id": "c", "text": "získavanie znalostí"},
-      {"id": "d", "text": "zdieľanie znalostí"}
+      {
+        "id": "a",
+        "text": "identifikácia znalostí"
+      },
+      {
+        "id": "b",
+        "text": "zachytávanie znalostí"
+      },
+      {
+        "id": "c",
+        "text": "získavanie znalostí"
+      },
+      {
+        "id": "d",
+        "text": "zdieľanie znalostí"
+      }
     ],
-    "correctAnswers": ["d"],
+    "correctAnswers": [
+      "d"
+    ],
     "topic": "Manažment znalostí"
   },
   {
@@ -152,15 +330,40 @@
     "text": "Medzi podmieňujúce faktory manažmentu znalostí NEPATRIA:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Organizačné charakteristiky (veľkosť organizácie, stratégia riadenia)"},
-      {"id": "b", "text": "Osobnostné charakteristiky manažérov v organizácii"},
-      {"id": "c", "text": "Informačná a komunikačná infraštruktúra organizácie"},
-      {"id": "d", "text": "Charakteristiky prostredia (miera jeho neistoty)"},
-      {"id": "e", "text": "Typ používaného znalostného skladu"},
-      {"id": "f", "text": "Charakteristika (typ) znalostí na riešenie úloh (explicitné/tacitné)"},
-      {"id": "g", "text": "Charakteristika (typ) úloh v danom oddelení (miera neurčitosti a nezávislosti)"}
+      {
+        "id": "a",
+        "text": "Organizačné charakteristiky (veľkosť organizácie, stratégia riadenia)"
+      },
+      {
+        "id": "b",
+        "text": "Osobnostné charakteristiky manažérov v organizácii"
+      },
+      {
+        "id": "c",
+        "text": "Informačná a komunikačná infraštruktúra organizácie"
+      },
+      {
+        "id": "d",
+        "text": "Charakteristiky prostredia (miera jeho neistoty)"
+      },
+      {
+        "id": "e",
+        "text": "Typ používaného znalostného skladu"
+      },
+      {
+        "id": "f",
+        "text": "Charakteristika (typ) znalostí na riešenie úloh (explicitné/tacitné)"
+      },
+      {
+        "id": "g",
+        "text": "Charakteristika (typ) úloh v danom oddelení (miera neurčitosti a nezávislosti)"
+      }
     ],
-    "correctAnswers": ["b", "c", "e"],
+    "correctAnswers": [
+      "b",
+      "c",
+      "e"
+    ],
     "topic": "Manažment znalostí"
   },
   {
@@ -168,15 +371,40 @@
     "text": "Medzi celopodnikové informačné systémy NEPATRIA:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "ERP systémy"},
-      {"id": "b", "text": "KM systémy"},
-      {"id": "c", "text": "CMS systémy"},
-      {"id": "d", "text": "SCM systémy"},
-      {"id": "e", "text": "TPS systémy"},
-      {"id": "f", "text": "CRM systémy"},
-      {"id": "g", "text": "DSS systémy"}
+      {
+        "id": "a",
+        "text": "ERP systémy"
+      },
+      {
+        "id": "b",
+        "text": "KM systémy"
+      },
+      {
+        "id": "c",
+        "text": "CMS systémy"
+      },
+      {
+        "id": "d",
+        "text": "SCM systémy"
+      },
+      {
+        "id": "e",
+        "text": "TPS systémy"
+      },
+      {
+        "id": "f",
+        "text": "CRM systémy"
+      },
+      {
+        "id": "g",
+        "text": "DSS systémy"
+      }
     ],
-    "correctAnswers": ["c", "e", "g"],
+    "correctAnswers": [
+      "c",
+      "e",
+      "g"
+    ],
     "topic": "Podnikové IS"
   },
   {
@@ -184,13 +412,32 @@
     "text": "Systémy ERP II rozširujú ERP systémy najmä o tieto nové funkcionality:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "BI (Business Intelligence) – manažérsky informačný systém"},
-      {"id": "b", "text": "CRM (Customer Relationship Management) – riadenie vzťahov so zákazníkmi"},
-      {"id": "c", "text": "SCM (Supply Chain Management) – riadenie dodávateľského reťazca"},
-      {"id": "d", "text": "CIM (Content Management System) – systém pre správu obsahu"},
-      {"id": "e", "text": "DSS (Decision Support System) – systém na podporu rozhodovania"}
+      {
+        "id": "a",
+        "text": "BI (Business Intelligence) – manažérsky informačný systém"
+      },
+      {
+        "id": "b",
+        "text": "CRM (Customer Relationship Management) – riadenie vzťahov so zákazníkmi"
+      },
+      {
+        "id": "c",
+        "text": "SCM (Supply Chain Management) – riadenie dodávateľského reťazca"
+      },
+      {
+        "id": "d",
+        "text": "CIM (Content Management System) – systém pre správu obsahu"
+      },
+      {
+        "id": "e",
+        "text": "DSS (Decision Support System) – systém na podporu rozhodovania"
+      }
     ],
-    "correctAnswers": ["a", "b", "c"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ],
     "topic": "Podnikové IS"
   },
   {
@@ -198,13 +445,30 @@
     "text": "Pre menšie organizácie je pre aplikáciu znalostí vhodné podporovať najmä nasledovný typ procesov:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "kombinácia"},
-      {"id": "b", "text": "vedenie"},
-      {"id": "c", "text": "rutiny"},
-      {"id": "d", "text": "socializácia"},
-      {"id": "e", "text": "distribúcia"}
+      {
+        "id": "a",
+        "text": "kombinácia"
+      },
+      {
+        "id": "b",
+        "text": "vedenie"
+      },
+      {
+        "id": "c",
+        "text": "rutiny"
+      },
+      {
+        "id": "d",
+        "text": "socializácia"
+      },
+      {
+        "id": "e",
+        "text": "distribúcia"
+      }
     ],
-    "correctAnswers": ["d"],
+    "correctAnswers": [
+      "d"
+    ],
     "topic": "Manažment znalostí"
   },
   {
@@ -212,15 +476,41 @@
     "text": "Medzi základné stratégie na boj s konkurenčnými silami patrí:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "špecializačná stratégia"},
-      {"id": "b", "text": "posilňovanie vzťahov so zákazníkmi a dodávateľmi"},
-      {"id": "c", "text": "stratégia nízkych nákladov"},
-      {"id": "d", "text": "efektívna podpora manažmentu pri rozhodovaní"},
-      {"id": "e", "text": "automatizácia procesov vo firme"},
-      {"id": "f", "text": "diferenciačná stratégia"},
-      {"id": "g", "text": "elektronické obchodovanie"}
+      {
+        "id": "a",
+        "text": "špecializačná stratégia"
+      },
+      {
+        "id": "b",
+        "text": "posilňovanie vzťahov so zákazníkmi a dodávateľmi"
+      },
+      {
+        "id": "c",
+        "text": "stratégia nízkych nákladov"
+      },
+      {
+        "id": "d",
+        "text": "efektívna podpora manažmentu pri rozhodovaní"
+      },
+      {
+        "id": "e",
+        "text": "automatizácia procesov vo firme"
+      },
+      {
+        "id": "f",
+        "text": "diferenciačná stratégia"
+      },
+      {
+        "id": "g",
+        "text": "elektronické obchodovanie"
+      }
     ],
-    "correctAnswers": ["a", "b", "c", "f"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "f"
+    ],
     "topic": "IT stratégia"
   },
   {
@@ -228,14 +518,36 @@
     "text": "Medzi výhody diferenciačnej stratégie boja s konkurenčnými silami patrí:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "možnosť stanoviť nižšiu cenu za produkt ako konkurenti pri zachovaní potrebnej úrovne zisku"},
-      {"id": "b", "text": "zvyšuje bariéry vstupu pre podniky prenikajúce do odvetvia"},
-      {"id": "c", "text": "možnosť diktovať ceny v danom odvetví"},
-      {"id": "d", "text": "ochrana pred konkurenčnou súťažou so spotrebiteľskou dôverou k značke"},
-      {"id": "e", "text": "väčšia tolerancia k nárastu nákladov ako pri nákladovo orientovanej stratégii"},
-      {"id": "f", "text": "schopnosť dodávať žiadaný výrobok ako jediný na trhu, čo vzbudzuje dôveru k značke"}
+      {
+        "id": "a",
+        "text": "možnosť stanoviť nižšiu cenu za produkt ako konkurenti pri zachovaní potrebnej úrovne zisku"
+      },
+      {
+        "id": "b",
+        "text": "zvyšuje bariéry vstupu pre podniky prenikajúce do odvetvia"
+      },
+      {
+        "id": "c",
+        "text": "možnosť diktovať ceny v danom odvetví"
+      },
+      {
+        "id": "d",
+        "text": "ochrana pred konkurenčnou súťažou so spotrebiteľskou dôverou k značke"
+      },
+      {
+        "id": "e",
+        "text": "väčšia tolerancia k nárastu nákladov ako pri nákladovo orientovanej stratégii"
+      },
+      {
+        "id": "f",
+        "text": "schopnosť dodávať žiadaný výrobok ako jediný na trhu, čo vzbudzuje dôveru k značke"
+      }
     ],
-    "correctAnswers": ["b", "e", "f"],
+    "correctAnswers": [
+      "b",
+      "e",
+      "f"
+    ],
     "topic": "IT stratégia"
   },
   {
@@ -243,12 +555,27 @@
     "text": "Pre funkčné riadenie podniku je charakteristické:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Oddelenia sú integrované, činnosti prebiehajú aj medzi oddeleniami"},
-      {"id": "b", "text": "Komunikácia je komplikovaná, prebieha cez nadriadených"},
-      {"id": "c", "text": "Používajú pridanú hodnotu pre zákazníka ako kritérium"},
-      {"id": "d", "text": "Oddelenia vo firme fungujú autonómne"}
+      {
+        "id": "a",
+        "text": "Oddelenia sú integrované, činnosti prebiehajú aj medzi oddeleniami"
+      },
+      {
+        "id": "b",
+        "text": "Komunikácia je komplikovaná, prebieha cez nadriadených"
+      },
+      {
+        "id": "c",
+        "text": "Používajú pridanú hodnotu pre zákazníka ako kritérium"
+      },
+      {
+        "id": "d",
+        "text": "Oddelenia vo firme fungujú autonómne"
+      }
     ],
-    "correctAnswers": ["b", "d"],
+    "correctAnswers": [
+      "b",
+      "d"
+    ],
     "topic": "Riadenie podniku"
   },
   {
@@ -256,14 +583,36 @@
     "text": "Medzi významné obchodné (podnikové) ciele, ktoré vedú firmy k investovaniu do informačných systémov, patria aj:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Zvýšenie prestíže"},
-      {"id": "b", "text": "Užší vzťah so zákazníkmi, dodávateľmi"},
-      {"id": "c", "text": "Operačná excelencia"},
-      {"id": "d", "text": "Zabezpečenie najnovšou výpočtovou technikou"},
-      {"id": "e", "text": "Expanzia na nové trhy"},
-      {"id": "f", "text": "Nové tovary, služby a obchodné modely"}
+      {
+        "id": "a",
+        "text": "Zvýšenie prestíže"
+      },
+      {
+        "id": "b",
+        "text": "Užší vzťah so zákazníkmi, dodávateľmi"
+      },
+      {
+        "id": "c",
+        "text": "Operačná excelencia"
+      },
+      {
+        "id": "d",
+        "text": "Zabezpečenie najnovšou výpočtovou technikou"
+      },
+      {
+        "id": "e",
+        "text": "Expanzia na nové trhy"
+      },
+      {
+        "id": "f",
+        "text": "Nové tovary, služby a obchodné modely"
+      }
     ],
-    "correctAnswers": ["b", "c", "f"],
+    "correctAnswers": [
+      "b",
+      "c",
+      "f"
+    ],
     "topic": "Informačné systémy"
   },
   {
@@ -271,10 +620,18 @@
     "text": "Analógiou metodiky balanced scorecards (bilančné kartičky) pre informačné systémy a služby je metodika IT balanced scorecard.",
     "type": "truefalse",
     "options": [
-      {"id": "true", "text": "Pravda"},
-      {"id": "false", "text": "Nepravda"}
+      {
+        "id": "true",
+        "text": "Pravda"
+      },
+      {
+        "id": "false",
+        "text": "Nepravda"
+      }
     ],
-    "correctAnswers": ["true"],
+    "correctAnswers": [
+      "true"
+    ],
     "topic": "IT governance"
   },
   {
@@ -282,16 +639,45 @@
     "text": "Medzi základné procesy tvorby znalostí podľa Nonaku a Takeuchiho patria:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "externalizácia"},
-      {"id": "b", "text": "aplikácia"},
-      {"id": "c", "text": "socializácia"},
-      {"id": "d", "text": "rutiny"},
-      {"id": "e", "text": "kombinácia"},
-      {"id": "f", "text": "vedenie"},
-      {"id": "g", "text": "distribúcia"},
-      {"id": "h", "text": "internalizácia"}
+      {
+        "id": "a",
+        "text": "externalizácia"
+      },
+      {
+        "id": "b",
+        "text": "aplikácia"
+      },
+      {
+        "id": "c",
+        "text": "socializácia"
+      },
+      {
+        "id": "d",
+        "text": "rutiny"
+      },
+      {
+        "id": "e",
+        "text": "kombinácia"
+      },
+      {
+        "id": "f",
+        "text": "vedenie"
+      },
+      {
+        "id": "g",
+        "text": "distribúcia"
+      },
+      {
+        "id": "h",
+        "text": "internalizácia"
+      }
     ],
-    "correctAnswers": ["a", "c", "e", "h"],
+    "correctAnswers": [
+      "a",
+      "c",
+      "e",
+      "h"
+    ],
     "topic": "Manažment znalostí"
   },
   {
@@ -300,10 +686,21 @@
     "type": "matching",
     "options": [],
     "pairs": [
-      {"id": "p1", "left": "Predikuje kategorické označenia tried (pravdivý/nepravdivý, áno/nie)", "right": "klasifikácia"},
-      {"id": "p2", "left": "Predikuje neznáme alebo chýbajúce číselné hodnoty systému", "right": "predikcia"}
+      {
+        "id": "p1",
+        "left": "Predikuje kategorické označenia tried (pravdivý/nepravdivý, áno/nie)",
+        "right": "klasifikácia"
+      },
+      {
+        "id": "p2",
+        "left": "Predikuje neznáme alebo chýbajúce číselné hodnoty systému",
+        "right": "predikcia"
+      }
     ],
-    "correctAnswers": ["p1:klasifikácia", "p2:predikcia"],
+    "correctAnswers": [
+      "p1:klasifikácia",
+      "p2:predikcia"
+    ],
     "topic": "Dátová analytika"
   },
   {
@@ -311,15 +708,42 @@
     "text": "Medzi dôvody, prečo sú znalosti pre organizácie také dôležité, patria:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "znalosti od expertov musia byť uchované v znalostných systémoch"},
-      {"id": "b", "text": "globalizácia trhu"},
-      {"id": "c", "text": "súčasným trendom vo svete je vedomostná ekonomika"},
-      {"id": "d", "text": "organizácie sa stávajú znalostne intenzívnymi"},
-      {"id": "e", "text": "narastajúca zložitosť riešených úloh"},
-      {"id": "f", "text": "znalosti umožňujú byť na čele zmien"},
-      {"id": "g", "text": "znalosti sú mobilné"}
+      {
+        "id": "a",
+        "text": "znalosti od expertov musia byť uchované v znalostných systémoch"
+      },
+      {
+        "id": "b",
+        "text": "globalizácia trhu"
+      },
+      {
+        "id": "c",
+        "text": "súčasným trendom vo svete je vedomostná ekonomika"
+      },
+      {
+        "id": "d",
+        "text": "organizácie sa stávajú znalostne intenzívnymi"
+      },
+      {
+        "id": "e",
+        "text": "narastajúca zložitosť riešených úloh"
+      },
+      {
+        "id": "f",
+        "text": "znalosti umožňujú byť na čele zmien"
+      },
+      {
+        "id": "g",
+        "text": "znalosti sú mobilné"
+      }
     ],
-    "correctAnswers": ["b", "d", "e", "f", "g"],
+    "correctAnswers": [
+      "b",
+      "d",
+      "e",
+      "f",
+      "g"
+    ],
     "topic": "Manažment znalostí"
   },
   {
@@ -328,12 +752,33 @@
     "type": "matching",
     "options": [],
     "pairs": [
-      {"id": "p1", "left": "Finančná perspektíva", "right": "celopodnikový prínos"},
-      {"id": "p2", "left": "Zákaznícka perspektíva", "right": "orientácia na zákazníka"},
-      {"id": "p3", "left": "Perspektíva interných procesov", "right": "prevádzková dokonalosť"},
-      {"id": "p4", "left": "Perspektíva učenia sa a rastu", "right": "orientácia na budúcnosť"}
+      {
+        "id": "p1",
+        "left": "Finančná perspektíva",
+        "right": "celopodnikový prínos"
+      },
+      {
+        "id": "p2",
+        "left": "Zákaznícka perspektíva",
+        "right": "orientácia na zákazníka"
+      },
+      {
+        "id": "p3",
+        "left": "Perspektíva interných procesov",
+        "right": "prevádzková dokonalosť"
+      },
+      {
+        "id": "p4",
+        "left": "Perspektíva učenia sa a rastu",
+        "right": "orientácia na budúcnosť"
+      }
     ],
-    "correctAnswers": ["p1:celopodnikový prínos", "p2:orientácia na zákazníka", "p3:prevádzková dokonalosť", "p4:orientácia na budúcnosť"],
+    "correctAnswers": [
+      "p1:celopodnikový prínos",
+      "p2:orientácia na zákazníka",
+      "p3:prevádzková dokonalosť",
+      "p4:orientácia na budúcnosť"
+    ],
     "topic": "IT governance"
   },
   {
@@ -341,1047 +786,1739 @@
     "text": "Z organizačného hľadiska členíme informačné systémy na tieto typy:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Finančné a účtovnícke systémy"},
-      {"id": "b", "text": "Transakčné systémy"},
-      {"id": "c", "text": "Systémy na podporu exekutívy"},
-      {"id": "d", "text": "Manažérske informačné systémy"},
-      {"id": "e", "text": "Systémy na podporu rozhodovania"},
-      {"id": "f", "text": "Systémy na podporu predaja a marketingu"},
-      {"id": "g", "text": "Systémy na podporu správy ľudských zdrojov"},
-      {"id": "h", "text": "Výrobné systémy"}
+      {
+        "id": "a",
+        "text": "Finančné a účtovnícke systémy"
+      },
+      {
+        "id": "b",
+        "text": "Transakčné systémy"
+      },
+      {
+        "id": "c",
+        "text": "Systémy na podporu exekutívy"
+      },
+      {
+        "id": "d",
+        "text": "Manažérske informačné systémy"
+      },
+      {
+        "id": "e",
+        "text": "Systémy na podporu rozhodovania"
+      },
+      {
+        "id": "f",
+        "text": "Systémy na podporu predaja a marketingu"
+      },
+      {
+        "id": "g",
+        "text": "Systémy na podporu správy ľudských zdrojov"
+      },
+      {
+        "id": "h",
+        "text": "Výrobné systémy"
+      }
     ],
-    "correctAnswers": ["b", "d", "e"],
+    "correctAnswers": [
+      "b",
+      "d",
+      "e"
+    ],
     "topic": "Informačné systémy"
   },
   {
     "id": 26,
-    "text": "Hospodárska informatika (HI) sa zaoberá:",
+    "text": "Informačný systém (IS) je:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "iba vývojom hardvérových komponentov pre podniky"},
-      {"id": "b", "text": "vývojom a nasadzovaním informačných systémov vo všetkých oblastiach života a ich zmysluplným využitím na riešenie podnikových úloh"},
-      {"id": "c", "text": "výlučne programovaním podnikových aplikácií v jazyku Java"},
-      {"id": "d", "text": "iba teoretickými otázkami umelej inteligencie"}
+      {
+        "id": "a",
+        "text": "hardvér a softvér, ktorý organizácia využíva na dosiahnutie svojich cieľov"
+      },
+      {
+        "id": "b",
+        "text": "množina súvisiacich komponent, ktoré slúžia na správu (zber, spracovanie, ukladanie a distribúciu) informácií pre podporu rozhodovania, koordinácie a riadenia"
+      },
+      {
+        "id": "c",
+        "text": "prúd neštruktúrovaných faktov získaných zo senzorov a databáz"
+      },
+      {
+        "id": "d",
+        "text": "automatizovaný expertný systém, ktorý nahrádza ľudské rozhodovanie"
+      }
     ],
-    "correctAnswers": ["b"],
-    "topic": "Úvod do HI"
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Informačné systémy"
   },
   {
     "id": 27,
-    "text": "Skratka KPI znamená:",
-    "type": "single",
+    "text": "Medzi tri rovnako dôležité zložky (rozmery) informačného systému patria:",
+    "type": "multiple",
     "options": [
-      {"id": "a", "text": "Key Process Indicator"},
-      {"id": "b", "text": "Knowledge Performance Index"},
-      {"id": "c", "text": "Key Performance Indicators"},
-      {"id": "d", "text": "Knowledge Process Information"}
+      {
+        "id": "a",
+        "text": "Organizácia (organizačný rozmer)"
+      },
+      {
+        "id": "b",
+        "text": "Ľudia (manažérsky rozmer)"
+      },
+      {
+        "id": "c",
+        "text": "Technológie (technologický rozmer)"
+      },
+      {
+        "id": "d",
+        "text": "Financie"
+      },
+      {
+        "id": "e",
+        "text": "Marketing"
+      }
     ],
-    "correctAnswers": ["c"],
-    "topic": "Úvod do HI"
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "topic": "Informačné systémy"
   },
   {
     "id": 28,
-    "text": "Tradícia odboru Wirtschaftsinformatik je typická pre:",
-    "type": "single",
+    "text": "Medzi funkcie informačného systému patria:",
+    "type": "multiple",
     "options": [
-      {"id": "a", "text": "anglicky hovoriace krajiny (USA, UK)"},
-      {"id": "b", "text": "nemecky hovoriace krajiny"},
-      {"id": "c", "text": "Áziu (Japonsko, Južná Kórea)"},
-      {"id": "d", "text": "škandinávske krajiny"}
+      {
+        "id": "a",
+        "text": "Vstup – zachytáva surové dáta z organizácie a externého prostredia"
+      },
+      {
+        "id": "b",
+        "text": "Spracovanie – transformuje surové dáta do zmysluplnej podoby"
+      },
+      {
+        "id": "c",
+        "text": "Výstup – prenáša spracované informácie ľuďom alebo aktivitám"
+      },
+      {
+        "id": "d",
+        "text": "Spätná väzba – výstup vracajúci sa späť na vyhodnotenie a prípadné korekcie vstupu"
+      },
+      {
+        "id": "e",
+        "text": "Reklamné kanály"
+      },
+      {
+        "id": "f",
+        "text": "Účtovná uzávierka"
+      }
     ],
-    "correctAnswers": ["b"],
-    "topic": "Úvod do HI"
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "topic": "Informačné systémy"
   },
   {
     "id": 29,
-    "text": "Medzi základné prvky biznis scenára patria:",
+    "text": "Biznis scenár obsahuje tieto štyri zložky:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Identifikovaný problém / hrozba / príležitosť"},
-      {"id": "b", "text": "Vízia riešenia"},
-      {"id": "c", "text": "Zoznam biznis požiadaviek"},
-      {"id": "d", "text": "Pridaná hodnota pre cieľovú skupinu"},
-      {"id": "e", "text": "Marketingová stratégia produktu"},
-      {"id": "f", "text": "Konkrétny návrh hardvérového riešenia"}
+      {
+        "id": "a",
+        "text": "identifikovaný problém, hrozbu alebo príležitosť"
+      },
+      {
+        "id": "b",
+        "text": "víziu riešenia"
+      },
+      {
+        "id": "c",
+        "text": "zoznam biznis požiadaviek"
+      },
+      {
+        "id": "d",
+        "text": "pridanú hodnotu vytvoreného riešenia/produktu pre cieľovú skupinu"
+      },
+      {
+        "id": "e",
+        "text": "kompletný rozpočet projektu"
+      },
+      {
+        "id": "f",
+        "text": "podpísanú zmluvu s dodávateľom IT"
+      }
     ],
-    "correctAnswers": ["a", "b", "c", "d"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
     "topic": "Úvod do HI"
   },
   {
     "id": 30,
-    "text": "Medzi základné funkcie informačného systému patria:",
+    "text": "Medzi zdroje podnikových problémov (výziev) patria tri kategórie:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Vstup (zachytenie surových dát)"},
-      {"id": "b", "text": "Spracovanie (transformácia surových dát na informácie)"},
-      {"id": "c", "text": "Marketing"},
-      {"id": "d", "text": "Výstup (prenos informácií používateľom)"},
-      {"id": "e", "text": "Spätná väzba"},
-      {"id": "f", "text": "Účtovníctvo"}
+      {
+        "id": "a",
+        "text": "Organizačné (zastarané podnikové procesy, nepodporujúca kultúra)"
+      },
+      {
+        "id": "b",
+        "text": "Personálne (nedostatočný tréning, problémy s hodnotením výkonnosti)"
+      },
+      {
+        "id": "c",
+        "text": "Technologické (zastaraný HW/SW, neadekvátna kapacita databázy)"
+      },
+      {
+        "id": "d",
+        "text": "Marketingové (nedostatočná reklama)"
+      },
+      {
+        "id": "e",
+        "text": "Geografické (vzdialenosť pobočiek)"
+      }
     ],
-    "correctAnswers": ["a", "b", "d", "e"],
-    "topic": "Informačné systémy"
-  },
-  {
-    "id": 31,
-    "text": "Medzi tri základné zložky (rozmery) informačného systému patria:",
-    "type": "multiple",
-    "options": [
-      {"id": "a", "text": "Organizácia"},
-      {"id": "b", "text": "Ľudia"},
-      {"id": "c", "text": "Technológie"},
-      {"id": "d", "text": "Financie"},
-      {"id": "e", "text": "Marketing"}
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
     ],
-    "correctAnswers": ["a", "b", "c"],
-    "topic": "Informačné systémy"
-  },
-  {
-    "id": 32,
-    "text": "Medzi zdroje podnikových problémov patria:",
-    "type": "multiple",
-    "options": [
-      {"id": "a", "text": "Organizačné zdroje (zastarané procesy, kultúra, legislatíva)"},
-      {"id": "b", "text": "Personálne zdroje (tréning, hodnotenie výkonnosti, ergonómia)"},
-      {"id": "c", "text": "Technologické zdroje (zastaraný HW/SW, kapacita databázy, nekompatibilita)"},
-      {"id": "d", "text": "Marketingové zdroje (chýbajúca reklama)"},
-      {"id": "e", "text": "Geografické zdroje"}
-    ],
-    "correctAnswers": ["a", "b", "c"],
     "topic": "Riadenie IS"
   },
   {
-    "id": 33,
-    "text": "Hodnotová analýza založená na párovom porovnávaní kritérií a váženom súčte hodnotenia alternatív sa volá:",
+    "id": 31,
+    "text": "ERP systém je:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "SAW (Simple Additive Weighting)"},
-      {"id": "b", "text": "SWOT analýza"},
-      {"id": "c", "text": "PESTEL analýza"},
-      {"id": "d", "text": "ROI analýza"}
+      {
+        "id": "a",
+        "text": "lokálny účtovný program pre malé firmy"
+      },
+      {
+        "id": "b",
+        "text": "celopodnikový modulárny a integrovaný informačný systém, ktorý podporuje a prepája všetky kľúčové procesy podniku"
+      },
+      {
+        "id": "c",
+        "text": "systém na riadenie vzťahov so zákazníkmi"
+      },
+      {
+        "id": "d",
+        "text": "systém na podporu výlučne výrobných procesov"
+      }
     ],
-    "correctAnswers": ["a"],
-    "topic": "Hodnotová analýza"
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Podnikové IS"
+  },
+  {
+    "id": 32,
+    "text": "Medzi charakteristiky ERP systému patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Modulárny – skladá sa z viacerých funkčných modulov, ktoré možno implementovať postupne"
+      },
+      {
+        "id": "b",
+        "text": "Integrovaný – spoločná dátová základňa a automatická výmena údajov medzi procesmi"
+      },
+      {
+        "id": "c",
+        "text": "Pokrýva logistiku (nákup, sklady, výroba, distribúcia, plánovanie zdrojov)"
+      },
+      {
+        "id": "d",
+        "text": "Pokrýva financie (účtovníctvo, controlling, reporting)"
+      },
+      {
+        "id": "e",
+        "text": "Nevyžaduje žiadnu dátovú základňu"
+      },
+      {
+        "id": "f",
+        "text": "Funguje len v jednej oblasti podniku, napr. iba v HR"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "topic": "Podnikové IS"
+  },
+  {
+    "id": 33,
+    "text": "Obvyklá hierarchia manažmentu v podniku obsahuje úrovne:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "Senior manažment – dlhodobé strategické rozhodnutia o výrobkoch a službách"
+      },
+      {
+        "id": "b",
+        "text": "Stredný manažment – uskutočňuje plány senior manažmentu"
+      },
+      {
+        "id": "c",
+        "text": "Operačný manažment – monitorovanie a každodenné aktivity v podniku"
+      },
+      {
+        "id": "d",
+        "text": "Globálny manažment"
+      },
+      {
+        "id": "e",
+        "text": "Regulačný manažment"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "topic": "Riadenie podniku"
   },
   {
     "id": 34,
-    "text": "Postup hodnotovej analýzy metódou SAW zahŕňa:",
+    "text": "Medzi typy zamestnancov v podniku (popri manažmente) patria:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Stanovenie kritérií a ich váh"},
-      {"id": "b", "text": "Stanovenie škály hodnotenia"},
-      {"id": "c", "text": "Stanovenie hodnôt plnenia kritérií u jednotlivých alternatív"},
-      {"id": "d", "text": "Výber alternatívy s najväčšou hodnotou váženého súčtu"},
-      {"id": "e", "text": "Realizácia SWOT analýzy konkurentov"}
+      {
+        "id": "a",
+        "text": "Znalostní pracovníci (inžinieri, vedci, architekti) – navrhujú produkty/služby, vytvárajú nové znalosti"
+      },
+      {
+        "id": "b",
+        "text": "Dátoví pracovníci (sekretárky, úradníci) – administratívna práca"
+      },
+      {
+        "id": "c",
+        "text": "Výrobní alebo servisní pracovníci – vyrábajú produkty alebo dodávajú služby"
+      },
+      {
+        "id": "d",
+        "text": "Politickí pracovníci"
+      },
+      {
+        "id": "e",
+        "text": "Audítorskí pracovníci"
+      }
     ],
-    "correctAnswers": ["a", "b", "c", "d"],
-    "topic": "Hodnotová analýza"
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "topic": "Riadenie podniku"
   },
   {
     "id": 35,
-    "text": "Medzi štyri základné funkcie v podniku patria:",
+    "text": "Medzi 4 základné funkcie v podniku patria:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Výroba/produkcia"},
-      {"id": "b", "text": "Predaj a marketing"},
-      {"id": "c", "text": "Financie a účtovníctvo"},
-      {"id": "d", "text": "Ľudské zdroje"},
-      {"id": "e", "text": "Výskum konkurencie"},
-      {"id": "f", "text": "Politika"}
+      {
+        "id": "a",
+        "text": "Výroba/produkcia"
+      },
+      {
+        "id": "b",
+        "text": "Predaj a marketing"
+      },
+      {
+        "id": "c",
+        "text": "Financie a účtovníctvo"
+      },
+      {
+        "id": "d",
+        "text": "Ľudské zdroje"
+      },
+      {
+        "id": "e",
+        "text": "Konkurenčné spravodajstvo"
+      },
+      {
+        "id": "f",
+        "text": "Špionáž"
+      }
     ],
-    "correctAnswers": ["a", "b", "c", "d"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
     "topic": "Riadenie podniku"
   },
   {
     "id": 36,
-    "text": "Manažérska hierarchia v podniku obsahuje úrovne:",
+    "text": "Hodnotová analýza metódou SAW (Simple Additive Weighting) obsahuje 4 kroky:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Senior manažment (dlhodobé strategické rozhodnutia)"},
-      {"id": "b", "text": "Stredný manažment (realizácia plánov)"},
-      {"id": "c", "text": "Operačný manažment (monitorovanie každodenných aktivít)"},
-      {"id": "d", "text": "Globálny manažment"},
-      {"id": "e", "text": "Regulačný manažment"}
+      {
+        "id": "a",
+        "text": "Stanovenie rozhodovacích kritérií a ich váhy (dôležitosti)"
+      },
+      {
+        "id": "b",
+        "text": "Stanovenie škály pre hodnotenie miery plnenia jednotlivých kritérií u alternatív"
+      },
+      {
+        "id": "c",
+        "text": "Stanovenie hodnôt plnenia kritérií pre jednotlivé alternatívy"
+      },
+      {
+        "id": "d",
+        "text": "Výber alternatívy s najväčšou hodnotou váženého súčtu ohodnotení"
+      },
+      {
+        "id": "e",
+        "text": "Konzultácia výsledkov s externým audítorom"
+      },
+      {
+        "id": "f",
+        "text": "Realizácia SWOT analýzy"
+      }
     ],
-    "correctAnswers": ["a", "b", "c"],
-    "topic": "Riadenie podniku"
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "topic": "Hodnotová analýza"
   },
   {
     "id": 37,
-    "text": "Inžinieri, vedci a architekti, ktorých hlavnou úlohou je tvoriť nové znalosti, sú:",
-    "type": "single",
+    "text": "ERP II rozširuje klasické ERP o vonkajšiu integráciu s okolím podniku prostredníctvom:",
+    "type": "multiple",
     "options": [
-      {"id": "a", "text": "dátoví pracovníci"},
-      {"id": "b", "text": "znalostní pracovníci"},
-      {"id": "c", "text": "výrobní pracovníci"},
-      {"id": "d", "text": "servisní pracovníci"}
+      {
+        "id": "a",
+        "text": "SCM (Supply Chain Management) – riadenie dodávateľského reťazca"
+      },
+      {
+        "id": "b",
+        "text": "CRM (Customer Relationship Management) – riadenie vzťahov so zákazníkmi"
+      },
+      {
+        "id": "c",
+        "text": "BI (Business Intelligence) – dátová nadstavba a reporting"
+      },
+      {
+        "id": "d",
+        "text": "TPS (Transaction Processing System)"
+      },
+      {
+        "id": "e",
+        "text": "OAS (Office Automation System)"
+      }
     ],
-    "correctAnswers": ["b"],
-    "topic": "Riadenie podniku"
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "topic": "Podnikové IS"
   },
   {
     "id": 38,
-    "text": "ERP (Enterprise Resource Planning) je:",
+    "text": "Trojvrstvová architektúra podnikového informačného systému pozostáva z:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "modulárny IS"},
-      {"id": "b", "text": "integrovaný IS so spoločnou dátovou základňou"},
-      {"id": "c", "text": "celopodnikový informačný systém"},
-      {"id": "d", "text": "systém určený výlučne na účtovníctvo"},
-      {"id": "e", "text": "systém určený výlučne pre HR"}
+      {
+        "id": "a",
+        "text": "Prezentačnej vrstvy – používateľské rozhranie (webový alebo mobilný klient)"
+      },
+      {
+        "id": "b",
+        "text": "Aplikačnej vrstvy – biznis logika (aplikačné služby, API)"
+      },
+      {
+        "id": "c",
+        "text": "Dátovej vrstvy – databázy a dátové úložiská"
+      },
+      {
+        "id": "d",
+        "text": "Marketingovej vrstvy"
+      },
+      {
+        "id": "e",
+        "text": "Audítorskej vrstvy"
+      }
     ],
-    "correctAnswers": ["a", "b", "c"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ],
     "topic": "Podnikové IS"
   },
   {
     "id": 39,
-    "text": "Trojvrstvová architektúra podnikového IS pozostáva z:",
-    "type": "multiple",
-    "options": [
-      {"id": "a", "text": "Prezentačnej vrstvy (frontend)"},
-      {"id": "b", "text": "Aplikačnej vrstvy (biznis logika, API)"},
-      {"id": "c", "text": "Dátovej vrstvy (databázy, DWH)"},
-      {"id": "d", "text": "Sieťovej vrstvy"},
-      {"id": "e", "text": "Audítorskej vrstvy"}
-    ],
-    "correctAnswers": ["a", "b", "c"],
-    "topic": "Podnikové IS"
-  },
-  {
-    "id": 40,
-    "text": "Operačné informačné systémy zahŕňajú:",
-    "type": "multiple",
-    "options": [
-      {"id": "a", "text": "TPS (Transaction Processing Systems)"},
-      {"id": "b", "text": "OAS (Office Automation Systems)"},
-      {"id": "c", "text": "DSS (Decision Support Systems)"},
-      {"id": "d", "text": "EIS (Executive Information Systems)"},
-      {"id": "e", "text": "KMS (Knowledge Management Systems)"}
-    ],
-    "correctAnswers": ["a", "b"],
-    "topic": "Informačné systémy"
-  },
-  {
-    "id": 41,
     "text": "Priraďte skratky informačných systémov k ich významu:",
     "type": "matching",
     "options": [],
     "pairs": [
-      {"id": "p1", "left": "TPS", "right": "transakčný systém"},
-      {"id": "p2", "left": "DSS", "right": "systém na podporu rozhodovania"},
-      {"id": "p3", "left": "EIS", "right": "systém na podporu exekutívy"},
-      {"id": "p4", "left": "KMS", "right": "systém manažmentu znalostí"}
+      {
+        "id": "p1",
+        "left": "TPS",
+        "right": "Transaction Processing Systems"
+      },
+      {
+        "id": "p2",
+        "left": "DSS",
+        "right": "Decision Support Systems"
+      },
+      {
+        "id": "p3",
+        "left": "EIS",
+        "right": "Executive Information Systems"
+      },
+      {
+        "id": "p4",
+        "left": "KMS",
+        "right": "Knowledge Management Systems"
+      }
     ],
-    "correctAnswers": ["p1:transakčný systém", "p2:systém na podporu rozhodovania", "p3:systém na podporu exekutívy", "p4:systém manažmentu znalostí"],
+    "correctAnswers": [
+      "p1:Transaction Processing Systems",
+      "p2:Decision Support Systems",
+      "p3:Executive Information Systems",
+      "p4:Knowledge Management Systems"
+    ],
     "topic": "Informačné systémy"
   },
   {
-    "id": 42,
-    "text": "Balanced Scorecards (BSC) reflektujú pohľad:",
+    "id": 40,
+    "text": "Balanced Scorecard pomáha formulovať stratégiu firmy a reflektuje rôzne uhly pohľadu (vlastníci, zákazníci, manažéri, zamestnanci). Medzi jeho 4 perspektívy patria:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "vlastníkov a manažérov"},
-      {"id": "b", "text": "zákazníkov"},
-      {"id": "c", "text": "zamestnancov"},
-      {"id": "d", "text": "konkurentov"},
-      {"id": "e", "text": "regulátorov trhu"}
+      {
+        "id": "a",
+        "text": "finančná perspektíva (celopodnikový prínos)"
+      },
+      {
+        "id": "b",
+        "text": "zákaznícka perspektíva (orientácia na zákazníka)"
+      },
+      {
+        "id": "c",
+        "text": "perspektíva interných procesov (prevádzková dokonalosť)"
+      },
+      {
+        "id": "d",
+        "text": "perspektíva učenia sa a rastu (orientácia na budúcnosť)"
+      },
+      {
+        "id": "e",
+        "text": "konkurenčná perspektíva"
+      },
+      {
+        "id": "f",
+        "text": "perspektíva dodávateľského reťazca"
+      }
     ],
-    "correctAnswers": ["a", "b", "c"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "topic": "IT governance"
+  },
+  {
+    "id": 41,
+    "text": "Medzi perspektívy IT Balanced Scorecard patria:",
+    "type": "multiple",
+    "options": [
+      {
+        "id": "a",
+        "text": "orientácia na biznis"
+      },
+      {
+        "id": "b",
+        "text": "orientácia na používateľov"
+      },
+      {
+        "id": "c",
+        "text": "orientácia na procesy"
+      },
+      {
+        "id": "d",
+        "text": "orientácia na budúcnosť"
+      },
+      {
+        "id": "e",
+        "text": "orientácia na konkurenciu"
+      },
+      {
+        "id": "f",
+        "text": "orientácia na regulátorov"
+      }
+    ],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "topic": "IT governance"
+  },
+  {
+    "id": 42,
+    "text": "Net Promoter Score (NPS) sa vypočíta ako:",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "%Promotéri − %Kritici"
+      },
+      {
+        "id": "b",
+        "text": "%Pasívni − %Promotéri"
+      },
+      {
+        "id": "c",
+        "text": "súčet všetkých hodnotení vydelený počtom respondentov"
+      },
+      {
+        "id": "d",
+        "text": "podiel %Promotérov k %Kritikom"
+      }
+    ],
+    "correctAnswers": [
+      "a"
+    ],
     "topic": "IT governance"
   },
   {
     "id": 43,
-    "text": "Medzi 4 perspektívy IT Balanced Scorecard patria:",
+    "text": "Medzi päť hlavných konkurenčných síl Porterovho modelu patria:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Biznis (príspevok IT pre organizáciu)"},
-      {"id": "b", "text": "Používatelia (užívateľský pohľad)"},
-      {"id": "c", "text": "Procesy (operatívna výkonnosť IT)"},
-      {"id": "d", "text": "Budúcnosť (adaptívnosť IT)"},
-      {"id": "e", "text": "Konkurencia"},
-      {"id": "f", "text": "Marketingová perspektíva"}
+      {
+        "id": "a",
+        "text": "Súperenie medzi (etablovanými) podnikmi"
+      },
+      {
+        "id": "b",
+        "text": "Potenciálni konkurenti"
+      },
+      {
+        "id": "c",
+        "text": "Vyjednávacia sila zákazníkov"
+      },
+      {
+        "id": "d",
+        "text": "Vyjednávacia sila dodávateľov"
+      },
+      {
+        "id": "e",
+        "text": "Substitúty"
+      },
+      {
+        "id": "f",
+        "text": "Vplyv vlády a regulátorov"
+      },
+      {
+        "id": "g",
+        "text": "Sila médií"
+      }
     ],
-    "correctAnswers": ["a", "b", "c", "d"],
-    "topic": "IT governance"
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "topic": "IT stratégia"
   },
   {
     "id": 44,
-    "text": "Net Promoter Score (NPS) sa vypočíta ako:",
-    "type": "single",
+    "text": "Medzi nové faktory konkurencie v digitálnej ekonomike patria:",
+    "type": "multiple",
     "options": [
-      {"id": "a", "text": "podiel promotérov ku kritikom"},
-      {"id": "b", "text": "rozdiel medzi % promotérov a % kritikov"},
-      {"id": "c", "text": "súčet všetkých hodnotení vydelený počtom respondentov"},
-      {"id": "d", "text": "podiel pasívnych respondentov z celkového počtu"}
+      {
+        "id": "a",
+        "text": "Digitálne platformy (Amazon, Uber, Airbnb)"
+      },
+      {
+        "id": "b",
+        "text": "Cloud computing (SaaS, PaaS, IaaS)"
+      },
+      {
+        "id": "c",
+        "text": "Dáta a analytika"
+      },
+      {
+        "id": "d",
+        "text": "Generatívna AI (GenAI)"
+      },
+      {
+        "id": "e",
+        "text": "Klasické tlačené noviny"
+      },
+      {
+        "id": "f",
+        "text": "Káblová televízia"
+      }
     ],
-    "correctAnswers": ["b"],
-    "topic": "IT governance"
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "topic": "IT stratégia"
   },
   {
     "id": 45,
-    "text": "Medzi päť konkurenčných síl Porterovho modelu patria:",
+    "text": "Medzi charakteristiky jazyka JavaScript patria:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Súperenie medzi etablovanými podnikmi"},
-      {"id": "b", "text": "Potenciálni konkurenti (vstupné bariéry)"},
-      {"id": "c", "text": "Vyjednávacia sila zákazníkov"},
-      {"id": "d", "text": "Vyjednávacia sila dodávateľov"},
-      {"id": "e", "text": "Substitúty (náhradné produkty)"},
-      {"id": "f", "text": "Vplyv vlády a legislatívy"},
-      {"id": "g", "text": "Sila médií"}
+      {
+        "id": "a",
+        "text": "Skriptovací jazyk – nie je potrebné preložiť program do spustiteľného kódu"
+      },
+      {
+        "id": "b",
+        "text": "Bez-typový – do jednej premennej je možné priradiť napr. číslo a neskôr reťazec"
+      },
+      {
+        "id": "c",
+        "text": "Funkcionálny – s funkciou možno pracovať ako s ľubovoľnou hodnotou"
+      },
+      {
+        "id": "d",
+        "text": "Prototypový – môžete definovať objekty s dátovými vlastnosťami a metódami"
+      },
+      {
+        "id": "e",
+        "text": "Striktne typový – kompilátor kontroluje typy premenných"
+      },
+      {
+        "id": "f",
+        "text": "Procedurálny jazyk bez podpory objektov"
+      }
     ],
-    "correctAnswers": ["a", "b", "c", "d", "e"],
-    "topic": "IT stratégia"
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "topic": "Webové technológie"
   },
   {
     "id": 46,
-    "text": "Modely poskytovania cloud computingu zahŕňajú:",
+    "text": "Medzi HTTP metódy patria:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "SaaS (Software as a Service)"},
-      {"id": "b", "text": "PaaS (Platform as a Service)"},
-      {"id": "c", "text": "IaaS (Infrastructure as a Service)"},
-      {"id": "d", "text": "DaaS (Data as a Service)"},
-      {"id": "e", "text": "RaaS (Recovery as a Service)"}
+      {
+        "id": "a",
+        "text": "GET – dáta sa prenesú na klienta"
+      },
+      {
+        "id": "b",
+        "text": "PUT – dáta sa prenesú na server (vytvorenie nového zdroja)"
+      },
+      {
+        "id": "c",
+        "text": "POST – dáta sa prenesú na server (aktualizovanie zdroja)"
+      },
+      {
+        "id": "d",
+        "text": "DELETE – zmazanie dát zo servera"
+      },
+      {
+        "id": "e",
+        "text": "SAVE – uloženie dát na klienta"
+      },
+      {
+        "id": "f",
+        "text": "OPEN – otvorenie spojenia"
+      }
     ],
-    "correctAnswers": ["a", "b", "c"],
-    "topic": "IT stratégia"
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "topic": "Webové technológie"
   },
   {
     "id": 47,
-    "text": "Digitálne platformy (Amazon, Uber, Airbnb) charakterizuje:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "lineárny rast používateľov"},
-      {"id": "b", "text": "sieťový efekt s princípom „winner takes most\""},
-      {"id": "c", "text": "lokálne pôsobenie obmedzené na jednu krajinu"},
-      {"id": "d", "text": "tradičný lineárny hodnotový reťazec"}
+    "text": "Priraďte základné HTML atribúty k ich významu:",
+    "type": "matching",
+    "options": [],
+    "pairs": [
+      {
+        "id": "p1",
+        "left": "id",
+        "right": "priraďuje elementu jednoznačný identifikátor"
+      },
+      {
+        "id": "p2",
+        "left": "style",
+        "right": "priraďuje elementu formátovacie nastavenia CSS"
+      },
+      {
+        "id": "p3",
+        "left": "class",
+        "right": "zoskupuje elementy do skupín"
+      }
     ],
-    "correctAnswers": ["b"],
-    "topic": "IT stratégia"
+    "correctAnswers": [
+      "p1:priraďuje elementu jednoznačný identifikátor",
+      "p2:priraďuje elementu formátovacie nastavenia CSS",
+      "p3:zoskupuje elementy do skupín"
+    ],
+    "topic": "Webové technológie"
   },
   {
     "id": 48,
-    "text": "Každý počítač v sieti TCP/IP má pridelenú:",
-    "type": "single",
+    "text": "Medzi CSS selektory patria:",
+    "type": "multiple",
     "options": [
-      {"id": "a", "text": "MAC tabuľku"},
-      {"id": "b", "text": "jedinečnú IP adresu"},
-      {"id": "c", "text": "Port 80"},
-      {"id": "d", "text": "DNS doménu"}
+      {
+        "id": "a",
+        "text": "* – všetky elementy na stránke"
+      },
+      {
+        "id": "b",
+        "text": "p – iba pre elementy typu (odstavec)"
+      },
+      {
+        "id": "c",
+        "text": "#id – iba pre element s daným id"
+      },
+      {
+        "id": "d",
+        "text": ".trieda – iba elementy ktoré sú priradené do triedy s názvom „trieda\""
+      },
+      {
+        "id": "e",
+        "text": "&element – elementy v rámci formulára"
+      },
+      {
+        "id": "f",
+        "text": "@meno – elementy podľa atribútu name"
+      }
     ],
-    "correctAnswers": ["b"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
     "topic": "Webové technológie"
   },
   {
     "id": 49,
-    "text": "Medzi základné HTTP metódy patria:",
+    "text": "DOM (Document Object Model) poskytuje metódy a vlastnosti, ktoré umožňujú:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "GET"},
-      {"id": "b", "text": "PUT"},
-      {"id": "c", "text": "POST"},
-      {"id": "d", "text": "DELETE"},
-      {"id": "e", "text": "SAVE"},
-      {"id": "f", "text": "RESET"}
+      {
+        "id": "a",
+        "text": "Prechádzať k predkom, potomkom a súrodencom elementu"
+      },
+      {
+        "id": "b",
+        "text": "Pridávať a odoberať potomkov"
+      },
+      {
+        "id": "c",
+        "text": "Meniť text a vnorený HTML obsah"
+      },
+      {
+        "id": "d",
+        "text": "Meniť atribúty a nastavovať formátovacie štýly"
+      },
+      {
+        "id": "e",
+        "text": "Vykonávať priame SQL dopyty nad databázou"
+      },
+      {
+        "id": "f",
+        "text": "Konfigurovať operačný systém klienta"
+      }
     ],
-    "correctAnswers": ["a", "b", "c", "d"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
     "topic": "Webové technológie"
   },
   {
     "id": 50,
-    "text": "Priraďte HTTP metódu k jej účelu:",
-    "type": "matching",
-    "options": [],
-    "pairs": [
-      {"id": "p1", "left": "GET", "right": "získanie dát zo servera"},
-      {"id": "p2", "left": "PUT", "right": "vytvorenie nového zdroja"},
-      {"id": "p3", "left": "POST", "right": "aktualizovanie zdroja"},
-      {"id": "p4", "left": "DELETE", "right": "zmazanie zdroja"}
+    "text": "Najčastejším formátom pre prenos dynamického obsahu vo webových službách je:",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "JSON (JavaScript Object Notation)"
+      },
+      {
+        "id": "b",
+        "text": "XML"
+      },
+      {
+        "id": "c",
+        "text": "CSV"
+      },
+      {
+        "id": "d",
+        "text": "PDF"
+      }
     ],
-    "correctAnswers": ["p1:získanie dát zo servera", "p2:vytvorenie nového zdroja", "p3:aktualizovanie zdroja", "p4:zmazanie zdroja"],
+    "correctAnswers": [
+      "a"
+    ],
     "topic": "Webové technológie"
   },
   {
     "id": 51,
-    "text": "Ktorý protokol prenáša webové stránky medzi klientom a serverom?",
+    "text": "Autormi biznis modelu Canvas (Business Model Generation) sú:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "FTP"},
-      {"id": "b", "text": "SMTP"},
-      {"id": "c", "text": "HTTP"},
-      {"id": "d", "text": "SSH"}
+      {
+        "id": "a",
+        "text": "Kaplan a Norton"
+      },
+      {
+        "id": "b",
+        "text": "Nonaka a Takeuchi"
+      },
+      {
+        "id": "c",
+        "text": "A. Osterwalder a Y. Pigneur"
+      },
+      {
+        "id": "d",
+        "text": "Porter a Drucker"
+      }
     ],
-    "correctAnswers": ["c"],
-    "topic": "Webové technológie"
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Biznis model Canvas"
   },
   {
     "id": 52,
-    "text": "Ktoré HTML značky slúžia na vytvorenie zoznamov?",
-    "type": "multiple",
+    "text": "Biznis model Canvas obsahuje stĺpcov:",
+    "type": "single",
     "options": [
-      {"id": "a", "text": "<ul> – nečíslovaný zoznam"},
-      {"id": "b", "text": "<ol> – číslovaný zoznam"},
-      {"id": "c", "text": "<li> – položka zoznamu"},
-      {"id": "d", "text": "<tr> – riadok zoznamu"},
-      {"id": "e", "text": "<dl> – tabuľkový zoznam"}
+      {
+        "id": "a",
+        "text": "5"
+      },
+      {
+        "id": "b",
+        "text": "7"
+      },
+      {
+        "id": "c",
+        "text": "9"
+      },
+      {
+        "id": "d",
+        "text": "12"
+      }
     ],
-    "correctAnswers": ["a", "b", "c"],
-    "topic": "Webové technológie"
+    "correctAnswers": [
+      "c"
+    ],
+    "topic": "Biznis model Canvas"
   },
   {
     "id": 53,
-    "text": "HTML atribút „id\" slúži na:",
-    "type": "single",
+    "text": "Medzi tri kľúčové otázky, na ktoré odpovedá biznis model Canvas, patria:",
+    "type": "multiple",
     "options": [
-      {"id": "a", "text": "definovanie jedinečného identifikátora elementu"},
-      {"id": "b", "text": "zaradenie elementu do skupiny (triedy)"},
-      {"id": "c", "text": "definovanie CSS štýlu priamo v elemente"},
-      {"id": "d", "text": "vloženie odkazu na inú stránku"}
+      {
+        "id": "a",
+        "text": "Komu to predávam?"
+      },
+      {
+        "id": "b",
+        "text": "Akú hodnotu dávam?"
+      },
+      {
+        "id": "c",
+        "text": "Ako na tom zarobím?"
+      },
+      {
+        "id": "d",
+        "text": "Kto je môj najväčší konkurent?"
+      },
+      {
+        "id": "e",
+        "text": "Koľko zamestnancov mám prijať?"
+      }
     ],
-    "correctAnswers": ["a"],
-    "topic": "Webové technológie"
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "topic": "Biznis model Canvas"
   },
   {
     "id": 54,
-    "text": "Ktoré HTML značky sa používajú na tvorbu tabuliek?",
-    "type": "multiple",
-    "options": [
-      {"id": "a", "text": "<table>"},
-      {"id": "b", "text": "<tr>"},
-      {"id": "c", "text": "<td>"},
-      {"id": "d", "text": "<th>"},
-      {"id": "e", "text": "<li>"},
-      {"id": "f", "text": "<div>"}
-    ],
-    "correctAnswers": ["a", "b", "c", "d"],
-    "topic": "Webové technológie"
-  },
-  {
-    "id": 55,
-    "text": "Štruktúra CSS pravidla má tvar:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "selektor { vlastnosť: hodnota; }"},
-      {"id": "b", "text": "{ selektor: vlastnosť = hodnota; }"},
-      {"id": "c", "text": "<selektor=\"vlastnosť:hodnota\">"},
-      {"id": "d", "text": "vlastnosť(selektor) = hodnota;"}
-    ],
-    "correctAnswers": ["a"],
-    "topic": "Webové technológie"
-  },
-  {
-    "id": 56,
-    "text": "Medzi charakteristiky jazyka JavaScript patria:",
-    "type": "multiple",
-    "options": [
-      {"id": "a", "text": "je skriptovací jazyk, nepotrebuje preklad"},
-      {"id": "b", "text": "je bez-typový – do premennej možno priradiť rôzne typy"},
-      {"id": "c", "text": "funkcie sú hodnoty (funkcionálny prístup)"},
-      {"id": "d", "text": "je prototypový – objekty s vlastnosťami a metódami"},
-      {"id": "e", "text": "je výlučne kompilovaný jazyk ako C++"},
-      {"id": "f", "text": "vyžaduje statické typovanie premenných"}
-    ],
-    "correctAnswers": ["a", "b", "c", "d"],
-    "topic": "Webové technológie"
-  },
-  {
-    "id": 57,
-    "text": "DOM (Document Object Model) je:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "databázový model na ukladanie HTML stránok"},
-      {"id": "b", "text": "programátorské rozhranie na zmenu obsahu HTML stránok (hierarchická štruktúra objektov)"},
-      {"id": "c", "text": "protokol na prenos dát"},
-      {"id": "d", "text": "spôsob šifrovania webových služieb"}
-    ],
-    "correctAnswers": ["b"],
-    "topic": "Webové technológie"
-  },
-  {
-    "id": 58,
-    "text": "Najpoužívanejší formát pre prenos dynamického obsahu medzi klientom a webovou službou je:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "XML"},
-      {"id": "b", "text": "CSV"},
-      {"id": "c", "text": "JSON (JavaScript Object Notation)"},
-      {"id": "d", "text": "YAML"}
-    ],
-    "correctAnswers": ["c"],
-    "topic": "Webové technológie"
-  },
-  {
-    "id": 59,
-    "text": "Autormi biznis modelu Canvas sú:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "Kaplan a Norton"},
-      {"id": "b", "text": "Osterwalder a Pigneur"},
-      {"id": "c", "text": "Nonaka a Takeuchi"},
-      {"id": "d", "text": "Porter a Drucker"}
-    ],
-    "correctAnswers": ["b"],
-    "topic": "Biznis model Canvas"
-  },
-  {
-    "id": 60,
-    "text": "Biznis model Canvas pozostáva z koľkých segmentov?",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "5"},
-      {"id": "b", "text": "7"},
-      {"id": "c", "text": "9"},
-      {"id": "d", "text": "12"}
-    ],
-    "correctAnswers": ["c"],
-    "topic": "Biznis model Canvas"
-  },
-  {
-    "id": 61,
     "text": "Medzi segmenty biznis modelu Canvas patria:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Zákaznícke segmenty"},
-      {"id": "b", "text": "Pridaná hodnota"},
-      {"id": "c", "text": "Kanály"},
-      {"id": "d", "text": "Vzťahy so zákazníkmi"},
-      {"id": "e", "text": "Kľúčové zdroje"},
-      {"id": "f", "text": "Príjmy"},
-      {"id": "g", "text": "Náklady"},
-      {"id": "h", "text": "Konkurenčná analýza"}
+      {
+        "id": "a",
+        "text": "Zákaznícke segmenty"
+      },
+      {
+        "id": "b",
+        "text": "Pridaná hodnota"
+      },
+      {
+        "id": "c",
+        "text": "Kanály"
+      },
+      {
+        "id": "d",
+        "text": "Vzťahy so zákazníkmi"
+      },
+      {
+        "id": "e",
+        "text": "Kľúčové zdroje"
+      },
+      {
+        "id": "f",
+        "text": "Kľúčové aktivity"
+      },
+      {
+        "id": "g",
+        "text": "Kľúčoví partneri"
+      },
+      {
+        "id": "h",
+        "text": "Príjmy a Náklady"
+      }
     ],
-    "correctAnswers": ["a", "b", "c", "d", "e", "f", "g"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
     "topic": "Biznis model Canvas"
   },
   {
-    "id": 62,
-    "text": "Tri kľúčové otázky, ktoré rieši biznis model Canvas, sú:",
-    "type": "multiple",
-    "options": [
-      {"id": "a", "text": "Komu predávam?"},
-      {"id": "b", "text": "Akú hodnotu dávam?"},
-      {"id": "c", "text": "Ako zarobím?"},
-      {"id": "d", "text": "Kto je môj najväčší konkurent?"},
-      {"id": "e", "text": "Aký je trhový podiel mojej firmy?"}
-    ],
-    "correctAnswers": ["a", "b", "c"],
-    "topic": "Biznis model Canvas"
-  },
-  {
-    "id": 63,
-    "text": "Príkladom modelu Freemium je:",
-    "type": "multiple",
-    "options": [
-      {"id": "a", "text": "Spotify"},
-      {"id": "b", "text": "Duolingo"},
-      {"id": "c", "text": "Canva"},
-      {"id": "d", "text": "Zoom"},
-      {"id": "e", "text": "Airbnb"},
-      {"id": "f", "text": "Uber"}
-    ],
-    "correctAnswers": ["a", "b", "c", "d"],
-    "topic": "Biznis model Canvas"
-  },
-  {
-    "id": 64,
-    "text": "Príkladom subscription modelu (predplatné) je:",
-    "type": "multiple",
-    "options": [
-      {"id": "a", "text": "Netflix"},
-      {"id": "b", "text": "HBO Max"},
-      {"id": "c", "text": "Spotify Premium"},
-      {"id": "d", "text": "Vinted (provízia)"},
-      {"id": "e", "text": "Booking.com (provízia)"}
-    ],
-    "correctAnswers": ["a", "b", "c"],
-    "topic": "Biznis model Canvas"
-  },
-  {
-    "id": 65,
-    "text": "Model „pay-as-you-go\" (platba za skutočné využitie) reprezentujú:",
-    "type": "multiple",
-    "options": [
-      {"id": "a", "text": "AWS"},
-      {"id": "b", "text": "Microsoft Azure"},
-      {"id": "c", "text": "Uber / Bolt"},
-      {"id": "d", "text": "Netflix (predplatné)"},
-      {"id": "e", "text": "Spotify (predplatné)"}
-    ],
-    "correctAnswers": ["a", "b", "c"],
-    "topic": "Biznis model Canvas"
-  },
-  {
-    "id": 66,
-    "text": "Reklamný model (napr. Google, YouTube, Facebook) je charakterizovaný tým, že:",
+    "id": 55,
+    "text": "„Pitch\" znamená:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "produkt platí používateľ vždy"},
-      {"id": "b", "text": "ak za produkt neplatíš, produkt si ty"},
-      {"id": "c", "text": "platí ho štát"},
-      {"id": "d", "text": "platí ho výrobca hardvéru"}
+      {
+        "id": "a",
+        "text": "tabuľka cien produktov"
+      },
+      {
+        "id": "b",
+        "text": "krátke predstavenie nápadu alebo biznisu s cieľom presvedčiť druhú stranu"
+      },
+      {
+        "id": "c",
+        "text": "marketingový rozpočet startupu"
+      },
+      {
+        "id": "d",
+        "text": "podrobný technický návrh systému"
+      }
     ],
-    "correctAnswers": ["b"],
+    "correctAnswers": [
+      "b"
+    ],
     "topic": "Biznis model Canvas"
   },
   {
-    "id": 67,
-    "text": "„Pitch\" v kontexte startupu znamená:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "tabuľka cien produktov"},
-      {"id": "b", "text": "podrobný technický návrh systému"},
-      {"id": "c", "text": "krátke predstavenie nápadu s cieľom presvedčiť druhú stranu (napr. investora)"},
-      {"id": "d", "text": "marketingový rozpočet startupu"}
-    ],
-    "correctAnswers": ["c"],
-    "topic": "Biznis model Canvas"
-  },
-  {
-    "id": 68,
+    "id": 56,
     "text": "Objavovanie znalostí (OZ) je:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "plne automatický proces extrakcie znalostí bez účasti človeka"},
-      {"id": "b", "text": "proces semi-automatickej extrakcie znalostí z dát, ktorý je iteratívny a interaktívny"},
-      {"id": "c", "text": "synonymum pre zber dát"},
-      {"id": "d", "text": "manuálna analýza tabuliek v Exceli"}
+      {
+        "id": "a",
+        "text": "plne automatický proces extrakcie znalostí bez asistencie človeka"
+      },
+      {
+        "id": "b",
+        "text": "proces semi-automatickej extrakcie znalostí z dát"
+      },
+      {
+        "id": "c",
+        "text": "manuálne analytické cvičenie v tabuľkovom procesore"
+      },
+      {
+        "id": "d",
+        "text": "synonymum pre zber dát zo senzorov"
+      }
     ],
-    "correctAnswers": ["b"],
+    "correctAnswers": [
+      "b"
+    ],
     "topic": "Dátová analytika"
   },
   {
-    "id": 69,
-    "text": "Získané znalosti v procese objavovania znalostí musia byť:",
+    "id": 57,
+    "text": "Znalosti získané procesom OZ musia byť:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "platné (štatisticky podložené)"},
-      {"id": "b", "text": "neznáme (predtým neobjavené)"},
-      {"id": "c", "text": "užitočné (s reálnym biznis prínosom)"},
-      {"id": "d", "text": "zložité (obtiažne pochopiteľné)"},
-      {"id": "e", "text": "anonymné"}
+      {
+        "id": "a",
+        "text": "platné (v štatistickom zmysle)"
+      },
+      {
+        "id": "b",
+        "text": "doposiaľ neznáme"
+      },
+      {
+        "id": "c",
+        "text": "potenciálne užitočné (pre danú aplikáciu)"
+      },
+      {
+        "id": "d",
+        "text": "zložité a obtiažne pochopiteľné"
+      },
+      {
+        "id": "e",
+        "text": "anonymné"
+      }
     ],
-    "correctAnswers": ["a", "b", "c"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ],
     "topic": "Dátová analytika"
   },
   {
-    "id": 70,
-    "text": "Metodika CRISP-DM pozostáva zo šiestich fáz, ktoré sú:",
+    "id": 58,
+    "text": "Metodika CRISP-DM pozostáva z týchto šiestich fáz:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Pochopenie problému"},
-      {"id": "b", "text": "Pochopenie dát"},
-      {"id": "c", "text": "Príprava dát"},
-      {"id": "d", "text": "Modelovanie"},
-      {"id": "e", "text": "Vyhodnotenie"},
-      {"id": "f", "text": "Nasadenie"},
-      {"id": "g", "text": "Marketingová podpora"},
-      {"id": "h", "text": "Audit kódu"}
+      {
+        "id": "a",
+        "text": "Pochopenie problému"
+      },
+      {
+        "id": "b",
+        "text": "Pochopenie dát"
+      },
+      {
+        "id": "c",
+        "text": "Príprava dát"
+      },
+      {
+        "id": "d",
+        "text": "Modelovanie"
+      },
+      {
+        "id": "e",
+        "text": "Vyhodnotenie"
+      },
+      {
+        "id": "f",
+        "text": "Nasadenie"
+      },
+      {
+        "id": "g",
+        "text": "Marketingová kampaň"
+      },
+      {
+        "id": "h",
+        "text": "Audit kódu"
+      }
     ],
-    "correctAnswers": ["a", "b", "c", "d", "e", "f"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
     "topic": "Dátová analytika"
   },
   {
-    "id": 71,
-    "text": "Zhlukovanie (clustering) je príkladom:",
+    "id": 59,
+    "text": "Zhlukovanie je typ dolovania v dátach, pri ktorom:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "kontrolovaného učenia (supervised learning)"},
-      {"id": "b", "text": "nekontrolovaného učenia (unsupervised learning)"},
-      {"id": "c", "text": "posilňovaného učenia (reinforcement learning)"},
-      {"id": "d", "text": "transferového učenia"}
+      {
+        "id": "a",
+        "text": "k učeniu nie je potrebné označenie trénovacích príkladov – ide o nekontrolované učenie (unsupervised learning)"
+      },
+      {
+        "id": "b",
+        "text": "ide o kontrolované učenie (supervised learning) s označeným cieľovým atribútom"
+      },
+      {
+        "id": "c",
+        "text": "model sa konštruuje na základe trénovacej množiny s ručne označenými výsledkami"
+      },
+      {
+        "id": "d",
+        "text": "vyžaduje predikovaný číselný atribút"
+      }
     ],
-    "correctAnswers": ["b"],
+    "correctAnswers": [
+      "a"
+    ],
     "topic": "Dátová analytika"
   },
   {
-    "id": 72,
-    "text": "Klasifikácia a predikcia patria medzi metódy:",
-    "type": "single",
+    "id": 60,
+    "text": "Klasifikácia a predikcia (prediktívne dolovanie v dátach):",
+    "type": "multiple",
     "options": [
-      {"id": "a", "text": "popisného dolovania"},
-      {"id": "b", "text": "prediktívneho dolovania (kontrolované učenie)"},
-      {"id": "c", "text": "vizualizácie údajov"},
-      {"id": "d", "text": "OLAP analýzy"}
+      {
+        "id": "a",
+        "text": "Klasifikácia predpovedá hodnotu kategorického atribútu"
+      },
+      {
+        "id": "b",
+        "text": "Predikcia predpovedá hodnotu číselného atribútu"
+      },
+      {
+        "id": "c",
+        "text": "Ide o kontrolované učenie (supervised learning)"
+      },
+      {
+        "id": "d",
+        "text": "Model sa konštruuje na základe trénovacej množiny"
+      },
+      {
+        "id": "e",
+        "text": "Ide o nekontrolované učenie bez cieľového atribútu"
+      }
     ],
-    "correctAnswers": ["b"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
     "topic": "Dátová analytika"
   },
   {
-    "id": 73,
+    "id": 61,
     "text": "V asociačnom pravidle „X → Y [s, c]\" platí:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "s (podpora) = pravdepodobnosť, že transakcia obsahuje X aj Y"},
-      {"id": "b", "text": "c (spoľahlivosť) = podmienená pravdepodobnosť, že transakcia obsahujúca X obsahuje aj Y"},
-      {"id": "c", "text": "s vyjadruje cenu produktu Y"},
-      {"id": "d", "text": "c je kapacita úložiska"}
+      {
+        "id": "a",
+        "text": "s (podpora) je pravdepodobnosť, že transakcia obsahuje X aj Y"
+      },
+      {
+        "id": "b",
+        "text": "c (spoľahlivosť) je podmienená pravdepodobnosť, že transakcia obsahujúca X obsahuje aj Y"
+      },
+      {
+        "id": "c",
+        "text": "X a Y sú konjunkcie podmienok"
+      },
+      {
+        "id": "d",
+        "text": "s vyjadruje cenu produktu Y"
+      },
+      {
+        "id": "e",
+        "text": "c je počet všetkých transakcií"
+      }
     ],
-    "correctAnswers": ["a", "b"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ],
     "topic": "Dátová analytika"
   },
   {
-    "id": 74,
-    "text": "Priraďte typ marketingovej úlohy k jeho významu:",
+    "id": 62,
+    "text": "Priraďte cielené marketingové úlohy k ich významu:",
     "type": "matching",
     "options": [],
     "pairs": [
-      {"id": "p1", "left": "Up-sell", "right": "komu ešte predáme nový produkt"},
-      {"id": "p2", "left": "Cross-sell", "right": "čo mu ešte predáme (doplnkové produkty)"},
-      {"id": "p3", "left": "Segmentácia", "right": "rozdelenie zákazníkov do skupín"},
-      {"id": "p4", "left": "Churn", "right": "odchod zákazníkov ku konkurencii"}
+      {
+        "id": "p1",
+        "left": "Up sell",
+        "right": "komu ešte predáme?"
+      },
+      {
+        "id": "p2",
+        "left": "Cross sell",
+        "right": "čo mu ešte predáme?"
+      },
+      {
+        "id": "p3",
+        "left": "Voluntary churn",
+        "right": "prejde ku konkurencii?"
+      },
+      {
+        "id": "p4",
+        "left": "Involuntary churn (fraud)",
+        "right": "zneužije naše služby?"
+      }
     ],
-    "correctAnswers": ["p1:komu ešte predáme nový produkt", "p2:čo mu ešte predáme (doplnkové produkty)", "p3:rozdelenie zákazníkov do skupín", "p4:odchod zákazníkov ku konkurencii"],
+    "correctAnswers": [
+      "p1:komu ešte predáme?",
+      "p2:čo mu ešte predáme?",
+      "p3:prejde ku konkurencii?",
+      "p4:zneužije naše služby?"
+    ],
     "topic": "Dátová analytika"
   },
   {
-    "id": 75,
-    "text": "Voluntary churn je situácia, keď:",
+    "id": 63,
+    "text": "Manažment znalostí podľa Petrash (1996) je o:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "zákazník dobrovoľne prejde ku konkurencii"},
-      {"id": "b", "text": "zákazník zneužije naše služby (fraud)"},
-      {"id": "c", "text": "zákazník neplatí faktúry"},
-      {"id": "d", "text": "zákazník sa stane VIP klientom"}
+      {
+        "id": "a",
+        "text": "automatizácii rozhodovacích procesov v podniku"
+      },
+      {
+        "id": "b",
+        "text": "prísune správnych znalostí správnym ľuďom v správnom čase tak, aby sa mohli čo najlepšie rozhodovať"
+      },
+      {
+        "id": "c",
+        "text": "vývoji expertných systémov"
+      },
+      {
+        "id": "d",
+        "text": "implementácii podnikového intranetu"
+      }
     ],
-    "correctAnswers": ["a"],
-    "topic": "Dátová analytika"
-  },
-  {
-    "id": 76,
-    "text": "Algoritmus C4.5 v rámci KDD package na KKUI sa používa na konštrukciu:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "neurónových sietí"},
-      {"id": "b", "text": "rozhodovacích stromov pre klasifikáciu"},
-      {"id": "c", "text": "lineárnej regresie"},
-      {"id": "d", "text": "hierarchického zhlukovania"}
+    "correctAnswers": [
+      "b"
     ],
-    "correctAnswers": ["b"],
-    "topic": "Dátová analytika"
-  },
-  {
-    "id": 77,
-    "text": "Cross-sell úlohu typu „čo si zákazník kúpi spolu s produktom A\" najlepšie rieši metóda:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "lineárna regresia"},
-      {"id": "b", "text": "asociačné pravidlá"},
-      {"id": "c", "text": "rozhodovací strom"},
-      {"id": "d", "text": "k-means zhlukovanie"}
-    ],
-    "correctAnswers": ["b"],
-    "topic": "Dátová analytika"
-  },
-  {
-    "id": 78,
-    "text": "Hierarchia DIKW obsahuje úrovne v poradí (zdola nahor):",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "Dáta → Informácie → Znalosti → Múdrosť"},
-      {"id": "b", "text": "Informácie → Dáta → Znalosti → Múdrosť"},
-      {"id": "c", "text": "Znalosti → Dáta → Informácie → Múdrosť"},
-      {"id": "d", "text": "Múdrosť → Znalosti → Informácie → Dáta"}
-    ],
-    "correctAnswers": ["a"],
     "topic": "Manažment znalostí"
   },
   {
-    "id": 79,
-    "text": "Podľa Petrasha (1996) manažment znalostí je o:",
+    "id": 64,
+    "text": "Manažment znalostí podľa Hempel (2001) je:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "vývoji expertných systémov"},
-      {"id": "b", "text": "prísune správnych znalostí správnym ľuďom v správnom čase"},
-      {"id": "c", "text": "automatizácii rozhodovacích procesov"},
-      {"id": "d", "text": "implementácii intranetu"}
+      {
+        "id": "a",
+        "text": "získavanie, koordinácia, rozširovanie, tvorba a využívanie znalostí za účelom zlepšenia základných firemných procesov"
+      },
+      {
+        "id": "b",
+        "text": "vývoj automatických systémov nahrádzajúcich expertov"
+      },
+      {
+        "id": "c",
+        "text": "zber surových dát zo senzorov"
+      },
+      {
+        "id": "d",
+        "text": "jednorazové zavedenie nástroja typu SharePoint"
+      }
     ],
-    "correctAnswers": ["b"],
+    "correctAnswers": [
+      "a"
+    ],
     "topic": "Manažment znalostí"
   },
   {
-    "id": 80,
-    "text": "Disciplína, ktorej cieľom je vložiť znalosti do automatického alebo expertného systému (NIE je súčasťou MZ), sa volá:",
-    "type": "single",
+    "id": 65,
+    "text": "Manažment znalostí (MZ) NIE JE:",
+    "type": "multiple",
     "options": [
-      {"id": "a", "text": "znalostné inžinierstvo"},
-      {"id": "b", "text": "manažment znalostí"},
-      {"id": "c", "text": "data mining"},
-      {"id": "d", "text": "objavovanie znalostí"}
+      {
+        "id": "a",
+        "text": "Znalostné inžinierstvo (cieľom je vložiť znalosti do automatického/expertného systému)"
+      },
+      {
+        "id": "b",
+        "text": "Technické riešenie samé o sebe (Intranet, softvér)"
+      },
+      {
+        "id": "c",
+        "text": "Jednorazová záležitosť „kúpim a používam\" (napr. SharePoint)"
+      },
+      {
+        "id": "d",
+        "text": "Dlhodobý proces v organizácii"
+      },
+      {
+        "id": "e",
+        "text": "Prísun správnych znalostí správnym ľuďom v správnom čase"
+      }
     ],
-    "correctAnswers": ["a"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ],
     "topic": "Manažment znalostí"
   },
   {
-    "id": 81,
-    "text": "Tacitné znalosti sú:",
-    "type": "single",
+    "id": 66,
+    "text": "Medzi špecifiká znalostí oproti ostatným podnikovým zdrojom patria:",
+    "type": "multiple",
     "options": [
-      {"id": "a", "text": "ľahko vyjadriteľné, dokumentovateľné a formalizovateľné"},
-      {"id": "b", "text": "uložené v ľudskej mysli, ťažko formalizovateľné"},
-      {"id": "c", "text": "uložené výlučne v databázach"},
-      {"id": "d", "text": "nelegálne získané znalosti"}
+      {
+        "id": "a",
+        "text": "sú nehmotné a ťažko merateľné"
+      },
+      {
+        "id": "b",
+        "text": "nie sú v procesoch spotrebovávané, niekedy naopak používaním rastú"
+      },
+      {
+        "id": "c",
+        "text": "majú veľkú šírku dopadu v organizáciách"
+      },
+      {
+        "id": "d",
+        "text": "nemôžu byť kúpené na trhu alebo burze"
+      },
+      {
+        "id": "e",
+        "text": "nie je možné ich priamo riadiť, riadi sa len prostredie a procesy"
+      },
+      {
+        "id": "f",
+        "text": "sú spotrebovávané rovnako ako materiál"
+      }
     ],
-    "correctAnswers": ["b"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
     "topic": "Manažment znalostí"
   },
   {
-    "id": 82,
+    "id": 67,
+    "text": "Model SECI navrhli:",
+    "type": "single",
+    "options": [
+      {
+        "id": "a",
+        "text": "Osterwalder a Pigneur (2010)"
+      },
+      {
+        "id": "b",
+        "text": "Nonaka a Takeuchi (1995) na základe prípadových štúdií v Japonsku"
+      },
+      {
+        "id": "c",
+        "text": "Kaplan a Norton (1992)"
+      },
+      {
+        "id": "d",
+        "text": "Petrash (1996)"
+      }
+    ],
+    "correctAnswers": [
+      "b"
+    ],
+    "topic": "Manažment znalostí"
+  },
+  {
+    "id": 68,
     "text": "Priraďte znalostné procesy modelu SECI k smeru transformácie znalostí:",
     "type": "matching",
     "options": [],
     "pairs": [
-      {"id": "p1", "left": "Socializácia", "right": "z tacitných na tacitné"},
-      {"id": "p2", "left": "Externalizácia", "right": "z tacitných na explicitné"},
-      {"id": "p3", "left": "Kombinácia", "right": "z explicitných na explicitné"},
-      {"id": "p4", "left": "Internalizácia", "right": "z explicitných na tacitné"}
+      {
+        "id": "p1",
+        "left": "Socializácia",
+        "right": "z nevyjadrených na nevyjadrené (tacit → tacit)"
+      },
+      {
+        "id": "p2",
+        "left": "Externalizácia",
+        "right": "z nevyjadrených na explicitné (tacit → explicit)"
+      },
+      {
+        "id": "p3",
+        "left": "Kombinácia",
+        "right": "z explicitných na explicitné (explicit → explicit)"
+      },
+      {
+        "id": "p4",
+        "left": "Internalizácia",
+        "right": "z explicitných na nevyjadrené (explicit → tacit)"
+      }
     ],
-    "correctAnswers": ["p1:z tacitných na tacitné", "p2:z tacitných na explicitné", "p3:z explicitných na explicitné", "p4:z explicitných na tacitné"],
+    "correctAnswers": [
+      "p1:z nevyjadrených na nevyjadrené (tacit → tacit)",
+      "p2:z nevyjadrených na explicitné (tacit → explicit)",
+      "p3:z explicitných na explicitné (explicit → explicit)",
+      "p4:z explicitných na nevyjadrené (explicit → tacit)"
+    ],
     "topic": "Manažment znalostí"
   },
   {
-    "id": 83,
-    "text": "Socializácia (zdieľanie skúseností, mentoring, „learning by doing\") sa typicky podporuje pomocou:",
+    "id": 69,
+    "text": "Socializácia (v modeli SECI) zahŕňa:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "MS Teams"},
-      {"id": "b", "text": "Slack"},
-      {"id": "c", "text": "video konferencií"},
-      {"id": "d", "text": "Excelu"},
-      {"id": "e", "text": "e-learningu (LMS)"}
+      {
+        "id": "a",
+        "text": "Prenos tacitných znalostí medzi ľuďmi cez spoločnú skúsenosť"
+      },
+      {
+        "id": "b",
+        "text": "Osobnú interakciu (spolupráca, mentoring)"
+      },
+      {
+        "id": "c",
+        "text": "Pozorovanie a napodobňovanie („learning by doing\")"
+      },
+      {
+        "id": "d",
+        "text": "Neformálne rozhovory a budovanie dôvery"
+      },
+      {
+        "id": "e",
+        "text": "Tvorbu detailnej technickej dokumentácie"
+      },
+      {
+        "id": "f",
+        "text": "Konsolidáciu dát z viacerých databáz"
+      }
     ],
-    "correctAnswers": ["a", "b", "c"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
     "topic": "Manažment znalostí"
   },
   {
-    "id": 84,
-    "text": "Externalizácia (prevod tacitných znalostí do explicitnej formy) sa najlepšie podporuje pomocou:",
+    "id": 70,
+    "text": "Externalizácia (v modeli SECI) zahŕňa:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "wiki"},
-      {"id": "b", "text": "SharePoint / Confluence"},
-      {"id": "c", "text": "GenAI nástrojov na zhrnutia"},
-      {"id": "d", "text": "antivírusového softvéru"},
-      {"id": "e", "text": "operačného systému"}
+      {
+        "id": "a",
+        "text": "Verbalizáciu skúseností"
+      },
+      {
+        "id": "b",
+        "text": "Zapisovanie postupov a pravidiel"
+      },
+      {
+        "id": "c",
+        "text": "Tvorbu dokumentácie, návodov, metodík („lessons learned\")"
+      },
+      {
+        "id": "d",
+        "text": "Diskusiu a formulovanie myšlienok"
+      },
+      {
+        "id": "e",
+        "text": "Sledovanie kolegu pri práci bez vlastnej účasti"
+      }
     ],
-    "correctAnswers": ["a", "b", "c"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
     "topic": "Manažment znalostí"
   },
   {
-    "id": 85,
-    "text": "Kombinácia (tvorba nových explicitných znalostí z existujúcich) sa podporuje pomocou:",
+    "id": 71,
+    "text": "Internalizácia (premena explicitných znalostí na nevyjadrené) sa v praxi podporuje pomocou:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "znalostných skladov"},
-      {"id": "b", "text": "BI nástrojov, Excel, Power BI"},
-      {"id": "c", "text": "GenAI nástrojov"},
-      {"id": "d", "text": "len ústnej komunikácie"},
-      {"id": "e", "text": "fyzických mítingov bez záznamu"}
+      {
+        "id": "a",
+        "text": "LMS (Learning Management Systems)"
+      },
+      {
+        "id": "b",
+        "text": "E-learningu a online kurzov"
+      },
+      {
+        "id": "c",
+        "text": "Dokumentácie a GenAI"
+      },
+      {
+        "id": "d",
+        "text": "Antivírusového softvéru"
+      },
+      {
+        "id": "e",
+        "text": "Účtovných modulov ERP"
+      }
     ],
-    "correctAnswers": ["a", "b", "c"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c"
+    ],
     "topic": "Manažment znalostí"
   },
   {
-    "id": 86,
-    "text": "Internalizácia (premena explicitných znalostí na tacitné, učenie sa) sa podporuje hlavne pomocou:",
+    "id": 72,
+    "text": "Aplikácia znalostí v organizácii prebieha prostredníctvom procesov:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "LMS (Learning Management Systems)"},
-      {"id": "b", "text": "e-learningu a online kurzov"},
-      {"id": "c", "text": "antivírusu"},
-      {"id": "d", "text": "ERP modulov pre účtovníctvo"}
+      {
+        "id": "a",
+        "text": "Rutiny – postupy, normy a pravidlá riadiace budúce správanie"
+      },
+      {
+        "id": "b",
+        "text": "Vedenie – osoba disponujúca znalosťami pomáha inej osobe pri vzdelávaní a riešení úloh"
+      },
+      {
+        "id": "c",
+        "text": "Externalizácia"
+      },
+      {
+        "id": "d",
+        "text": "Socializácia"
+      },
+      {
+        "id": "e",
+        "text": "Kombinácia"
+      }
     ],
-    "correctAnswers": ["a", "b"],
+    "correctAnswers": [
+      "a",
+      "b"
+    ],
     "topic": "Manažment znalostí"
   },
   {
-    "id": 87,
+    "id": 73,
     "text": "Priraďte typ znalostného skladu k spôsobu zberu a distribúcie znalostí:",
     "type": "matching",
     "options": [],
     "pairs": [
-      {"id": "p1", "left": "Znalostné podkrovie", "right": "pasívny zber, pasívna distribúcia"},
-      {"id": "p2", "left": "Znalostná špongia", "right": "aktívny zber, pasívna distribúcia"},
-      {"id": "p3", "left": "Znalostné vydavateľstvo", "right": "pasívny zber, aktívna distribúcia"},
-      {"id": "p4", "left": "Znalostná pumpa", "right": "aktívny zber, aktívna distribúcia"}
+      {
+        "id": "p1",
+        "left": "Znalostné podkrovie",
+        "right": "pasívny zber, pasívna distribúcia"
+      },
+      {
+        "id": "p2",
+        "left": "Znalostná špongia",
+        "right": "aktívny zber, pasívna distribúcia"
+      },
+      {
+        "id": "p3",
+        "left": "Znalostné vydavateľstvo",
+        "right": "pasívny zber, aktívna distribúcia"
+      },
+      {
+        "id": "p4",
+        "left": "Znalostná pumpa",
+        "right": "aktívny zber, aktívna distribúcia"
+      }
     ],
-    "correctAnswers": ["p1:pasívny zber, pasívna distribúcia", "p2:aktívny zber, pasívna distribúcia", "p3:pasívny zber, aktívna distribúcia", "p4:aktívny zber, aktívna distribúcia"],
+    "correctAnswers": [
+      "p1:pasívny zber, pasívna distribúcia",
+      "p2:aktívny zber, pasívna distribúcia",
+      "p3:pasívny zber, aktívna distribúcia",
+      "p4:aktívny zber, aktívna distribúcia"
+    ],
     "topic": "Manažment znalostí"
   },
   {
-    "id": 88,
-    "text": "Medzi základné znalostné procesy v organizácii patria:",
+    "id": 74,
+    "text": "Znalostná pumpa ako najzložitejší typ znalostného skladu:",
     "type": "multiple",
     "options": [
-      {"id": "a", "text": "Získavanie znalostí"},
-      {"id": "b", "text": "Zachytávanie znalostí"},
-      {"id": "c", "text": "Zdieľanie znalostí"},
-      {"id": "d", "text": "Aplikácia znalostí"},
-      {"id": "e", "text": "Marketingovanie znalostí"},
-      {"id": "f", "text": "Audit znalostí externou firmou"}
+      {
+        "id": "a",
+        "text": "stará sa o aktívny zber aj o aktívnu distribúciu ponaučení"
+      },
+      {
+        "id": "b",
+        "text": "manažment organizácie presadzuje efektívne fungovanie cyklu ponaučení"
+      },
+      {
+        "id": "c",
+        "text": "teoreticky zaručuje, že znalosti vyvinuté v organizácii sú plne využité"
+      },
+      {
+        "id": "d",
+        "text": "príkladom je Webocrat (2000 - 2003)"
+      },
+      {
+        "id": "e",
+        "text": "príkladom je KnowWeb (1998 - 2000)"
+      },
+      {
+        "id": "f",
+        "text": "má len pasívny zber znalostí"
+      }
     ],
-    "correctAnswers": ["a", "b", "c", "d"],
+    "correctAnswers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
     "topic": "Manažment znalostí"
   },
   {
-    "id": 89,
-    "text": "Pasívny vstup do znalostného skladu znamená, že:",
+    "id": 75,
+    "text": "KnowWeb (1998 - 2000) je príkladom:",
     "type": "single",
     "options": [
-      {"id": "a", "text": "zamestnanci sami vkladajú znalosti do systému"},
-      {"id": "b", "text": "špecializovaní pracovníci aktívne zbierajú znalosti z procesov"},
-      {"id": "c", "text": "systém získava znalosti len cez senzory IoT"},
-      {"id": "d", "text": "znalosti sa generujú výlučne umelou inteligenciou"}
+      {
+        "id": "a",
+        "text": "znalostnej špongie (aktívny zber, pasívna distribúcia)"
+      },
+      {
+        "id": "b",
+        "text": "znalostnej pumpy"
+      },
+      {
+        "id": "c",
+        "text": "znalostného podkrovia"
+      },
+      {
+        "id": "d",
+        "text": "ERP systému"
+      }
     ],
-    "correctAnswers": ["a"],
+    "correctAnswers": [
+      "a"
+    ],
     "topic": "Manažment znalostí"
-  },
-  {
-    "id": 90,
-    "text": "Systém KnowWeb vyvinutý na KKUI (1998–2000) je príkladom:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "znalostnej pumpy"},
-      {"id": "b", "text": "znalostnej špongie"},
-      {"id": "c", "text": "znalostného podkrovia"},
-      {"id": "d", "text": "ERP systému"}
-    ],
-    "correctAnswers": ["b"],
-    "topic": "Manažment znalostí"
-  },
-  {
-    "id": 91,
-    "text": "Systém Webocrat (2000–2003) je príkladom:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "znalostnej pumpy (aktívny zber aj aktívna distribúcia)"},
-      {"id": "b", "text": "znalostnej špongie"},
-      {"id": "c", "text": "transakčného systému (TPS)"},
-      {"id": "d", "text": "rozhodovacieho stromu"}
-    ],
-    "correctAnswers": ["a"],
-    "topic": "Manažment znalostí"
-  },
-  {
-    "id": 92,
-    "text": "Medzi špecifiká znalostí ako podnikových zdrojov patria:",
-    "type": "multiple",
-    "options": [
-      {"id": "a", "text": "sú nehmotné a ťažko merateľné"},
-      {"id": "b", "text": "nie sú spotrebovávané – používaním rastú"},
-      {"id": "c", "text": "majú veľkú šírku dopadu"},
-      {"id": "d", "text": "nedajú sa priamo riadiť, riadi sa len prostredie a procesy"},
-      {"id": "e", "text": "možno ich jednoducho kúpiť na trhu"},
-      {"id": "f", "text": "sú spotrebovávané rovnako ako materiál"}
-    ],
-    "correctAnswers": ["a", "b", "c", "d"],
-    "topic": "Manažment znalostí"
-  },
-  {
-    "id": 93,
-    "text": "Strategická mapa v rámci Balanced Scorecard zobrazuje:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "geografické rozloženie pobočiek firmy"},
-      {"id": "b", "text": "súvislosti príčina → dôsledok medzi jednotlivými perspektívami BSC"},
-      {"id": "c", "text": "konkurenčné firmy v odvetví"},
-      {"id": "d", "text": "rozpočet IT projektov"}
-    ],
-    "correctAnswers": ["b"],
-    "topic": "IT governance"
-  },
-  {
-    "id": 94,
-    "text": "Stratégia nízkych nákladov (low-cost leadership) je typická pre:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "Apple"},
-      {"id": "b", "text": "Walmart"},
-      {"id": "c", "text": "Tesla"},
-      {"id": "d", "text": "Netflix"}
-    ],
-    "correctAnswers": ["b"],
-    "topic": "IT stratégia"
-  },
-  {
-    "id": 95,
-    "text": "Diferenciačná stratégia (product differentiation) je typická pre:",
-    "type": "multiple",
-    "options": [
-      {"id": "a", "text": "Apple (iPod/iTunes)"},
-      {"id": "b", "text": "Netflix"},
-      {"id": "c", "text": "Tesla"},
-      {"id": "d", "text": "Spotify"},
-      {"id": "e", "text": "Walmart"}
-    ],
-    "correctAnswers": ["a", "b", "c", "d"],
-    "topic": "IT stratégia"
-  },
-  {
-    "id": 96,
-    "text": "URL adresa má všeobecnú štruktúru:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "protokol://server[:port][/cesta][?dopyt][#fragment]"},
-      {"id": "b", "text": "cesta://protokol[:server][?port]"},
-      {"id": "c", "text": "server@protokol/cesta"},
-      {"id": "d", "text": "fragment://server/protokol"}
-    ],
-    "correctAnswers": ["a"],
-    "topic": "Webové technológie"
-  },
-  {
-    "id": 97,
-    "text": "Klasifikácia (napr. „kúpi/nekúpi\") sa najčastejšie vizualizuje pomocou:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "lineárnej regresie"},
-      {"id": "b", "text": "rozhodovacieho stromu"},
-      {"id": "c", "text": "stĺpcového grafu"},
-      {"id": "d", "text": "asociačného pravidla"}
-    ],
-    "correctAnswers": ["b"],
-    "topic": "Dátová analytika"
-  },
-  {
-    "id": 98,
-    "text": "Marketingová úloha „komu predať nový produkt“ (úloha typu up-sell) sa rieši metódou:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "asociačné pravidlá"},
-      {"id": "b", "text": "zhlukovanie"},
-      {"id": "c", "text": "klasifikácia / predikcia (scoring)"},
-      {"id": "d", "text": "vizualizácia v Power BI"}
-    ],
-    "correctAnswers": ["c"],
-    "topic": "Dátová analytika"
-  },
-  {
-    "id": 99,
-    "text": "Príkladom internalizácie znalostí v IKT prostredí je:",
-    "type": "single",
-    "options": [
-      {"id": "a", "text": "videokonferencia s mentorom"},
-      {"id": "b", "text": "absolvovanie online kurzu na LMS platforme"},
-      {"id": "c", "text": "publikovanie reportu na wiki"},
-      {"id": "d", "text": "tvorba dashboardu v Power BI"}
-    ],
-    "correctAnswers": ["b"],
-    "topic": "Manažment znalostí"
-  },
-  {
-    "id": 100,
-    "text": "Medzi nové faktory konkurencie v digitálnej ekonomike patria:",
-    "type": "multiple",
-    "options": [
-      {"id": "a", "text": "digitálne platformy"},
-      {"id": "b", "text": "cloud computing"},
-      {"id": "c", "text": "dáta a analytika"},
-      {"id": "d", "text": "generatívna AI (GenAI)"},
-      {"id": "e", "text": "klasické tlačené noviny"},
-      {"id": "f", "text": "rádiový marketing"}
-    ],
-    "correctAnswers": ["a", "b", "c", "d"],
-    "topic": "IT stratégia"
   }
 ]
