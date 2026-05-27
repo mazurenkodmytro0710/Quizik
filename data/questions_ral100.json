@@ -306,5 +306,89 @@
     "correctAnswers": ["true"],
     "topic": "Úlohy s ohraničeniami",
     "explanation": "Pri viacárnych ohraničeniach sa používa hypergraf s dvomi typmi uzlov: premenné + ohraničenia."
+  },
+  {
+    "id": 23,
+    "text": "Kedy sa používajú kvalitatívne metódy prognózovania?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "Keď je potrebné veľa historických údajov"},
+      {"id": "b", "text": "Keď je potrebná prognóza rýchlo alebo keď nemáme dostatok informácií pre použitie kvantitatívnych metód"},
+      {"id": "c", "text": "Keď sú dostupné podrobné štatistické údaje"},
+      {"id": "d", "text": "Keď existuje dostatočný počet expertov"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Prognózovanie",
+    "explanation": "Kvalitatívne metódy sa uplatňujú pri nedostatku dát alebo keď je potrebná rýchla prognóza bez kvantitatívnych podkladov."
+  },
+  {
+    "id": 24,
+    "text": "Ktorá metóda nie je kvantitatívnou metódou prognózovania?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "Aritmetický priemer"},
+      {"id": "b", "text": "Klzavý priemer"},
+      {"id": "c", "text": "Vážený priemer"},
+      {"id": "d", "text": "Metóda expertnej oceny"}
+    ],
+    "correctAnswers": ["d"],
+    "topic": "Prognózovanie",
+    "explanation": "Metóda expertnej oceny je kvalitatívna metóda. Aritmetický, klzavý a vážený priemer sú kvantitatívne metódy."
+  },
+  {
+    "id": 25,
+    "text": "Aký typ modelu je lineárne programovanie?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "Stochastický, dynamický, technologický model"},
+      {"id": "b", "text": "Deterministický, statický, rozhodovací model"},
+      {"id": "c", "text": "Stochastický, statický, rozhodovací model"},
+      {"id": "d", "text": "Deterministický, dynamický, technologický model"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Lineárne programovanie",
+    "explanation": "LP je deterministický (žiadna náhoda), statický (jeden časový okamih) a rozhodovací (optimalizuje rozhodnutia) model."
+  },
+  {
+    "id": 26,
+    "text": "Čo charakterizuje model M4?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "Ako M3, ale zásoby dopĺňané vlastnou výrobou"},
+      {"id": "b", "text": "Ako M3, ale s prípustným nedostatkom pohotovej zásoby"},
+      {"id": "c", "text": "Ako M1, ale s diskrétnym dopytom"},
+      {"id": "d", "text": "Ako M2, so spojitým dopytom"}
+    ],
+    "correctAnswers": ["a"],
+    "topic": "Riadenie zásob",
+    "explanation": "M4 = ako M3 (deterministický, dynamický, spojitý dopyt), ale zásoby sa dopĺňajú vlastnou výrobou (výrobný EOQ model)."
+  },
+  {
+    "id": 27,
+    "text": "Čo charakterizuje model M5?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "Statický, stochastický, s diskrétnym dopytom"},
+      {"id": "b", "text": "Ako M3, ale s prípustným nedostatkom pohotovej zásoby"},
+      {"id": "c", "text": "Ako M1, ale so spojitým dopytom"},
+      {"id": "d", "text": "Dynamický, deterministický, s nepravidelným dopytom"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Riadenie zásob",
+    "explanation": "M5 = ako M3 (deterministický, dynamický, spojitý dopyt), ale s prípustným nedostatkom pohotovej zásoby (backorder model)."
+  },
+  {
+    "id": 28,
+    "text": "Aká je stratégia pre model M4?",
+    "type": "single",
+    "options": [
+      {"id": "a", "text": "(t, x)"},
+      {"id": "b", "text": "(s, x)"},
+      {"id": "c", "text": "(t, S)"},
+      {"id": "d", "text": "(s, S)"}
+    ],
+    "correctAnswers": ["b"],
+    "topic": "Riadenie zásob",
+    "explanation": "M4 používa stratégiu (s, x): objednaj pevné množstvo x, keď zásoby klesnú pod bod objednania s."
   }
 ]
