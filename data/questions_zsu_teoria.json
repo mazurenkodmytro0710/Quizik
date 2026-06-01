@@ -1,0 +1,918 @@
+[
+  {
+    "id": 1,
+    "text": "Aké druhy preferencií (biasu)?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Definicia ZSU (базові поняття)",
+    "explanation": "a. prehľadávací, d. reprezentačný"
+  },
+  {
+    "id": 2,
+    "text": "Algoritmy strojového učenia delíme na",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Definicia ZSU (базові поняття)",
+    "explanation": "c. inkrementálne/neinkrementálne, d. induktívne/deduktívne, e. kontrolované/nekontrolované"
+  },
+  {
+    "id": 3,
+    "text": "Učiace úlohy delíme na",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Definicia ZSU (базові поняття)",
+    "explanation": "b. klasifikačné a sekvenčné"
+  },
+  {
+    "id": 4,
+    "text": "Reprezentácie atribútov v trénovacej tabuľke",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Definicia ZSU (базові поняття)",
+    "explanation": "a. ordinárna, b. nominálna, c. hierarchická, d. binárna, e. numerická"
+  },
+  {
+    "id": 5,
+    "text": "Chyba hypotézy je pravdepodobnosť...",
+    "type": "truefalse",
+    "options": [
+      {
+        "id": "true",
+        "text": "Pravda"
+      },
+      {
+        "id": "false",
+        "text": "Nepravda"
+      }
+    ],
+    "correctAnswers": [
+      "true"
+    ],
+    "topic": "Definicia ZSU (базові поняття)",
+    "explanation": "Pravda"
+  },
+  {
+    "id": 6,
+    "text": "Najčastejšie miery hodnotenia klasifikácie",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Definicia ZSU (базові поняття)",
+    "explanation": "b. presnosť, d. návratnosť"
+  },
+  {
+    "id": 7,
+    "text": "Aké sú typy strojového učenia podľa typu dát?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Definicia ZSU (базові поняття)",
+    "explanation": "a. kontrolované, b. nekontrolované, c. posilňované"
+  },
+  {
+    "id": 8,
+    "text": "Čo je charakteristické pre \"strojové učenie\"?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Definicia ZSU (базові поняття)",
+    "explanation": "a. učiť sa zo skúseností, b. zlepšenie výkonu, c. rozlišovať rozdiely"
+  },
+  {
+    "id": 9,
+    "text": "Cieľ pri \"kontrolovanom učení\"",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Definicia ZSU (базові поняття)",
+    "explanation": "b. Predikcia výstupnej hodnoty na základe vstupnej"
+  },
+  {
+    "id": 10,
+    "text": "Aký typ algoritmu je vhodný pre \"online učenie\"?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Definicia ZSU (базові поняття)",
+    "explanation": "b. Inkrementálny algoritmus"
+  },
+  {
+    "id": 11,
+    "text": "Predikcia neoznačkovaných príkladov na presnosť",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Definicia ZSU (базові поняття)",
+    "explanation": "a. zvyšuje ju"
+  },
+  {
+    "id": 12,
+    "text": "Na generovanie pravdepodobnostného popisu",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Naïve Bayes",
+    "explanation": "a. Naivný Bayesov klasifikátor"
+  },
+  {
+    "id": 13,
+    "text": "Generovanie pravdepodobnostného pojmu je založené na",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Naïve Bayes",
+    "explanation": "a. Bayesovom teoréme"
+  },
+  {
+    "id": 14,
+    "text": "Pre Bayes-ov klasifikátor platí",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Naïve Bayes",
+    "explanation": "b. je jednoduchý, c. je menej presný"
+  },
+  {
+    "id": 15,
+    "text": "Definujte \"rozhodovací strom\"",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Rozhodovacie stromy",
+    "explanation": "a. acyklický graf, medziľahlý uzol = testovací atribút"
+  },
+  {
+    "id": 16,
+    "text": "Rozhodovacie stromy používajú reprezentáciu",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Rozhodovacie stromy",
+    "explanation": "b. intenzionálnej definície"
+  },
+  {
+    "id": 17,
+    "text": "Aké kritérium používa ID3?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Rozhodovacie stromy",
+    "explanation": "b. kritérium minimálnej entrópie"
+  },
+  {
+    "id": 18,
+    "text": "Ukončovacie kritérium ID3",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Rozhodovacie stromy",
+    "explanation": "a. listové uzly obsahujú iba príklady jednej triedy"
+  },
+  {
+    "id": 19,
+    "text": "Ktoré algoritmy generujú rozhodovacie stromy?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Rozhodovacie stromy",
+    "explanation": "a. C4.5, b. ID5R, d. ID3"
+  },
+  {
+    "id": 20,
+    "text": "Ktorým algoritmom je možné spracovávať spojité atribúty?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Rozhodovacie stromy",
+    "explanation": "b. C4.5"
+  },
+  {
+    "id": 21,
+    "text": "Tvrdenia o uzloch stromu",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Rozhodovacie stromy",
+    "explanation": "a. koreň = celá TM, c. medziľahlý = testovací atribút, e. list = trieda"
+  },
+  {
+    "id": 22,
+    "text": "Výsledky ktorých algoritmov je možné orezávať",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Rozhodovacie stromy",
+    "explanation": "a. rozhodovacie stromy pesimistickým, d. rozhodovacie stromy redukciou chyby"
+  },
+  {
+    "id": 23,
+    "text": "\"Overfitting\" v stromoch",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Rozhodovacie stromy",
+    "explanation": "a. Použitie irelevantných atribútov"
+  },
+  {
+    "id": 24,
+    "text": "Čo reprezentujú \"hrany\" v stromoch",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Rozhodovacie stromy",
+    "explanation": "c. Hodnoty testovacích atribútov"
+  },
+  {
+    "id": 25,
+    "text": "Aký algoritmus používa GINI index?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Rozhodovacie stromy",
+    "explanation": "c. CART"
+  },
+  {
+    "id": 26,
+    "text": "Entrópia rovnaký počet oboch tried = 1",
+    "type": "truefalse",
+    "options": [
+      {
+        "id": "true",
+        "text": "Pravda"
+      },
+      {
+        "id": "false",
+        "text": "Nepravda"
+      }
+    ],
+    "correctAnswers": [
+      "true"
+    ],
+    "topic": "Rozhodovacie stromy",
+    "explanation": "Pravda"
+  },
+  {
+    "id": 27,
+    "text": "Spojité atribúty - prístup",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Rozhodovacie stromy",
+    "explanation": "c. prahovaním hodnôt atribútu"
+  },
+  {
+    "id": 28,
+    "text": "Zložená klasifikácia + silné klasifikátory",
+    "type": "truefalse",
+    "options": [
+      {
+        "id": "true",
+        "text": "Pravda"
+      },
+      {
+        "id": "false",
+        "text": "Nepravda"
+      }
+    ],
+    "correctAnswers": [
+      "false"
+    ],
+    "topic": "Ensemble (zložená klasifikácia)",
+    "explanation": "Nepravda (používa SLABÉ)"
+  },
+  {
+    "id": 29,
+    "text": "Metóda Bagging je charakteristická",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Ensemble (zložená klasifikácia)",
+    "explanation": "d. hlasovaním slabých, e. nad výberom partikulárny klasifikátor"
+  },
+  {
+    "id": 30,
+    "text": "Medzi Bagging stratégie patria",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Ensemble (zložená klasifikácia)",
+    "explanation": "a. malé vrecia, b. disjunktné vrecia, c. malé vrecia bez opakovania, d. disjunktné partície"
+  },
+  {
+    "id": 31,
+    "text": "Regresná analýza sa používa na predikciu",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Regresná analýza",
+    "explanation": "a. presnej numerickej hodnoty"
+  },
+  {
+    "id": 32,
+    "text": "Optimalizačný algoritmus základ pre spätné šírenie",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Regresná analýza",
+    "explanation": "c. Gradient Descent"
+  },
+  {
+    "id": 33,
+    "text": "Lenivé učenie možno realizovať",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Lenivé učenie (kNN)",
+    "explanation": "b. algoritmom kNN"
+  },
+  {
+    "id": 34,
+    "text": "Lenivé učenie je založené na",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Lenivé učenie (kNN)",
+    "explanation": "b. extenzionálnej reprezentácii"
+  },
+  {
+    "id": 35,
+    "text": "Lenivé predstavuje funkcionálne učenie",
+    "type": "truefalse",
+    "options": [
+      {
+        "id": "true",
+        "text": "Pravda"
+      },
+      {
+        "id": "false",
+        "text": "Nepravda"
+      }
+    ],
+    "correctAnswers": [
+      "false"
+    ],
+    "topic": "Lenivé učenie (kNN)",
+    "explanation": "Nepravda"
+  },
+  {
+    "id": 36,
+    "text": "Čo je charakteristické pre lenivé učenie",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Lenivé učenie (kNN)",
+    "explanation": "a. extenzionálna, c. flexibilnejšia (odolnosť voči šumu), e. multitriedna"
+  },
+  {
+    "id": 37,
+    "text": "Algoritmus IWP generuje na výstupe",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Lineárna prahová jednotka (LTU, IWP, STU)",
+    "explanation": "c. lineárnu prahovú jednotku"
+  },
+  {
+    "id": 38,
+    "text": "Lineárna separabilnosť [1,2],[1,3] vs [2,1],[3,1] cez A1-A2=0",
+    "type": "truefalse",
+    "options": [
+      {
+        "id": "true",
+        "text": "Pravda"
+      },
+      {
+        "id": "false",
+        "text": "Nepravda"
+      }
+    ],
+    "correctAnswers": [
+      "true"
+    ],
+    "topic": "Lineárna prahová jednotka (LTU, IWP, STU)",
+    "explanation": "Pravda"
+  },
+  {
+    "id": 39,
+    "text": "Hranica sférickej prahovej jednotky",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Lineárna prahová jednotka (LTU, IWP, STU)",
+    "explanation": "a. kružnica, b. elipsa"
+  },
+  {
+    "id": 40,
+    "text": "Aké modely sú vhodné pre lineárne dáta?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Lineárna prahová jednotka (LTU, IWP, STU)",
+    "explanation": "b. LTU, c. lineárne SVM, d. lineárna regresia"
+  },
+  {
+    "id": 41,
+    "text": "Čo sa optimalizuje pri trénovaní SVM?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "SVM",
+    "explanation": "c. maximalizuje sa dĺžka rozpätia, d. Lagrange multiplikátory"
+  },
+  {
+    "id": 42,
+    "text": "Pri hľadaní okrajov rozpätia najdôležitejšie",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "SVM",
+    "explanation": "c. podporné vektory"
+  },
+  {
+    "id": 43,
+    "text": "Ak máme nelineárne dáta, aké SVM?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "SVM",
+    "explanation": "a. polynomiálny, b. RBF, d. sigmoidný, e. Gaussovský kernel"
+  },
+  {
+    "id": 44,
+    "text": "Medzi SVM patria",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "SVM",
+    "explanation": "a. klasifikátor s nelineárnou hranicou, b. regresný model, c. detekcia odľahlých hodnôt"
+  },
+  {
+    "id": 45,
+    "text": "Kernelové funkcie sa používajú v SVM, lebo",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "SVM",
+    "explanation": "b. transformujú dimenzionalitu, c. pridávajú novú dimenziu, d. zväčšujú dimenzionalitu"
+  },
+  {
+    "id": 46,
+    "text": "Každý blok GRU obsahuje brány",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Neurónové siete",
+    "explanation": "a. reset gate, d. update gate"
+  },
+  {
+    "id": 47,
+    "text": "Čo sú \"brány\" v LSTM/GRU?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Neurónové siete",
+    "explanation": "c. mechanizmy na reguláciu toku informácií"
+  },
+  {
+    "id": 48,
+    "text": "Aký problém riešia LSTM/GRU?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Neurónové siete",
+    "explanation": "b. miznúci gradient a krátkodobá pamäť"
+  },
+  {
+    "id": 49,
+    "text": "Ktoré brány typické pre LSTM?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Neurónové siete",
+    "explanation": "c. Vstupná, výstupná a zabúdacia"
+  },
+  {
+    "id": 50,
+    "text": "Na čo sa používajú CNN?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Neurónové siete",
+    "explanation": "c. obraz, NLP, časové sekvencie"
+  },
+  {
+    "id": 51,
+    "text": "Optimalizačné algoritmy pri NN",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Neurónové siete",
+    "explanation": "a. GD, b. Adam, c. Momentum, d. RMSProp, e. SGD"
+  },
+  {
+    "id": 52,
+    "text": "Klasifikácia textových dokumentov",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Bazove koncepty",
+    "explanation": "b. vektorová reprezentácia"
+  },
+  {
+    "id": 53,
+    "text": "Reprezentácie priestoru hypotéz (logické konjunkcie)",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Mezove",
+    "explanation": "Концепція \"priestor pojmov / príznakový priestor\" — може бути в Л1, але саме *логічні конюнкції* — швидше з курсу ML"
+  },
+  {
+    "id": 54,
+    "text": "V čom spočíva riziko prílišného zovšeobecnenia?",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Mezove",
+    "explanation": "Базовий концепт, відповідь: b. pokrytí negatívnych"
+  },
+  {
+    "id": 55,
+    "text": "Redukcia príznakového priestoru",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Mezove",
+    "explanation": "Пов'язано з ID3 (інформ. приріст), але \"слова стоп\" — текстова класифікація"
+  },
+  {
+    "id": 56,
+    "text": "Základné princípy klasifikačných algoritmov",
+    "type": "single",
+    "options": [
+      {
+        "id": "show",
+        "text": "Zobraziť odpoveď"
+      }
+    ],
+    "correctAnswers": [
+      "show"
+    ],
+    "topic": "Mezove",
+    "explanation": "Концепція \"delenie priestoru\" застосовна, але формулювання з ML курсу"
+  }
+]

@@ -4,9 +4,10 @@ import questionsNmData from "@/data/questions_nm.json";
 import questionsRal100Data from "@/data/questions_ral100.json";
 import questionsRalData from "@/data/questions_ral.json";
 import questionsUhiData from "@/data/questions_uhi.json";
+import questionsZsuTeoriaData from "@/data/questions_zsu_teoria.json";
 import { Question } from "./types";
 
-export type SubjectId = "zsu" | "nm" | "ral100" | "ral" | "uhi";
+export type SubjectId = "zsu" | "zsu-teoria" | "nm" | "ral100" | "ral" | "uhi";
 
 export interface QuizSubject {
   id: SubjectId;
@@ -28,6 +29,15 @@ export const getQuizSubjects = cache(async (): Promise<QuizSubject[]> => {
       icon: "🛡️",
       accent: "violet",
       questions: questionsData as Question[],
+    },
+    {
+      id: "zsu-teoria",
+      title: "ZSU teoria",
+      subtitle: "Skuska teoria",
+      description: "Karticky z filtrovaneho ZSU teoria setu.",
+      icon: "ZT",
+      accent: "sky",
+      questions: questionsZsuTeoriaData as Question[],
     },
     {
       id: "nm",
